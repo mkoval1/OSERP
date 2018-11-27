@@ -1,0 +1,944 @@
+IDEMPIERE-3760,Improvement,Closed,Fixed,24/07/18,25/07/18
+IDEMPIERE-3755,Improvement,Closed,Won't Fix,20/07/18,23/07/18
+IDEMPIERE-3753,Improvement,Closed,Fixed,20/07/18,24/07/18
+IDEMPIERE-3750,New Feature,Closed,Won't Fix,18/07/18,19/07/18
+IDEMPIERE-3747,New Feature,Closed,Fixed,16/07/18,16/07/18
+IDEMPIERE-3746,New Feature,Closed,Fixed,16/07/18,16/07/18
+IDEMPIERE-3730,Improvement,Closed,Duplicate,18/06/18,18/06/18
+IDEMPIERE-3726,Improvement,Closed,Fixed,05/06/18,06/06/18
+IDEMPIERE-3723,New Feature,Closed,Won't Fix,29/05/18,06/06/18
+IDEMPIERE-3719,New Feature,Closed,Fixed,25/05/18,09/07/18
+IDEMPIERE-3716,Improvement,Closed,Fixed,22/05/18,26/05/18
+IDEMPIERE-3715,Improvement,Closed,Fixed,16/05/18,17/05/18
+IDEMPIERE-3711,New Feature,Closed,Cannot Reproduce,10/05/18,15/05/18
+IDEMPIERE-3709,Improvement,Closed,Fixed,08/05/18,09/05/18
+IDEMPIERE-3705,Improvement,Closed,Fixed,03/05/18,03/05/18
+IDEMPIERE-3703,Improvement,Closed,Fixed,02/05/18,02/05/18
+IDEMPIERE-3702,Improvement,Closed,Fixed,02/05/18,02/05/18
+IDEMPIERE-3698,Improvement,Closed,Fixed,26/04/18,27/04/18
+IDEMPIERE-3696,New Feature,Closed,Fixed,24/04/18,22/05/18
+IDEMPIERE-3691,New Feature,Closed,Fixed,17/04/18,17/04/18
+IDEMPIERE-3688,Improvement,Closed,Fixed,15/04/18,19/04/18
+IDEMPIERE-3671,Improvement,Closed,Duplicate,28/03/18,09/04/18
+IDEMPIERE-3666,Improvement,Closed,Fixed,23/03/18,25/03/18
+IDEMPIERE-3663,Improvement,Closed,Fixed,20/03/18,20/03/18
+IDEMPIERE-3660,Improvement,Closed,Fixed,15/03/18,16/03/18
+IDEMPIERE-3655,Improvement,Closed,Fixed,14/03/18,14/03/18
+IDEMPIERE-3653,Improvement,Closed,Fixed,13/03/18,13/03/18
+IDEMPIERE-3640,Improvement,Closed,Fixed,15/02/18,16/02/18
+IDEMPIERE-3639,New Feature,Closed,Fixed,15/02/18,24/02/18
+IDEMPIERE-3635,Improvement,Closed,Fixed,08/02/18,09/02/18
+IDEMPIERE-3629,New Feature,Closed,Fixed,26/01/18,26/01/18
+IDEMPIERE-3627,New Feature,Closed,Fixed,22/01/18,22/01/18
+IDEMPIERE-3625,Improvement,Closed,Fixed,20/01/18,16/05/18
+IDEMPIERE-3618,Improvement,Closed,Fixed,16/01/18,21/06/18
+IDEMPIERE-3614,Improvement,Closed,Fixed,14/01/18,16/01/18
+IDEMPIERE-3605,New Feature,Closed,Duplicate,07/01/18,11/01/18
+IDEMPIERE-3601,Improvement,Closed,Duplicate,07/01/18,08/01/18
+IDEMPIERE-3599,Improvement,Closed,Fixed,06/01/18,14/06/18
+IDEMPIERE-3592,Improvement,Closed,Fixed,29/12/17,05/03/18
+IDEMPIERE-3589,New Feature,Closed,Fixed,29/12/17,11/01/18
+IDEMPIERE-3586,New Feature,Closed,Fixed,21/12/17,19/01/18
+IDEMPIERE-3580,Improvement,Closed,Fixed,16/12/17,19/01/18
+IDEMPIERE-3578,Improvement,Closed,Fixed,11/12/17,12/12/17
+IDEMPIERE-3577,Improvement,Closed,Fixed,09/12/17,11/12/17
+IDEMPIERE-3570,Improvement,Closed,Fixed,27/11/17,03/12/17
+IDEMPIERE-3564,Improvement,Closed,Fixed,20/11/17,23/11/17
+IDEMPIERE-3563,Improvement,Closed,Fixed,15/11/17,19/11/17
+IDEMPIERE-3555,New Feature,Closed,Fixed,10/11/17,23/11/17
+IDEMPIERE-3552,Improvement,Closed,Fixed,09/11/17,18/05/18
+IDEMPIERE-3551,Improvement,Closed,Fixed,08/11/17,18/11/17
+IDEMPIERE-3549,Improvement,Closed,Fixed,07/11/17,16/11/17
+IDEMPIERE-3548,Improvement,Closed,Won't Fix,07/11/17,07/11/17
+IDEMPIERE-3546,Improvement,Closed,Fixed,06/11/17,08/11/17
+IDEMPIERE-3537,Improvement,Closed,Fixed,02/11/17,15/11/17
+IDEMPIERE-3535,Improvement,Closed,Fixed,02/11/17,05/04/18
+IDEMPIERE-3533,New Feature,Closed,Won't Fix,27/10/17,17/11/17
+IDEMPIERE-3532,Improvement,Closed,Fixed,27/10/17,08/11/17
+IDEMPIERE-3531,New Feature,Closed,Fixed,27/10/17,14/04/18
+IDEMPIERE-3530,Improvement,Closed,Fixed,26/10/17,13/11/17
+IDEMPIERE-3529,Improvement,Closed,Fixed,23/10/17,12/01/18
+IDEMPIERE-3528,Improvement,Closed,Fixed,23/10/17,23/10/17
+IDEMPIERE-3525,Improvement,Closed,Fixed,19/10/17,05/03/18
+IDEMPIERE-3520,Improvement,Closed,Fixed,13/10/17,13/10/17
+IDEMPIERE-3518,Improvement,Closed,Fixed,12/10/17,23/10/17
+IDEMPIERE-3516,Improvement,Closed,Fixed,11/10/17,11/10/17
+IDEMPIERE-3510,Improvement,Closed,Fixed,03/10/17,21/10/17
+IDEMPIERE-3508,Improvement,Closed,Fixed,28/09/17,22/10/17
+IDEMPIERE-3501,Improvement,Closed,Duplicate,23/09/17,25/09/17
+IDEMPIERE-3500,Improvement,Closed,Won't Fix,23/09/17,06/12/17
+IDEMPIERE-3492,Improvement,Closed,Won't Fix,18/09/17,08/10/17
+IDEMPIERE-3490,Improvement,Closed,Won't Fix,15/09/17,16/09/17
+IDEMPIERE-3488,Improvement,Closed,Fixed,14/09/17,14/09/17
+IDEMPIERE-3487,Improvement,Closed,Won't Fix,13/09/17,11/07/18
+IDEMPIERE-3486,Improvement,Closed,Fixed,13/09/17,08/11/17
+IDEMPIERE-3484,Improvement,Closed,Fixed,13/09/17,13/09/17
+IDEMPIERE-3482,Improvement,Closed,Incomplete,12/09/17,11/07/18
+IDEMPIERE-3477,Improvement,Closed,Fixed,07/09/17,08/09/17
+IDEMPIERE-3471,Improvement,Closed,Fixed,06/09/17,08/09/17
+IDEMPIERE-3469,Improvement,Closed,Fixed,02/09/17,08/09/17
+IDEMPIERE-3465,Improvement,Closed,Fixed,30/08/17,30/08/17
+IDEMPIERE-3461,Improvement,Closed,Fixed,28/08/17,18/09/17
+IDEMPIERE-3460,Improvement,Closed,Fixed,28/08/17,29/08/17
+IDEMPIERE-3454,Improvement,Closed,Fixed,13/08/17,26/08/17
+IDEMPIERE-3446,Improvement,Closed,Fixed,07/08/17,10/08/17
+IDEMPIERE-3440,Improvement,Closed,Fixed,31/07/17,26/08/17
+IDEMPIERE-3439,Improvement,Closed,Fixed,28/07/17,28/07/17
+IDEMPIERE-3438,Improvement,Closed,Fixed,27/07/17,28/07/17
+IDEMPIERE-3433,Improvement,Closed,Fixed,21/07/17,21/07/17
+IDEMPIERE-3431,Improvement,Closed,Fixed,20/07/17,12/09/17
+IDEMPIERE-3426,New Feature,Closed,Fixed,10/07/17,21/07/17
+IDEMPIERE-3422,Improvement,Closed,Fixed,04/07/17,04/07/17
+IDEMPIERE-3416,Improvement,Closed,Fixed,30/06/17,30/06/17
+IDEMPIERE-3409,Improvement,Closed,Fixed,24/06/17,24/06/17
+IDEMPIERE-3407,Improvement,Closed,Duplicate,23/06/17,15/09/17
+IDEMPIERE-3405,Improvement,Closed,Fixed,22/06/17,26/06/17
+IDEMPIERE-3404,Improvement,Closed,Duplicate,21/06/17,02/09/17
+IDEMPIERE-3403,Improvement,Closed,Fixed,21/06/17,21/06/17
+IDEMPIERE-3396,Improvement,Closed,Fixed,14/06/17,27/08/17
+IDEMPIERE-3394,Improvement,Closed,Fixed,13/06/17,13/06/17
+IDEMPIERE-3388,Improvement,Closed,Fixed,05/06/17,08/06/17
+IDEMPIERE-3378,Improvement,Closed,Fixed,28/05/17,25/08/17
+IDEMPIERE-3377,Improvement,Closed,Fixed,27/05/17,27/08/17
+IDEMPIERE-3375,Improvement,Closed,Fixed,25/05/17,25/08/17
+IDEMPIERE-3373,Improvement,Closed,Won't Fix,24/05/17,24/05/17
+IDEMPIERE-3368,Improvement,Closed,Fixed,21/05/17,27/05/17
+IDEMPIERE-3363,Improvement,Closed,Fixed,18/05/17,19/05/17
+IDEMPIERE-3360,Improvement,Closed,Fixed,04/05/17,04/07/17
+IDEMPIERE-3356,Improvement,Closed,Won't Fix,28/04/17,29/04/17
+IDEMPIERE-3355,Improvement,Closed,Fixed,27/04/17,15/06/17
+IDEMPIERE-3354,Improvement,Closed,Fixed,25/04/17,21/10/17
+IDEMPIERE-3353,Improvement,Closed,Fixed,25/04/17,05/11/17
+IDEMPIERE-3352,Improvement,Closed,Fixed,24/04/17,04/07/17
+IDEMPIERE-3338,New Feature,Closed,Fixed,11/04/17,12/04/17
+IDEMPIERE-3328,Improvement,Closed,Fixed,31/03/17,03/05/17
+IDEMPIERE-3321,New Feature,Closed,Fixed,29/03/17,22/01/18
+IDEMPIERE-3312,Improvement,Closed,Fixed,09/03/17,25/03/17
+IDEMPIERE-3304,Improvement,Closed,Fixed,22/02/17,22/04/17
+IDEMPIERE-3303,Improvement,Closed,Fixed,22/02/17,22/02/17
+IDEMPIERE-3302,Improvement,Closed,Fixed,17/02/17,21/02/17
+IDEMPIERE-3301,Improvement,Closed,Fixed,16/02/17,08/03/17
+IDEMPIERE-3292,Improvement,Closed,Fixed,02/02/17,08/04/17
+IDEMPIERE-3291,Improvement,Closed,Fixed,01/02/17,14/02/17
+IDEMPIERE-3290,Improvement,Closed,Fixed,31/01/17,08/04/17
+IDEMPIERE-3289,Improvement,Closed,Fixed,31/01/17,14/02/17
+IDEMPIERE-3286,Improvement,Closed,Fixed,20/01/17,21/10/17
+IDEMPIERE-3284,Improvement,Closed,Fixed,16/01/17,16/01/17
+IDEMPIERE-3279,Improvement,Closed,Fixed,13/01/17,13/01/17
+IDEMPIERE-3270,New Feature,Closed,Fixed,15/12/16,15/12/16
+IDEMPIERE-3269,New Feature,Closed,Fixed,15/12/16,15/12/16
+IDEMPIERE-3263,Improvement,Closed,Fixed,14/12/16,15/12/16
+IDEMPIERE-3259,Improvement,Closed,Fixed,13/12/16,13/12/16
+IDEMPIERE-3254,Improvement,Closed,Won't Fix,11/12/16,11/12/16
+IDEMPIERE-3221,Improvement,Closed,Fixed,15/10/16,15/10/16
+IDEMPIERE-3192,Improvement,Closed,Fixed,16/09/16,22/09/16
+IDEMPIERE-3191,Improvement,Closed,Fixed,15/09/16,14/10/16
+IDEMPIERE-3190,Improvement,Closed,Fixed,09/09/16,05/10/16
+IDEMPIERE-3179,Improvement,Closed,Fixed,03/09/16,29/09/16
+IDEMPIERE-3169,Improvement,Closed,Fixed,31/08/16,07/06/18
+IDEMPIERE-3166,Improvement,Closed,Incomplete,28/08/16,11/07/18
+IDEMPIERE-3162,Improvement,Closed,Fixed,17/08/16,24/08/16
+IDEMPIERE-3157,Improvement,Closed,Fixed,10/08/16,10/08/16
+IDEMPIERE-3153,Improvement,Closed,Fixed,07/08/16,07/08/16
+IDEMPIERE-3147,Improvement,Closed,Fixed,03/08/16,18/01/17
+IDEMPIERE-3144,Improvement,Closed,Duplicate,31/07/16,19/08/16
+IDEMPIERE-3139,Improvement,Closed,Fixed,15/07/16,06/08/16
+IDEMPIERE-3137,Improvement,Closed,Fixed,08/07/16,08/07/16
+IDEMPIERE-3136,Improvement,Closed,Fixed,06/07/16,18/02/17
+IDEMPIERE-3134,Improvement,Closed,Duplicate,05/07/16,06/07/16
+IDEMPIERE-3127,Improvement,Closed,Duplicate,13/06/16,13/06/16
+IDEMPIERE-3123,Improvement,Closed,Incomplete,06/06/16,06/06/16
+IDEMPIERE-3121,Improvement,Closed,Won't Fix,03/06/16,06/08/16
+IDEMPIERE-3118,Improvement,Closed,Fixed,30/05/16,10/06/16
+IDEMPIERE-3116,New Feature,Closed,Incomplete,30/05/16,30/05/16
+IDEMPIERE-3115,Improvement,Closed,Fixed,29/05/16,30/05/16
+IDEMPIERE-3109,Improvement,Closed,Cannot Reproduce,20/05/16,30/05/16
+IDEMPIERE-3104,Improvement,Closed,Fixed,16/05/16,28/11/16
+IDEMPIERE-3103,Improvement,Closed,Duplicate,15/05/16,08/07/16
+IDEMPIERE-3096,Improvement,Closed,Fixed,12/05/16,24/10/17
+IDEMPIERE-3092,Improvement,Closed,Duplicate,06/05/16,06/05/16
+IDEMPIERE-3090,Improvement,Closed,Fixed,05/05/16,05/05/16
+IDEMPIERE-3073,Improvement,Closed,Fixed,17/04/16,30/05/16
+IDEMPIERE-3067,Improvement,Closed,Fixed,03/04/16,08/05/16
+IDEMPIERE-3060,Improvement,Closed,Duplicate,24/03/16,06/07/16
+IDEMPIERE-3058,Improvement,Closed,Fixed,22/03/16,06/04/16
+IDEMPIERE-3057,New Feature,Closed,Fixed,22/03/16,22/03/16
+IDEMPIERE-3039,Improvement,Closed,Fixed,25/02/16,18/01/17
+IDEMPIERE-3034,Improvement,Closed,Incomplete,19/02/16,27/07/18
+IDEMPIERE-3032,Improvement,Closed,Fixed,17/02/16,17/02/16
+IDEMPIERE-3022,Improvement,Closed,Fixed,01/02/16,03/02/16
+IDEMPIERE-3021,Improvement,Closed,Won't Fix,31/01/16,17/02/16
+IDEMPIERE-3020,Improvement,Closed,Fixed,30/01/16,17/02/16
+IDEMPIERE-3018,Improvement,Closed,Won't Fix,29/01/16,24/07/18
+IDEMPIERE-3010,Improvement,Closed,Won't Fix,22/01/16,30/05/16
+IDEMPIERE-3008,Improvement,Closed,Fixed,20/01/16,20/01/16
+IDEMPIERE-3005,Improvement,Closed,Fixed,19/01/16,03/02/16
+IDEMPIERE-3003,Improvement,Closed,Fixed,15/01/16,20/01/16
+IDEMPIERE-3000,New Feature,Closed,Fixed,11/01/16,14/10/16
+IDEMPIERE-2990,Improvement,Closed,Fixed,05/01/16,29/04/16
+IDEMPIERE-2987,Improvement,Closed,Duplicate,28/12/15,25/10/17
+IDEMPIERE-2985,Improvement,Closed,Fixed,23/12/15,20/01/16
+IDEMPIERE-2974,Improvement,Closed,Duplicate,13/12/15,06/07/16
+IDEMPIERE-2973,Improvement,Closed,Fixed,12/12/15,12/12/15
+IDEMPIERE-2970,New Feature,Closed,Fixed,10/12/15,06/11/17
+IDEMPIERE-2969,Improvement,Closed,Fixed,10/12/15,17/05/16
+IDEMPIERE-2968,Improvement,Closed,Won't Fix,10/12/15,25/12/15
+IDEMPIERE-2966,Improvement,Closed,Fixed,09/12/15,06/07/16
+IDEMPIERE-2961,Improvement,Closed,Fixed,06/12/15,06/12/15
+IDEMPIERE-2951,Improvement,Closed,Fixed,25/11/15,08/08/16
+IDEMPIERE-2947,Improvement,Closed,Fixed,17/11/15,12/12/15
+IDEMPIERE-2944,Improvement,Closed,Fixed,16/11/15,09/07/18
+IDEMPIERE-2940,Improvement,Closed,Fixed,13/11/15,18/11/15
+IDEMPIERE-2932,Improvement,Closed,Fixed,09/11/15,11/11/15
+IDEMPIERE-2928,Improvement,Closed,Fixed,07/11/15,11/11/15
+IDEMPIERE-2915,Improvement,Closed,Won't Fix,28/10/15,28/10/15
+IDEMPIERE-2908,Improvement,Closed,Fixed,25/10/15,25/10/15
+IDEMPIERE-2907,Improvement,Closed,Fixed,22/10/15,18/03/16
+IDEMPIERE-2906,Improvement,Closed,Fixed,22/10/15,23/10/15
+IDEMPIERE-2898,Improvement,Closed,Fixed,21/10/15,22/10/15
+IDEMPIERE-2897,Improvement,Closed,Fixed,21/10/15,23/10/15
+IDEMPIERE-2896,Improvement,Closed,Fixed,21/10/15,22/10/15
+IDEMPIERE-2895,Improvement,Closed,Fixed,21/10/15,22/10/15
+IDEMPIERE-2894,Improvement,Closed,Fixed,21/10/15,21/10/15
+IDEMPIERE-2892,Improvement,Closed,Fixed,19/10/15,21/10/15
+IDEMPIERE-2879,Improvement,Closed,Fixed,06/10/15,12/12/15
+IDEMPIERE-2878,Improvement,Closed,Fixed,05/10/15,07/10/15
+IDEMPIERE-2877,Improvement,Closed,Fixed,05/10/15,13/10/17
+IDEMPIERE-2875,Improvement,Closed,Fixed,02/10/15,02/10/15
+IDEMPIERE-2871,Improvement,Closed,Fixed,30/09/15,01/10/15
+IDEMPIERE-2868,Improvement,Closed,Fixed,28/09/15,25/10/15
+IDEMPIERE-2857,Improvement,Closed,Fixed,17/09/15,09/07/18
+IDEMPIERE-2852,Improvement,Closed,Fixed,15/09/15,02/05/18
+IDEMPIERE-2841,Improvement,Closed,Duplicate,15/09/15,20/06/18
+IDEMPIERE-2839,Improvement,Closed,Duplicate,15/09/15,15/10/15
+IDEMPIERE-2825,Improvement,Closed,Fixed,15/09/15,01/05/18
+IDEMPIERE-2822,Improvement,Closed,Duplicate,15/09/15,16/09/15
+IDEMPIERE-2812,Improvement,Closed,Fixed,15/09/15,07/12/15
+IDEMPIERE-2811,Improvement,Closed,Fixed,15/09/15,27/01/16
+IDEMPIERE-2792,Improvement,Closed,Fixed,26/08/15,26/08/15
+IDEMPIERE-2782,Improvement,Closed,Duplicate,22/08/15,06/07/16
+IDEMPIERE-2780,Improvement,Closed,Fixed,21/08/15,26/08/15
+IDEMPIERE-2778,Improvement,Closed,Fixed,20/08/15,01/08/16
+IDEMPIERE-2775,Improvement,Closed,Fixed,18/08/15,18/08/15
+IDEMPIERE-2771,Improvement,Closed,Fixed,13/08/15,19/08/15
+IDEMPIERE-2755,Improvement,Closed,Fixed,05/08/15,12/08/15
+IDEMPIERE-2751,Improvement,Closed,Fixed,03/08/15,19/08/15
+IDEMPIERE-2744,New Feature,Closed,Fixed,29/07/15,29/07/15
+IDEMPIERE-2741,Improvement,Closed,Won't Fix,28/07/15,28/07/15
+IDEMPIERE-2736,Improvement,Closed,Fixed,19/07/15,28/07/15
+IDEMPIERE-2732,Improvement,Closed,Fixed,17/07/15,16/09/15
+IDEMPIERE-2731,Improvement,Closed,Fixed,17/07/15,22/07/15
+IDEMPIERE-2716,Improvement,Closed,Fixed,07/07/15,12/12/15
+IDEMPIERE-2714,Improvement,Closed,Fixed,06/07/15,28/07/15
+IDEMPIERE-2712,Improvement,Closed,Fixed,05/07/15,03/10/16
+IDEMPIERE-2704,Improvement,Closed,Duplicate,30/06/15,01/07/15
+IDEMPIERE-2702,Improvement,Closed,Won't Fix,28/06/15,01/07/15
+IDEMPIERE-2699,Improvement,Closed,Fixed,25/06/15,25/06/15
+IDEMPIERE-2698,Improvement,Closed,Fixed,25/06/15,25/06/15
+IDEMPIERE-2694,Improvement,Closed,Duplicate,23/06/15,06/07/16
+IDEMPIERE-2688,Improvement,Closed,Fixed,18/06/15,01/07/15
+IDEMPIERE-2685,Improvement,Closed,Fixed,16/06/15,17/06/15
+IDEMPIERE-2679,Improvement,Closed,Fixed,13/06/15,08/07/15
+IDEMPIERE-2678,Improvement,Closed,Fixed,13/06/15,17/06/15
+IDEMPIERE-2675,Improvement,Closed,Fixed,12/06/15,20/03/16
+IDEMPIERE-2671,Improvement,Closed,Fixed,10/06/15,01/07/15
+IDEMPIERE-2668,Improvement,Closed,Fixed,09/06/15,12/06/15
+IDEMPIERE-2653,Improvement,Closed,Won't Fix,29/05/15,18/06/15
+IDEMPIERE-2640,Improvement,Closed,Fixed,23/05/15,06/12/15
+IDEMPIERE-2631,Improvement,Closed,Fixed,19/05/15,20/05/15
+IDEMPIERE-2630,Improvement,Closed,Fixed,19/05/15,20/05/15
+IDEMPIERE-2623,Improvement,Closed,Fixed,15/05/15,15/05/15
+IDEMPIERE-2607,Improvement,Closed,Fixed,01/05/15,06/05/15
+IDEMPIERE-2605,Improvement,Closed,Fixed,29/04/15,13/05/15
+IDEMPIERE-2604,Improvement,Closed,Fixed,29/04/15,06/05/15
+IDEMPIERE-2594,Improvement,Closed,Fixed,23/04/15,20/05/15
+IDEMPIERE-2582,Improvement,Closed,Duplicate,17/04/15,17/04/15
+IDEMPIERE-2558,Improvement,Closed,Fixed,04/04/15,17/04/15
+IDEMPIERE-2556,Improvement,Closed,Fixed,01/04/15,24/04/15
+IDEMPIERE-2554,New Feature,Closed,Fixed,01/04/15,08/04/15
+IDEMPIERE-2553,Improvement,Closed,Fixed,01/04/15,27/04/15
+IDEMPIERE-2548,Improvement,Closed,Fixed,31/03/15,01/04/15
+IDEMPIERE-2544,Improvement,Closed,Fixed,28/03/15,03/12/17
+IDEMPIERE-2518,Improvement,Closed,Fixed,12/03/15,05/05/16
+IDEMPIERE-2516,Improvement,Closed,Fixed,12/03/15,18/03/15
+IDEMPIERE-2503,Improvement,Closed,Fixed,06/03/15,08/03/15
+IDEMPIERE-2497,Improvement,Closed,Incomplete,03/03/15,24/03/15
+IDEMPIERE-2493,Improvement,Closed,Duplicate,02/03/15,27/07/18
+IDEMPIERE-2491,Improvement,Closed,Won't Fix,28/02/15,08/12/15
+IDEMPIERE-2489,Improvement,Closed,Fixed,27/02/15,05/03/15
+IDEMPIERE-2488,Improvement,Closed,Fixed,27/02/15,19/08/15
+IDEMPIERE-2485,Improvement,Closed,Fixed,26/02/15,04/03/15
+IDEMPIERE-2478,Improvement,Closed,Duplicate,24/02/15,20/03/15
+IDEMPIERE-2477,Improvement,Closed,Fixed,23/02/15,25/02/15
+IDEMPIERE-2473,Improvement,Closed,Incomplete,17/02/15,27/07/18
+IDEMPIERE-2470,Improvement,Closed,Fixed,16/02/15,19/08/15
+IDEMPIERE-2465,Improvement,Closed,Won't Fix,11/02/15,21/02/15
+IDEMPIERE-2461,Improvement,Closed,Fixed,10/02/15,26/08/15
+IDEMPIERE-2450,Improvement,Closed,Fixed,04/02/15,25/02/15
+IDEMPIERE-2448,Improvement,Closed,Fixed,04/02/15,04/02/15
+IDEMPIERE-2430,Improvement,Closed,Fixed,30/01/15,04/02/15
+IDEMPIERE-2427,Improvement,Closed,Fixed,29/01/15,25/02/15
+IDEMPIERE-2416,Improvement,Closed,Fixed,21/01/15,04/02/15
+IDEMPIERE-2412,Improvement,Closed,Fixed,19/01/15,04/02/15
+IDEMPIERE-2411,Improvement,Closed,Fixed,19/01/15,20/05/15
+IDEMPIERE-2410,Improvement,Closed,Fixed,19/01/15,04/02/15
+IDEMPIERE-2409,Improvement,Closed,Fixed,17/01/15,17/01/15
+IDEMPIERE-2405,Improvement,Closed,Fixed,16/01/15,16/01/15
+IDEMPIERE-2404,Improvement,Closed,Fixed,16/01/15,16/01/15
+IDEMPIERE-2399,New Feature,Closed,Won't Fix,13/01/15,27/07/18
+IDEMPIERE-2389,New Feature,Closed,Fixed,08/01/15,17/04/15
+IDEMPIERE-2388,Improvement,Closed,Incomplete,07/01/15,27/07/18
+IDEMPIERE-2387,Improvement,Closed,Won't Fix,07/01/15,07/01/15
+IDEMPIERE-2383,Improvement,Closed,Won't Fix,05/01/15,27/07/18
+IDEMPIERE-2378,Improvement,Closed,Fixed,29/12/14,29/12/14
+IDEMPIERE-2370,Improvement,Closed,Fixed,23/12/14,23/12/14
+IDEMPIERE-2367,Improvement,Closed,Fixed,21/12/14,19/08/15
+IDEMPIERE-2361,Improvement,Closed,Fixed,12/12/14,12/12/15
+IDEMPIERE-2360,Improvement,Closed,Incomplete,12/12/14,04/03/15
+IDEMPIERE-2356,Improvement,Closed,Fixed,08/12/14,10/12/14
+IDEMPIERE-2355,Improvement,Closed,Fixed,05/12/14,17/12/14
+IDEMPIERE-2353,Improvement,Closed,Fixed,04/12/14,08/09/17
+IDEMPIERE-2352,Improvement,Closed,Fixed,03/12/14,04/12/14
+IDEMPIERE-2350,Improvement,Closed,Fixed,03/12/14,03/12/14
+IDEMPIERE-2338,Improvement,Closed,Duplicate,25/11/14,27/07/18
+IDEMPIERE-2335,Improvement,Closed,Fixed,24/11/14,24/11/14
+IDEMPIERE-2334,Improvement,Closed,Fixed,24/11/14,25/11/14
+IDEMPIERE-2331,Improvement,Closed,Fixed,22/11/14,22/11/14
+IDEMPIERE-2327,Improvement,Closed,Fixed,19/11/14,16/04/15
+IDEMPIERE-2320,New Feature,Closed,Incomplete,17/11/14,27/07/18
+IDEMPIERE-2317,Improvement,Closed,Fixed,15/11/14,17/12/14
+IDEMPIERE-2314,Improvement,Closed,Fixed,14/11/14,26/08/15
+IDEMPIERE-2310,Improvement,Closed,Fixed,12/11/14,23/07/18
+IDEMPIERE-2308,Improvement,Closed,Incomplete,08/11/14,27/07/18
+IDEMPIERE-2297,Improvement,Closed,Fixed,03/11/14,05/11/14
+IDEMPIERE-2288,Improvement,Closed,Fixed,31/10/14,19/11/14
+IDEMPIERE-2280,New Feature,Closed,Incomplete,28/10/14,27/07/18
+IDEMPIERE-2272,Improvement,Closed,Incomplete,25/10/14,27/07/18
+IDEMPIERE-2260,Improvement,Closed,Fixed,22/10/14,29/10/14
+IDEMPIERE-2259,New Feature,Closed,Fixed,21/10/14,29/10/14
+IDEMPIERE-2254,Improvement,Closed,Won't Fix,17/10/14,13/10/17
+IDEMPIERE-2245,Improvement,Closed,Fixed,12/10/14,10/01/15
+IDEMPIERE-2244,Improvement,Closed,Fixed,11/10/14,13/05/15
+IDEMPIERE-2235,Improvement,Closed,Fixed,09/10/14,08/04/15
+IDEMPIERE-2233,Improvement,Closed,Fixed,08/10/14,20/05/15
+IDEMPIERE-2230,Improvement,Closed,Fixed,07/10/14,19/08/15
+IDEMPIERE-2228,Improvement,Closed,Duplicate,06/10/14,06/10/14
+IDEMPIERE-2227,New Feature,Closed,Incomplete,05/10/14,27/07/18
+IDEMPIERE-2225,New Feature,Closed,Fixed,03/10/14,15/10/14
+IDEMPIERE-2203,Improvement,Closed,Incomplete,15/09/14,15/10/14
+IDEMPIERE-2199,Improvement,Closed,Incomplete,11/09/14,27/07/18
+IDEMPIERE-2198,Improvement,Closed,Won't Fix,10/09/14,06/12/14
+IDEMPIERE-2196,Improvement,Closed,Won't Fix,08/09/14,26/02/15
+IDEMPIERE-2188,Improvement,Closed,Fixed,05/09/14,05/09/14
+IDEMPIERE-2184,Improvement,Closed,Fixed,03/09/14,10/01/15
+IDEMPIERE-2183,Improvement,Closed,Fixed,03/09/14,10/01/15
+IDEMPIERE-2182,Improvement,Closed,Fixed,03/09/14,05/09/14
+IDEMPIERE-2153,Improvement,Closed,Duplicate,16/08/14,21/08/14
+IDEMPIERE-2152,Improvement,Closed,Fixed,16/08/14,14/01/15
+IDEMPIERE-2138,Improvement,Closed,Fixed,12/08/14,19/08/15
+IDEMPIERE-2128,Improvement,Closed,Duplicate,07/08/14,13/07/18
+IDEMPIERE-2127,Improvement,Closed,Fixed,07/08/14,08/08/14
+IDEMPIERE-2126,Improvement,Closed,Won't Fix,07/08/14,13/07/18
+IDEMPIERE-2119,Improvement,Closed,Duplicate,02/08/14,17/02/15
+IDEMPIERE-2113,Improvement,Closed,Fixed,01/08/14,04/11/14
+IDEMPIERE-2110,New Feature,Closed,Fixed,31/07/14,31/07/14
+IDEMPIERE-2109,Improvement,Closed,Fixed,30/07/14,14/01/15
+IDEMPIERE-2108,Improvement,Closed,Fixed,30/07/14,30/07/14
+IDEMPIERE-2107,Improvement,Closed,Fixed,29/07/14,04/03/15
+IDEMPIERE-2105,Improvement,Closed,Fixed,29/07/14,14/01/15
+IDEMPIERE-2103,New Feature,Closed,Fixed,28/07/14,13/07/18
+IDEMPIERE-2100,Improvement,Closed,Fixed,26/07/14,27/07/14
+IDEMPIERE-2089,New Feature,Closed,Fixed,24/07/14,05/11/14
+IDEMPIERE-2088,Improvement,Closed,Fixed,24/07/14,15/10/14
+IDEMPIERE-2087,New Feature,Closed,Duplicate,24/07/14,17/04/15
+IDEMPIERE-2078,Improvement,Closed,Fixed,18/07/14,12/07/18
+IDEMPIERE-2077,New Feature,Closed,Fixed,18/07/14,23/07/14
+IDEMPIERE-2073,New Feature,Closed,Fixed,17/07/14,23/07/14
+IDEMPIERE-2072,New Feature,Closed,Fixed,17/07/14,23/03/15
+IDEMPIERE-2069,New Feature,Closed,Incomplete,17/07/14,12/07/18
+IDEMPIERE-2064,Improvement,Closed,Fixed,16/07/14,11/01/15
+IDEMPIERE-2062,New Feature,Closed,Fixed,16/07/14,16/07/14
+IDEMPIERE-2060,Improvement,Closed,Fixed,16/07/14,03/09/14
+IDEMPIERE-2057,Improvement,Closed,Fixed,15/07/14,11/11/14
+IDEMPIERE-2055,Improvement,Closed,Fixed,15/07/14,16/07/14
+IDEMPIERE-2053,Improvement,Closed,Incomplete,12/07/14,11/07/18
+IDEMPIERE-2052,Improvement,Closed,Fixed,11/07/14,16/07/14
+IDEMPIERE-2051,Improvement,Closed,Won't Fix,11/07/14,01/08/14
+IDEMPIERE-2050,Improvement,Closed,Fixed,10/07/14,03/12/14
+IDEMPIERE-2047,New Feature,Closed,Fixed,07/07/14,12/07/18
+IDEMPIERE-2043,Improvement,Closed,Fixed,04/07/14,11/07/14
+IDEMPIERE-2039,Improvement,Closed,Fixed,03/07/14,17/04/15
+IDEMPIERE-2034,New Feature,Closed,Duplicate,02/07/14,16/05/18
+IDEMPIERE-2020,Improvement,Closed,Fixed,25/06/14,06/05/16
+IDEMPIERE-2011,New Feature,Closed,Fixed,22/06/14,09/07/14
+IDEMPIERE-2009,Improvement,Closed,Incomplete,20/06/14,11/07/18
+IDEMPIERE-2007,Improvement,Closed,Fixed,19/06/14,12/07/18
+IDEMPIERE-2005,Improvement,Closed,Fixed,19/06/14,20/06/14
+IDEMPIERE-1999,New Feature,Closed,Fixed,12/06/14,15/10/14
+IDEMPIERE-1995,Improvement,Closed,Fixed,11/06/14,15/05/15
+IDEMPIERE-1993,Improvement,Closed,Won't Fix,11/06/14,15/05/15
+IDEMPIERE-1989,Improvement,Closed,Won't Fix,06/06/14,25/06/14
+IDEMPIERE-1988,Improvement,Closed,Fixed,06/06/14,11/07/14
+IDEMPIERE-1987,Improvement,Closed,Fixed,05/06/14,23/10/14
+IDEMPIERE-1986,New Feature,Closed,Incomplete,05/06/14,11/07/18
+IDEMPIERE-1985,Improvement,Closed,Fixed,05/06/14,11/07/14
+IDEMPIERE-1979,Improvement,Closed,Fixed,01/06/14,02/07/14
+IDEMPIERE-1974,New Feature,Closed,Duplicate,29/05/14,11/03/15
+IDEMPIERE-1973,Improvement,Closed,Fixed,28/05/14,02/07/14
+IDEMPIERE-1972,Improvement,Closed,Fixed,28/05/14,02/07/14
+IDEMPIERE-1970,Improvement,Closed,Fixed,28/05/14,05/09/14
+IDEMPIERE-1969,Improvement,Closed,Fixed,28/05/14,19/08/15
+IDEMPIERE-1967,Improvement,Closed,Fixed,26/05/14,27/05/14
+IDEMPIERE-1957,Improvement,Closed,Fixed,18/05/14,28/05/14
+IDEMPIERE-1955,New Feature,Closed,Fixed,17/05/14,21/05/14
+IDEMPIERE-1954,Improvement,Closed,Fixed,16/05/14,21/05/14
+IDEMPIERE-1952,Improvement,Closed,Fixed,14/05/14,14/05/14
+IDEMPIERE-1951,New Feature,Closed,Fixed,14/05/14,14/05/14
+IDEMPIERE-1946,Improvement,Closed,Fixed,13/05/14,11/07/14
+IDEMPIERE-1935,Improvement,Closed,Fixed,06/05/14,07/05/14
+IDEMPIERE-1934,Improvement,Closed,Won't Fix,06/05/14,17/04/15
+IDEMPIERE-1930,Improvement,Closed,Won't Fix,05/05/14,05/05/15
+IDEMPIERE-1926,Improvement,Closed,Fixed,01/05/14,13/10/17
+IDEMPIERE-1918,New Feature,Closed,Fixed,29/04/14,11/07/14
+IDEMPIERE-1916,New Feature,Closed,Won't Fix,28/04/14,21/05/14
+IDEMPIERE-1914,Improvement,Closed,Incomplete,26/04/14,11/07/18
+IDEMPIERE-1907,Improvement,Closed,Fixed,16/04/14,16/04/14
+IDEMPIERE-1906,Improvement,Closed,Fixed,16/04/14,19/01/18
+IDEMPIERE-1905,Improvement,Closed,Fixed,16/04/14,10/01/15
+IDEMPIERE-1901,Improvement,Closed,Fixed,14/04/14,05/09/14
+IDEMPIERE-1900,New Feature,Closed,Fixed,14/04/14,10/01/15
+IDEMPIERE-1899,Improvement,Closed,Fixed,13/04/14,09/12/14
+IDEMPIERE-1898,Improvement,Closed,Fixed,13/04/14,07/05/14
+IDEMPIERE-1896,Improvement,Closed,Cannot Reproduce,11/04/14,13/06/14
+IDEMPIERE-1895,Improvement,Closed,Won't Fix,11/04/14,13/06/14
+IDEMPIERE-1882,Improvement,Closed,Duplicate,05/04/14,06/03/15
+IDEMPIERE-1871,Improvement,Closed,Fixed,02/04/14,02/04/14
+IDEMPIERE-1870,Improvement,Closed,Won't Fix,01/04/14,04/03/15
+IDEMPIERE-1863,Improvement,Closed,Fixed,30/03/14,30/03/14
+IDEMPIERE-1860,Improvement,Closed,Fixed,27/03/14,11/07/18
+IDEMPIERE-1851,Improvement,Closed,Fixed,24/03/14,16/07/14
+IDEMPIERE-1846,Improvement,Closed,Fixed,22/03/14,29/07/15
+IDEMPIERE-1845,Improvement,Closed,Fixed,21/03/14,02/04/14
+IDEMPIERE-1842,Improvement,Closed,Fixed,21/03/14,05/09/14
+IDEMPIERE-1828,Improvement,Closed,Fixed,18/03/14,16/07/14
+IDEMPIERE-1827,Improvement,Closed,Won't Fix,18/03/14,15/03/15
+IDEMPIERE-1816,Improvement,Closed,Duplicate,13/03/14,13/07/18
+IDEMPIERE-1813,New Feature,Closed,Fixed,12/03/14,26/02/15
+IDEMPIERE-1809,Improvement,Closed,Fixed,11/03/14,12/03/14
+IDEMPIERE-1807,Improvement,Closed,Won't Fix,11/03/14,11/07/18
+IDEMPIERE-1796,Improvement,Closed,Won't Fix,08/03/14,11/07/18
+IDEMPIERE-1794,Improvement,Closed,Fixed,07/03/14,07/03/14
+IDEMPIERE-1792,New Feature,Closed,Fixed,07/03/14,02/07/14
+IDEMPIERE-1790,Improvement,Closed,Cannot Reproduce,07/03/14,11/07/18
+IDEMPIERE-1789,Improvement,Closed,Fixed,07/03/14,07/03/14
+IDEMPIERE-1788,Improvement,Closed,Fixed,06/03/14,16/07/14
+IDEMPIERE-1785,New Feature,Closed,Duplicate,05/03/14,23/12/14
+IDEMPIERE-1782,New Feature,Closed,Won't Fix,02/03/14,26/04/15
+IDEMPIERE-1779,Improvement,Closed,Fixed,01/03/14,20/04/15
+IDEMPIERE-1777,Improvement,Closed,Fixed,28/02/14,10/06/15
+IDEMPIERE-1776,Improvement,Closed,Fixed,27/02/14,06/03/14
+IDEMPIERE-1774,Improvement,Closed,Won't Fix,27/02/14,11/07/18
+IDEMPIERE-1773,Improvement,Closed,Fixed,27/02/14,16/05/14
+IDEMPIERE-1770,New Feature,Closed,Fixed,26/02/14,27/01/16
+IDEMPIERE-1766,Improvement,Closed,Fixed,24/02/14,24/02/14
+IDEMPIERE-1762,Improvement,Closed,Fixed,18/02/14,20/03/14
+IDEMPIERE-1760,Improvement,Closed,Incomplete,16/02/14,16/02/14
+IDEMPIERE-1754,Improvement,Closed,Won't Fix,13/02/14,13/02/14
+IDEMPIERE-1753,Improvement,Closed,Fixed,13/02/14,28/11/14
+IDEMPIERE-1750,Improvement,Closed,Fixed,12/02/14,03/02/16
+IDEMPIERE-1749,New Feature,Closed,Fixed,12/02/14,19/02/14
+IDEMPIERE-1747,Improvement,Closed,Fixed,10/02/14,19/02/14
+IDEMPIERE-1731,New Feature,Closed,Fixed,03/02/14,26/02/15
+IDEMPIERE-1728,Improvement,Closed,Fixed,01/02/14,11/07/18
+IDEMPIERE-1724,Improvement,Closed,Fixed,29/01/14,11/02/14
+IDEMPIERE-1723,New Feature,Closed,Won't Fix,28/01/14,06/09/14
+IDEMPIERE-1722,Improvement,Closed,Duplicate,27/01/14,05/11/14
+IDEMPIERE-1717,Improvement,Closed,Fixed,24/01/14,02/04/14
+IDEMPIERE-1716,Improvement,Closed,Incomplete,24/01/14,11/07/18
+IDEMPIERE-1715,New Feature,Closed,Fixed,24/01/14,16/04/14
+IDEMPIERE-1711,Improvement,Closed,Fixed,23/01/14,24/01/14
+IDEMPIERE-1703,Improvement,Closed,Fixed,20/01/14,16/07/18
+IDEMPIERE-1698,New Feature,Closed,Fixed,19/01/14,20/06/14
+IDEMPIERE-1693,Improvement,Closed,Fixed,15/01/14,19/01/14
+IDEMPIERE-1688,Improvement,Closed,Won't Fix,14/01/14,15/01/14
+IDEMPIERE-1686,Improvement,Closed,Fixed,14/01/14,02/04/14
+IDEMPIERE-1685,Improvement,Closed,Fixed,13/01/14,01/08/14
+IDEMPIERE-1684,New Feature,Closed,Fixed,12/01/14,27/08/14
+IDEMPIERE-1661,Improvement,Closed,Won't Fix,31/12/13,04/03/15
+IDEMPIERE-1657,Improvement,Closed,Fixed,30/12/13,08/04/15
+IDEMPIERE-1651,Improvement,Closed,Won't Fix,27/12/13,11/07/18
+IDEMPIERE-1648,Improvement,Closed,Duplicate,27/12/13,11/07/18
+IDEMPIERE-1626,New Feature,Closed,Fixed,13/12/13,13/12/13
+IDEMPIERE-1624,Improvement,Closed,Fixed,11/12/13,11/12/13
+IDEMPIERE-1620,Improvement,Closed,Fixed,09/12/13,05/03/14
+IDEMPIERE-1608,Improvement,Closed,Fixed,05/12/13,05/12/13
+IDEMPIERE-1607,Improvement,Closed,Fixed,05/12/13,05/12/13
+IDEMPIERE-1606,Improvement,Closed,Fixed,05/12/13,26/02/14
+IDEMPIERE-1605,Improvement,Closed,Fixed,05/12/13,11/12/13
+IDEMPIERE-1603,Improvement,Closed,Fixed,04/12/13,17/12/13
+IDEMPIERE-1596,Improvement,Closed,Fixed,03/12/13,10/01/15
+IDEMPIERE-1593,Improvement,Closed,Won't Fix,03/12/13,10/01/15
+IDEMPIERE-1588,Improvement,Closed,Fixed,01/12/13,15/01/14
+IDEMPIERE-1583,New Feature,Closed,Fixed,29/11/13,04/12/13
+IDEMPIERE-1579,New Feature,Closed,Fixed,28/11/13,05/12/13
+IDEMPIERE-1576,New Feature,Closed,Fixed,28/11/13,24/07/14
+IDEMPIERE-1575,Improvement,Closed,Fixed,28/11/13,29/05/18
+IDEMPIERE-1572,New Feature,Closed,Fixed,27/11/13,04/03/15
+IDEMPIERE-1568,Improvement,Closed,Fixed,25/11/13,28/05/14
+IDEMPIERE-1562,New Feature,Closed,Fixed,21/11/13,11/08/14
+IDEMPIERE-1555,Improvement,Closed,Fixed,20/11/13,14/01/15
+IDEMPIERE-1554,New Feature,Closed,Fixed,20/11/13,22/12/15
+IDEMPIERE-1552,Improvement,Closed,Fixed,19/11/13,16/07/14
+IDEMPIERE-1551,Improvement,Closed,Fixed,19/11/13,07/01/15
+IDEMPIERE-1541,Improvement,Closed,Fixed,17/11/13,22/11/13
+IDEMPIERE-1539,Improvement,Closed,Fixed,16/11/13,19/07/18
+IDEMPIERE-1538,Improvement,Closed,Fixed,15/11/13,06/12/13
+IDEMPIERE-1537,Improvement,Closed,Fixed,15/11/13,16/11/13
+IDEMPIERE-1535,Improvement,Closed,Fixed,15/11/13,21/11/13
+IDEMPIERE-1530,Improvement,Closed,Fixed,13/11/13,19/02/14
+IDEMPIERE-1522,Improvement,Closed,Duplicate,10/11/13,23/12/13
+IDEMPIERE-1521,Improvement,Closed,Fixed,08/11/13,11/12/13
+IDEMPIERE-1520,Improvement,Closed,Fixed,08/11/13,20/11/13
+IDEMPIERE-1519,Improvement,Closed,Incomplete,08/11/13,25/06/15
+IDEMPIERE-1509,Improvement,Closed,Fixed,06/11/13,10/01/15
+IDEMPIERE-1505,Improvement,Closed,Fixed,04/11/13,15/01/14
+IDEMPIERE-1492,Improvement,Closed,Fixed,31/10/13,04/02/15
+IDEMPIERE-1491,Improvement,Closed,Incomplete,31/10/13,23/12/13
+IDEMPIERE-1486,New Feature,Closed,Fixed,29/10/13,29/10/13
+IDEMPIERE-1480,Improvement,Closed,Fixed,25/10/13,23/12/13
+IDEMPIERE-1478,Improvement,Closed,Fixed,25/10/13,30/10/13
+IDEMPIERE-1473,Improvement,Closed,Cannot Reproduce,25/10/13,05/03/14
+IDEMPIERE-1459,Improvement,Closed,Duplicate,22/10/13,19/08/15
+IDEMPIERE-1456,Improvement,Closed,Fixed,19/10/13,23/12/13
+IDEMPIERE-1455,New Feature,Closed,Duplicate,19/10/13,09/08/14
+IDEMPIERE-1449,Improvement,Closed,Fixed,16/10/13,16/10/13
+IDEMPIERE-1442,Improvement,Closed,Fixed,15/10/13,15/11/13
+IDEMPIERE-1439,Improvement,Closed,Fixed,14/10/13,19/10/13
+IDEMPIERE-1433,Improvement,Closed,Fixed,07/10/13,22/11/13
+IDEMPIERE-1425,Improvement,Closed,Fixed,03/10/13,11/01/15
+IDEMPIERE-1418,Improvement,Closed,Fixed,01/10/13,02/10/13
+IDEMPIERE-1411,Improvement,Closed,Fixed,30/09/13,30/09/13
+IDEMPIERE-1409,Improvement,Closed,Fixed,30/09/13,03/10/13
+IDEMPIERE-1407,Improvement,Closed,Incomplete,30/09/13,29/05/18
+IDEMPIERE-1385,Improvement,Closed,Incomplete,19/09/13,11/07/18
+IDEMPIERE-1379,Improvement,Closed,Fixed,18/09/13,19/08/15
+IDEMPIERE-1378,Improvement,Closed,Fixed,18/09/13,11/07/14
+IDEMPIERE-1373,Improvement,Closed,Fixed,18/09/13,20/09/13
+IDEMPIERE-1371,Improvement,Closed,Fixed,17/09/13,17/09/13
+IDEMPIERE-1367,Improvement,Closed,Fixed,17/09/13,20/01/17
+IDEMPIERE-1363,New Feature,Closed,Incomplete,12/09/13,11/07/18
+IDEMPIERE-1362,Improvement,Closed,Fixed,12/09/13,18/09/13
+IDEMPIERE-1354,Improvement,Closed,Fixed,11/09/13,25/09/13
+IDEMPIERE-1352,Improvement,Closed,Fixed,11/09/13,12/09/13
+IDEMPIERE-1345,Improvement,Closed,Fixed,09/09/13,11/09/13
+IDEMPIERE-1338,Improvement,Closed,Fixed,06/09/13,19/08/15
+IDEMPIERE-1337,Improvement,Closed,Incomplete,06/09/13,11/09/13
+IDEMPIERE-1335,Improvement,Closed,Fixed,06/09/13,20/11/13
+IDEMPIERE-1334,Improvement,Closed,Fixed,06/09/13,29/05/14
+IDEMPIERE-1333,Improvement,Closed,Won't Fix,05/09/13,11/07/18
+IDEMPIERE-1328,Improvement,Closed,Fixed,04/09/13,29/02/16
+IDEMPIERE-1325,Improvement,Closed,Fixed,03/09/13,11/11/14
+IDEMPIERE-1314,Improvement,Closed,Fixed,29/08/13,05/09/13
+IDEMPIERE-1313,Improvement,Closed,Fixed,28/08/13,30/08/13
+IDEMPIERE-1312,New Feature,Closed,Incomplete,28/08/13,17/04/15
+IDEMPIERE-1309,Improvement,Closed,Fixed,28/08/13,28/08/13
+IDEMPIERE-1300,Improvement,Closed,Fixed,25/08/13,26/08/13
+IDEMPIERE-1298,New Feature,Closed,Fixed,23/08/13,26/08/13
+IDEMPIERE-1297,Improvement,Closed,Fixed,23/08/13,26/08/13
+IDEMPIERE-1286,Improvement,Closed,Fixed,18/08/13,27/08/13
+IDEMPIERE-1285,New Feature,Closed,Fixed,18/08/13,26/08/13
+IDEMPIERE-1274,Improvement,Closed,Won't Fix,14/08/13,06/09/14
+IDEMPIERE-1269,Improvement,Closed,Fixed,13/08/13,27/08/13
+IDEMPIERE-1265,Improvement,Closed,Fixed,10/08/13,12/09/13
+IDEMPIERE-1261,Improvement,Closed,Won't Fix,09/08/13,09/08/13
+IDEMPIERE-1246,Improvement,Closed,Fixed,03/08/13,30/08/13
+IDEMPIERE-1245,Improvement,Closed,Cannot Reproduce,03/08/13,11/07/18
+IDEMPIERE-1244,Improvement,Closed,Fixed,02/08/13,02/08/13
+IDEMPIERE-1231,Improvement,Closed,Fixed,01/08/13,02/08/13
+IDEMPIERE-1220,New Feature,Closed,Incomplete,30/07/13,26/02/15
+IDEMPIERE-1218,Improvement,Closed,Fixed,30/07/13,31/07/13
+IDEMPIERE-1216,Improvement,Closed,Fixed,29/07/13,02/04/14
+IDEMPIERE-1213,Improvement,Closed,Fixed,29/07/13,26/11/13
+IDEMPIERE-1208,Improvement,Closed,Fixed,29/07/13,29/07/13
+IDEMPIERE-1200,Improvement,Closed,Fixed,26/07/13,17/02/17
+IDEMPIERE-1196,Improvement,Closed,Fixed,25/07/13,24/10/13
+IDEMPIERE-1192,Improvement,Closed,Incomplete,22/07/13,11/07/18
+IDEMPIERE-1188,Improvement,Closed,Fixed,18/07/13,21/08/13
+IDEMPIERE-1184,Improvement,Closed,Fixed,17/07/13,26/09/13
+IDEMPIERE-1182,New Feature,Closed,Fixed,16/07/13,29/07/13
+IDEMPIERE-1180,New Feature,Closed,Fixed,16/07/13,29/07/13
+IDEMPIERE-1171,Improvement,Closed,Duplicate,13/07/13,04/03/15
+IDEMPIERE-1167,Improvement,Closed,Fixed,11/07/13,29/07/13
+IDEMPIERE-1164,Improvement,Closed,Fixed,11/07/13,15/07/13
+IDEMPIERE-1160,Improvement,Closed,Fixed,10/07/13,26/08/13
+IDEMPIERE-1159,Improvement,Closed,Incomplete,10/07/13,11/07/18
+IDEMPIERE-1157,Improvement,Closed,Fixed,09/07/13,23/08/13
+IDEMPIERE-1154,Improvement,Closed,Fixed,09/07/13,04/03/15
+IDEMPIERE-1132,New Feature,Closed,Fixed,03/07/13,08/11/13
+IDEMPIERE-1126,New Feature,Closed,Fixed,01/07/13,26/02/15
+IDEMPIERE-1120,Improvement,Closed,Fixed,29/06/13,18/07/13
+IDEMPIERE-1113,Improvement,Closed,Incomplete,26/06/13,11/07/18
+IDEMPIERE-1102,Improvement,Closed,Incomplete,24/06/13,26/02/15
+IDEMPIERE-1099,Improvement,Closed,Fixed,23/06/13,05/09/14
+IDEMPIERE-1097,Improvement,Closed,Won't Fix,22/06/13,04/03/15
+IDEMPIERE-1094,Improvement,Closed,Won't Fix,21/06/13,04/07/13
+IDEMPIERE-1093,Improvement,Closed,Fixed,21/06/13,21/06/13
+IDEMPIERE-1091,New Feature,Closed,Won't Fix,21/06/13,17/04/15
+IDEMPIERE-1085,Improvement,Closed,Fixed,20/06/13,08/01/14
+IDEMPIERE-1084,Improvement,Closed,Fixed,20/06/13,21/06/13
+IDEMPIERE-1074,Improvement,Closed,Won't Fix,19/06/13,24/07/14
+IDEMPIERE-1064,New Feature,Closed,Fixed,18/06/13,18/09/13
+IDEMPIERE-1063,Improvement,Closed,Fixed,18/06/13,18/06/13
+IDEMPIERE-1061,New Feature,Closed,Won't Fix,17/06/13,04/03/15
+IDEMPIERE-1050,Improvement,Closed,Won't Fix,12/06/13,06/01/14
+IDEMPIERE-1047,Improvement,Closed,Won't Fix,12/06/13,19/06/13
+IDEMPIERE-1046,Improvement,Closed,Fixed,12/06/13,19/06/13
+IDEMPIERE-1045,Improvement,Closed,Fixed,12/06/13,26/01/14
+IDEMPIERE-1044,Improvement,Closed,Fixed,12/06/13,10/01/15
+IDEMPIERE-1038,Improvement,Closed,Incomplete,07/06/13,11/07/18
+IDEMPIERE-1034,Improvement,Closed,Won't Fix,06/06/13,19/06/13
+IDEMPIERE-1033,Improvement,Closed,Fixed,06/06/13,29/08/13
+IDEMPIERE-1031,Improvement,Closed,Duplicate,05/06/13,17/04/15
+IDEMPIERE-1025,Improvement,Closed,Fixed,03/06/13,26/08/13
+IDEMPIERE-1024,Improvement,Closed,Fixed,03/06/13,03/06/13
+IDEMPIERE-1018,Improvement,Closed,Won't Fix,03/06/13,17/04/15
+IDEMPIERE-1017,New Feature,Closed,Incomplete,03/06/13,18/06/13
+IDEMPIERE-1014,Improvement,Closed,Incomplete,03/06/13,26/02/15
+IDEMPIERE-1011,Improvement,Closed,Fixed,02/06/13,03/06/13
+IDEMPIERE-1009,Improvement,Closed,Fixed,02/06/13,02/06/13
+IDEMPIERE-1006,Improvement,Closed,Fixed,01/06/13,01/06/13
+IDEMPIERE-1000,Improvement,Closed,Won't Fix,01/06/13,26/05/15
+IDEMPIERE-998,New Feature,Closed,Duplicate,01/06/13,30/05/14
+IDEMPIERE-993,Improvement,Closed,Fixed,31/05/13,01/06/13
+IDEMPIERE-986,Improvement,Closed,Duplicate,30/05/13,12/06/13
+IDEMPIERE-984,Improvement,Closed,Fixed,29/05/13,29/07/13
+IDEMPIERE-979,Improvement,Closed,Fixed,29/05/13,19/08/15
+IDEMPIERE-976,Improvement,Closed,Fixed,29/05/13,15/02/14
+IDEMPIERE-961,Improvement,Closed,Won't Fix,27/05/13,26/02/15
+IDEMPIERE-960,Improvement,Closed,Incomplete,27/05/13,26/02/15
+IDEMPIERE-918,New Feature,Closed,Fixed,10/05/13,22/05/18
+IDEMPIERE-910,Improvement,Closed,Fixed,04/05/13,12/05/13
+IDEMPIERE-905,Improvement,Closed,Fixed,03/05/13,13/12/16
+IDEMPIERE-901,Improvement,Closed,Incomplete,02/05/13,17/04/15
+IDEMPIERE-896,Improvement,Closed,Incomplete,01/05/13,17/04/15
+IDEMPIERE-895,Improvement,Closed,Won't Fix,01/05/13,17/04/15
+IDEMPIERE-893,Improvement,Closed,Fixed,01/05/13,18/06/13
+IDEMPIERE-876,New Feature,Closed,Fixed,25/04/13,25/04/13
+IDEMPIERE-853,Improvement,Closed,Fixed,11/04/13,12/06/13
+IDEMPIERE-848,Improvement,Closed,Fixed,10/04/13,20/04/13
+IDEMPIERE-841,Improvement,Closed,Fixed,09/04/13,26/04/13
+IDEMPIERE-840,Improvement,Closed,Fixed,09/04/13,20/04/13
+IDEMPIERE-838,Improvement,Closed,Fixed,09/04/13,20/04/13
+IDEMPIERE-834,Improvement,Closed,Fixed,08/04/13,09/04/13
+IDEMPIERE-822,Improvement,Closed,Fixed,02/04/13,20/04/13
+IDEMPIERE-820,Improvement,Closed,Fixed,02/04/13,20/04/13
+IDEMPIERE-818,Improvement,Closed,Fixed,01/04/13,02/04/13
+IDEMPIERE-812,Improvement,Closed,Fixed,29/03/13,29/03/13
+IDEMPIERE-810,Improvement,Closed,Fixed,28/03/13,29/03/13
+IDEMPIERE-809,Improvement,Closed,Fixed,28/03/13,28/03/13
+IDEMPIERE-805,Improvement,Closed,Fixed,27/03/13,27/03/13
+IDEMPIERE-800,Improvement,Closed,Fixed,26/03/13,20/04/13
+IDEMPIERE-799,Improvement,Closed,Won't Fix,26/03/13,04/03/15
+IDEMPIERE-796,Improvement,Closed,Fixed,24/03/13,20/04/13
+IDEMPIERE-788,Improvement,Closed,Fixed,21/03/13,14/04/13
+IDEMPIERE-786,Improvement,Closed,Fixed,21/03/13,28/03/13
+IDEMPIERE-784,New Feature,Closed,Incomplete,21/03/13,11/07/18
+IDEMPIERE-779,Improvement,Closed,Fixed,20/03/13,20/03/13
+IDEMPIERE-778,Improvement,Closed,Fixed,20/03/13,26/04/13
+IDEMPIERE-767,Improvement,Closed,Fixed,18/03/13,26/04/13
+IDEMPIERE-764,New Feature,Closed,Fixed,18/03/13,19/03/13
+IDEMPIERE-763,Improvement,Closed,Fixed,18/03/13,12/09/17
+IDEMPIERE-738,Improvement,Closed,Fixed,14/03/13,26/04/13
+IDEMPIERE-733,Improvement,Closed,Won't Fix,13/03/13,26/02/15
+IDEMPIERE-726,Improvement,Closed,Fixed,12/03/13,13/03/13
+IDEMPIERE-725,New Feature,Closed,Fixed,12/03/13,26/04/13
+IDEMPIERE-724,Improvement,Closed,Fixed,12/03/13,13/03/13
+IDEMPIERE-722,Improvement,Closed,Fixed,11/03/13,23/04/13
+IDEMPIERE-717,Improvement,Closed,Fixed,11/03/13,21/03/13
+IDEMPIERE-712,Improvement,Closed,Fixed,08/03/13,12/03/13
+IDEMPIERE-711,New Feature,Closed,Won't Fix,08/03/13,14/03/13
+IDEMPIERE-707,Improvement,Closed,Fixed,07/03/13,08/03/13
+IDEMPIERE-703,New Feature,Closed,Incomplete,07/03/13,01/07/15
+IDEMPIERE-695,New Feature,Closed,Fixed,06/03/13,11/07/13
+IDEMPIERE-694,New Feature,Closed,Fixed,06/03/13,11/03/13
+IDEMPIERE-687,New Feature,Closed,Won't Fix,05/03/13,09/03/13
+IDEMPIERE-686,New Feature,Closed,Duplicate,05/03/13,09/03/13
+IDEMPIERE-674,New Feature,Closed,Fixed,04/03/13,08/03/13
+IDEMPIERE-673,New Feature,Closed,Fixed,04/03/13,08/03/13
+IDEMPIERE-669,New Feature,Closed,Fixed,27/02/13,20/04/13
+IDEMPIERE-666,Improvement,Closed,Won't Fix,27/02/13,29/03/13
+IDEMPIERE-664,Improvement,Closed,Fixed,25/02/13,11/03/13
+IDEMPIERE-663,Improvement,Closed,Fixed,25/02/13,26/02/13
+IDEMPIERE-662,Improvement,Closed,Fixed,25/02/13,26/02/13
+IDEMPIERE-660,Improvement,Closed,Fixed,22/02/13,21/03/13
+IDEMPIERE-659,Improvement,Closed,Fixed,22/02/13,01/10/14
+IDEMPIERE-652,New Feature,Closed,Incomplete,20/02/13,01/07/15
+IDEMPIERE-650,Improvement,Closed,Incomplete,20/02/13,26/02/15
+IDEMPIERE-649,Improvement,Closed,Fixed,20/02/13,20/02/13
+IDEMPIERE-645,New Feature,Closed,Fixed,19/02/13,19/02/13
+IDEMPIERE-642,New Feature,Closed,Incomplete,18/02/13,11/07/18
+IDEMPIERE-638,Improvement,Closed,Fixed,18/02/13,11/07/13
+IDEMPIERE-632,Improvement,Closed,Fixed,14/02/13,16/03/13
+IDEMPIERE-629,Improvement,Closed,Won't Fix,13/02/13,26/02/15
+IDEMPIERE-628,Improvement,Closed,Incomplete,13/02/13,04/03/15
+IDEMPIERE-626,New Feature,Closed,Fixed,13/02/13,26/04/13
+IDEMPIERE-622,Improvement,Closed,Won't Fix,11/02/13,04/03/15
+IDEMPIERE-619,Improvement,Closed,Fixed,08/02/13,13/02/13
+IDEMPIERE-617,New Feature,Closed,Fixed,07/02/13,07/02/13
+IDEMPIERE-616,Improvement,Closed,Won't Fix,07/02/13,11/07/18
+IDEMPIERE-614,Improvement,Closed,Won't Fix,06/02/13,18/12/13
+IDEMPIERE-613,Improvement,Closed,Fixed,06/02/13,11/03/13
+IDEMPIERE-612,New Feature,Closed,Incomplete,06/02/13,04/03/15
+IDEMPIERE-608,Improvement,Closed,Fixed,04/02/13,06/02/13
+IDEMPIERE-607,Improvement,Closed,Fixed,03/02/13,30/12/13
+IDEMPIERE-606,Improvement,Closed,Fixed,03/02/13,17/04/15
+IDEMPIERE-599,Improvement,Closed,Fixed,31/01/13,13/02/13
+IDEMPIERE-594,Improvement,Closed,Fixed,24/01/13,10/01/15
+IDEMPIERE-591,New Feature,Closed,Incomplete,23/01/13,04/03/15
+IDEMPIERE-589,Improvement,Closed,Fixed,22/01/13,14/02/13
+IDEMPIERE-588,Improvement,Closed,Fixed,22/01/13,18/12/13
+IDEMPIERE-587,Improvement,Closed,Fixed,22/01/13,02/02/13
+IDEMPIERE-585,Improvement,Closed,Fixed,22/01/13,06/06/18
+IDEMPIERE-583,Improvement,Closed,Fixed,22/01/13,21/08/13
+IDEMPIERE-581,New Feature,Closed,Fixed,22/01/13,06/05/15
+IDEMPIERE-580,Improvement,Closed,Fixed,22/01/13,15/02/13
+IDEMPIERE-576,Improvement,Closed,Fixed,21/01/13,26/04/13
+IDEMPIERE-574,Improvement,Closed,Fixed,20/01/13,26/01/13
+IDEMPIERE-573,Improvement,Closed,Fixed,20/01/13,26/01/13
+IDEMPIERE-572,Improvement,Closed,Fixed,20/01/13,26/01/13
+IDEMPIERE-569,New Feature,Closed,Fixed,18/01/13,26/04/13
+IDEMPIERE-568,Improvement,Closed,Fixed,18/01/13,11/07/13
+IDEMPIERE-567,Improvement,Closed,Fixed,18/01/13,18/01/13
+IDEMPIERE-565,Improvement,Closed,Fixed,18/01/13,26/01/13
+IDEMPIERE-562,New Feature,Closed,Fixed,18/01/13,06/02/13
+IDEMPIERE-558,Improvement,Closed,Fixed,16/01/13,16/01/13
+IDEMPIERE-557,Improvement,Closed,Fixed,16/01/13,16/01/13
+IDEMPIERE-556,Improvement,Closed,Fixed,16/01/13,01/03/13
+IDEMPIERE-552,Improvement,Closed,Won't Fix,14/01/13,15/04/15
+IDEMPIERE-551,Improvement,Closed,Fixed,14/01/13,15/04/15
+IDEMPIERE-546,New Feature,Closed,Fixed,10/01/13,11/01/13
+IDEMPIERE-545,Improvement,Closed,Fixed,10/01/13,29/07/13
+IDEMPIERE-539,Improvement,Closed,Fixed,26/12/12,16/01/13
+IDEMPIERE-537,Improvement,Closed,Fixed,24/12/12,16/01/13
+IDEMPIERE-536,Improvement,Closed,Incomplete,21/12/12,26/02/15
+IDEMPIERE-532,Improvement,Closed,Fixed,17/12/12,17/12/12
+IDEMPIERE-531,Improvement,Closed,Duplicate,13/12/12,11/07/18
+IDEMPIERE-530,Improvement,Closed,Fixed,12/12/12,19/12/12
+IDEMPIERE-528,New Feature,Closed,Fixed,07/12/12,29/07/13
+IDEMPIERE-527,Improvement,Closed,Won't Fix,07/12/12,15/04/15
+IDEMPIERE-523,Improvement,Closed,Fixed,30/11/12,10/12/12
+IDEMPIERE-504,Improvement,Closed,Won't Fix,14/11/12,26/02/15
+IDEMPIERE-503,Improvement,Closed,Fixed,14/11/12,14/11/12
+IDEMPIERE-502,Improvement,Closed,Fixed,14/11/12,14/11/12
+IDEMPIERE-498,Improvement,Closed,Fixed,10/11/12,10/11/12
+IDEMPIERE-497,Improvement,Closed,Fixed,09/11/12,09/11/12
+IDEMPIERE-494,Improvement,Closed,Incomplete,08/11/12,15/04/15
+IDEMPIERE-493,Improvement,Closed,Fixed,08/11/12,08/11/12
+IDEMPIERE-492,Improvement,Closed,Fixed,07/11/12,17/04/15
+IDEMPIERE-489,Improvement,Closed,Fixed,07/11/12,16/03/13
+IDEMPIERE-483,Improvement,Closed,Won't Fix,03/11/12,26/02/15
+IDEMPIERE-477,Improvement,Closed,Fixed,31/10/12,12/03/14
+IDEMPIERE-475,Improvement,Closed,Fixed,30/10/12,20/04/15
+IDEMPIERE-473,Improvement,Closed,Fixed,26/10/12,26/02/15
+IDEMPIERE-472,Improvement,Closed,Fixed,26/10/12,26/10/12
+IDEMPIERE-463,New Feature,Closed,Fixed,19/10/12,16/11/12
+IDEMPIERE-462,Improvement,Closed,Fixed,16/10/12,26/04/13
+IDEMPIERE-459,New Feature,Closed,Fixed,11/10/12,20/12/12
+IDEMPIERE-454,New Feature,Closed,Fixed,08/10/12,16/04/14
+IDEMPIERE-452,New Feature,Closed,Fixed,03/10/12,25/01/14
+IDEMPIERE-448,New Feature,Closed,Fixed,03/10/12,13/12/12
+IDEMPIERE-447,Improvement,Closed,Fixed,02/10/12,17/10/12
+IDEMPIERE-446,Improvement,Closed,Fixed,02/10/12,05/12/12
+IDEMPIERE-441,Improvement,Closed,Won't Fix,27/09/12,18/12/13
+IDEMPIERE-434,New Feature,Closed,Won't Fix,18/09/12,18/12/13
+IDEMPIERE-432,New Feature,Closed,Won't Fix,14/09/12,18/12/13
+IDEMPIERE-427,Improvement,Closed,Fixed,11/09/12,11/09/12
+IDEMPIERE-425,New Feature,Closed,Incomplete,08/09/12,13/09/12
+IDEMPIERE-424,New Feature,Closed,Incomplete,07/09/12,26/02/15
+IDEMPIERE-420,Improvement,Closed,Fixed,04/09/12,04/09/12
+IDEMPIERE-417,Improvement,Closed,Fixed,31/08/12,12/09/12
+IDEMPIERE-416,New Feature,Closed,Won't Fix,31/08/12,09/01/15
+IDEMPIERE-415,New Feature,Closed,Fixed,30/08/12,11/07/13
+IDEMPIERE-414,Improvement,Closed,Won't Fix,30/08/12,15/02/13
+IDEMPIERE-412,Improvement,Closed,Won't Fix,30/08/12,26/02/15
+IDEMPIERE-411,Improvement,Closed,Won't Fix,30/08/12,18/12/13
+IDEMPIERE-405,Improvement,Closed,Fixed,27/08/12,18/12/13
+IDEMPIERE-403,Improvement,Closed,Fixed,24/08/12,12/09/12
+IDEMPIERE-399,New Feature,Closed,Won't Fix,23/08/12,26/04/13
+IDEMPIERE-398,Improvement,Closed,Fixed,23/08/12,23/08/12
+IDEMPIERE-397,Improvement,Closed,Fixed,23/08/12,23/08/12
+IDEMPIERE-393,New Feature,Closed,Fixed,16/08/12,28/11/12
+IDEMPIERE-392,Improvement,Closed,Fixed,15/08/12,13/03/13
+IDEMPIERE-391,Improvement,Closed,Fixed,15/08/12,03/10/12
+IDEMPIERE-390,Improvement,Closed,Fixed,15/08/12,13/03/13
+IDEMPIERE-389,Improvement,Closed,Fixed,15/08/12,13/03/13
+IDEMPIERE-388,Improvement,Closed,Fixed,15/08/12,09/10/12
+IDEMPIERE-387,Improvement,Closed,Fixed,15/08/12,07/09/12
+IDEMPIERE-386,Improvement,Closed,Fixed,15/08/12,01/11/13
+IDEMPIERE-385,Improvement,Closed,Fixed,15/08/12,28/11/12
+IDEMPIERE-383,Improvement,Closed,Fixed,10/08/12,10/08/12
+IDEMPIERE-379,Improvement,Closed,Fixed,09/08/12,31/10/12
+IDEMPIERE-378,Improvement,Closed,Fixed,09/08/12,09/04/13
+IDEMPIERE-377,Improvement,Closed,Fixed,09/08/12,02/10/12
+IDEMPIERE-375,Improvement,Closed,Fixed,09/08/12,13/09/12
+IDEMPIERE-374,Improvement,Closed,Fixed,09/08/12,19/09/12
+IDEMPIERE-373,Improvement,Closed,Fixed,09/08/12,04/09/12
+IDEMPIERE-372,Improvement,Closed,Fixed,09/08/12,18/12/13
+IDEMPIERE-371,Improvement,Closed,Fixed,09/08/12,10/10/12
+IDEMPIERE-370,Improvement,Closed,Fixed,09/08/12,23/08/12
+IDEMPIERE-369,Improvement,Closed,Fixed,09/08/12,26/04/13
+IDEMPIERE-368,Improvement,Closed,Fixed,09/08/12,12/10/12
+IDEMPIERE-367,Improvement,Closed,Fixed,09/08/12,15/08/12
+IDEMPIERE-366,Improvement,Closed,Fixed,09/08/12,23/10/12
+IDEMPIERE-364,Improvement,Closed,Fixed,09/08/12,23/10/12
+IDEMPIERE-363,Improvement,Closed,Fixed,09/08/12,23/08/12
+IDEMPIERE-362,Improvement,Closed,Fixed,09/08/12,26/02/15
+IDEMPIERE-361,New Feature,Closed,Won't Fix,08/08/12,18/12/13
+IDEMPIERE-360,Improvement,Closed,Won't Fix,08/08/12,18/12/13
+IDEMPIERE-359,Improvement,Closed,Fixed,08/08/12,14/02/13
+IDEMPIERE-358,New Feature,Closed,Fixed,07/08/12,14/08/12
+IDEMPIERE-357,Improvement,Closed,Fixed,03/08/12,30/08/12
+IDEMPIERE-356,New Feature,Closed,Fixed,02/08/12,21/08/12
+IDEMPIERE-354,New Feature,Closed,Fixed,01/08/12,02/08/12
+IDEMPIERE-353,Improvement,Closed,Fixed,01/08/12,11/08/12
+IDEMPIERE-348,Improvement,Closed,Fixed,25/07/12,11/07/13
+IDEMPIERE-347,New Feature,Closed,Fixed,24/07/12,01/08/12
+IDEMPIERE-345,Improvement,Closed,Fixed,20/07/12,20/07/12
+IDEMPIERE-344,Improvement,Closed,Fixed,19/07/12,25/07/12
+IDEMPIERE-341,Improvement,Closed,Won't Fix,18/07/12,18/07/12
+IDEMPIERE-339,Improvement,Closed,Fixed,14/07/12,18/07/12
+IDEMPIERE-338,Improvement,Closed,Fixed,12/07/12,20/07/12
+IDEMPIERE-337,Improvement,Closed,Fixed,12/07/12,18/07/12
+IDEMPIERE-336,New Feature,Closed,Incomplete,10/07/12,11/07/18
+IDEMPIERE-335,Improvement,Closed,Fixed,10/07/12,18/07/12
+IDEMPIERE-332,Improvement,Closed,Fixed,05/07/12,07/09/12
+IDEMPIERE-325,Improvement,Closed,Fixed,03/07/12,10/06/13
+IDEMPIERE-320,Improvement,Closed,Fixed,27/06/12,18/07/12
+IDEMPIERE-319,Improvement,Closed,Fixed,27/06/12,04/04/13
+IDEMPIERE-316,Improvement,Closed,Fixed,21/06/12,09/11/12
+IDEMPIERE-315,New Feature,Closed,Won't Fix,20/06/12,18/12/13
+IDEMPIERE-314,Improvement,Closed,Fixed,20/06/12,22/06/12
+IDEMPIERE-313,Improvement,Closed,Fixed,20/06/12,22/06/12
+IDEMPIERE-312,Improvement,Closed,Fixed,20/06/12,22/06/12
+IDEMPIERE-309,Improvement,Closed,Fixed,20/06/12,22/06/12
+IDEMPIERE-308,Improvement,Closed,Fixed,20/06/12,07/12/12
+IDEMPIERE-307,Improvement,Closed,Fixed,19/06/12,22/06/12
+IDEMPIERE-302,Improvement,Closed,Fixed,14/06/12,05/07/12
+IDEMPIERE-299,Improvement,Closed,Won't Fix,11/06/12,04/07/12
+IDEMPIERE-298,Improvement,Closed,Fixed,11/06/12,11/07/12
+IDEMPIERE-294,New Feature,Closed,Fixed,07/06/12,20/04/13
+IDEMPIERE-293,New Feature,Closed,Fixed,07/06/12,19/10/12
+IDEMPIERE-292,Improvement,Closed,Fixed,06/06/12,07/06/12
+IDEMPIERE-289,Improvement,Closed,Fixed,04/06/12,07/06/12
+IDEMPIERE-281,Improvement,Closed,Fixed,29/05/12,29/05/12
+IDEMPIERE-278,Improvement,Closed,Won't Fix,28/05/12,18/12/13
+IDEMPIERE-270,Improvement,Closed,Fixed,24/05/12,26/04/13
+IDEMPIERE-269,New Feature,Closed,Won't Fix,24/05/12,18/12/13
+IDEMPIERE-268,Improvement,Closed,Duplicate,21/05/12,30/08/12
+IDEMPIERE-264,New Feature,Closed,Fixed,16/05/12,30/08/12
+IDEMPIERE-263,Improvement,Closed,Fixed,15/05/12,24/05/12
+IDEMPIERE-257,Improvement,Closed,Won't Fix,04/05/12,11/07/18
+IDEMPIERE-255,Improvement,Closed,Fixed,03/05/12,30/05/12
+IDEMPIERE-254,Improvement,Closed,Fixed,02/05/12,01/06/12
+IDEMPIERE-251,New Feature,Closed,Won't Fix,26/04/12,30/08/12
+IDEMPIERE-250,Improvement,Closed,Fixed,26/04/12,26/04/12
+IDEMPIERE-249,New Feature,Closed,Fixed,26/04/12,30/05/12
+IDEMPIERE-248,Improvement,Closed,Fixed,25/04/12,24/06/12
+IDEMPIERE-247,Improvement,Closed,Fixed,25/04/12,30/08/12
+IDEMPIERE-246,New Feature,Closed,Fixed,25/04/12,17/09/15
+IDEMPIERE-241,Improvement,Closed,Fixed,18/04/12,18/04/12
+IDEMPIERE-240,Improvement,Closed,Fixed,18/04/12,26/04/12
+IDEMPIERE-239,Improvement,Closed,Fixed,18/04/12,11/06/12
+IDEMPIERE-236,New Feature,Closed,Fixed,12/04/12,14/08/12
+IDEMPIERE-234,New Feature,Closed,Fixed,11/04/12,29/10/12
+IDEMPIERE-231,Improvement,Closed,Fixed,10/04/12,18/12/13
+IDEMPIERE-228,New Feature,Closed,Fixed,06/04/12,18/12/13
+IDEMPIERE-227,Improvement,Closed,Fixed,06/04/12,06/04/12
+IDEMPIERE-222,Improvement,Closed,Fixed,04/04/12,30/08/12
+IDEMPIERE-221,Improvement,Closed,Fixed,30/03/12,08/08/12
+IDEMPIERE-217,New Feature,Closed,Fixed,28/03/12,23/08/12
+IDEMPIERE-214,New Feature,Closed,Fixed,26/03/12,18/07/12
+IDEMPIERE-207,New Feature,Closed,Fixed,24/03/12,12/10/12
+IDEMPIERE-206,New Feature,Closed,Fixed,23/03/12,27/11/12
+IDEMPIERE-204,Improvement,Closed,Fixed,22/03/12,26/03/12
+IDEMPIERE-203,Improvement,Closed,Duplicate,21/03/12,11/08/12
+IDEMPIERE-197,Improvement,Closed,Fixed,14/03/12,10/01/15
+IDEMPIERE-196,Improvement,Closed,Fixed,13/03/12,30/08/12
+IDEMPIERE-195,Improvement,Closed,Fixed,12/03/12,18/04/12
+IDEMPIERE-194,New Feature,Closed,Fixed,12/03/12,30/08/12
+IDEMPIERE-191,Improvement,Closed,Fixed,10/03/12,15/03/12
+IDEMPIERE-190,Improvement,Closed,Fixed,09/03/12,26/03/12
+IDEMPIERE-187,Improvement,Closed,Fixed,09/03/12,29/03/12
+IDEMPIERE-183,Improvement,Closed,Fixed,06/03/12,15/02/13
+IDEMPIERE-177,Improvement,Closed,Fixed,05/03/12,04/04/12
+IDEMPIERE-175,Improvement,Closed,Fixed,05/03/12,02/05/12
+IDEMPIERE-174,Improvement,Closed,Fixed,05/03/12,26/04/13
+IDEMPIERE-171,Improvement,Closed,Fixed,04/03/12,04/03/12
+IDEMPIERE-167,New Feature,Closed,Won't Fix,28/02/12,18/12/13
+IDEMPIERE-163,Improvement,Closed,Fixed,18/02/12,23/11/12
+IDEMPIERE-162,Improvement,Closed,Fixed,18/02/12,23/05/12
+IDEMPIERE-159,Improvement,Closed,Fixed,18/02/12,02/10/13
+IDEMPIERE-158,Improvement,Closed,Fixed,18/02/12,24/10/12
+IDEMPIERE-157,New Feature,Closed,Incomplete,18/02/12,30/08/12
+IDEMPIERE-156,New Feature,Closed,Fixed,18/02/12,12/04/12
+IDEMPIERE-153,Improvement,Closed,Fixed,16/02/12,19/02/12
+IDEMPIERE-152,Improvement,Closed,Fixed,15/02/12,17/07/12
+IDEMPIERE-151,Improvement,Closed,Fixed,15/02/12,22/03/12
+IDEMPIERE-149,New Feature,Closed,Won't Fix,09/02/12,12/03/14
+IDEMPIERE-148,New Feature,Closed,Fixed,09/02/12,14/02/12
+IDEMPIERE-147,Improvement,Closed,Fixed,09/02/12,11/02/12
+IDEMPIERE-146,Improvement,Closed,Fixed,09/02/12,01/07/12
+IDEMPIERE-145,Improvement,Closed,Fixed,09/02/12,22/06/12
+IDEMPIERE-144,Improvement,Closed,Fixed,09/02/12,15/08/12
+IDEMPIERE-143,Improvement,Closed,Fixed,09/02/12,18/12/13
+IDEMPIERE-142,Improvement,Closed,Fixed,09/02/12,07/06/12
+IDEMPIERE-141,Improvement,Closed,Fixed,09/02/12,18/02/12
+IDEMPIERE-139,Improvement,Closed,Fixed,08/02/12,08/02/12
+IDEMPIERE-137,New Feature,Closed,Fixed,07/02/12,01/03/12
+IDEMPIERE-136,Improvement,Closed,Fixed,06/02/12,18/12/13
+IDEMPIERE-134,Improvement,Closed,Fixed,05/02/12,05/02/12
+IDEMPIERE-133,Improvement,Closed,Fixed,03/02/12,05/02/12
+IDEMPIERE-132,Improvement,Closed,Fixed,03/02/12,09/05/12
+IDEMPIERE-131,Improvement,Closed,Fixed,02/02/12,02/02/12
+IDEMPIERE-129,New Feature,Closed,Fixed,31/01/12,05/04/12
+IDEMPIERE-127,New Feature,Closed,Fixed,27/01/12,27/01/12
+IDEMPIERE-126,New Feature,Closed,Fixed,27/01/12,27/01/12
+IDEMPIERE-123,Improvement,Closed,Won't Fix,18/01/12,02/05/12
+IDEMPIERE-122,Improvement,Closed,Fixed,18/01/12,11/08/12
+IDEMPIERE-121,Improvement,Closed,Fixed,18/01/12,27/01/12
+IDEMPIERE-120,Improvement,Closed,Fixed,18/01/12,27/01/12
+IDEMPIERE-119,Improvement,Closed,Fixed,18/01/12,27/01/12
+IDEMPIERE-118,Improvement,Closed,Fixed,17/01/12,26/03/12
+IDEMPIERE-117,Improvement,Closed,Fixed,17/01/12,26/03/12
+IDEMPIERE-116,Improvement,Closed,Fixed,17/01/12,27/01/12
+IDEMPIERE-115,Improvement,Closed,Fixed,17/01/12,27/01/12
+IDEMPIERE-106,Improvement,Closed,Fixed,11/12/11,11/12/11
+IDEMPIERE-102,Improvement,Closed,Fixed,25/11/11,18/12/13
+IDEMPIERE-101,New Feature,Closed,Fixed,23/11/11,11/07/12
+IDEMPIERE-98,Improvement,Closed,Fixed,21/11/11,07/01/12
+IDEMPIERE-96,Improvement,Closed,Fixed,10/11/11,10/11/11
+IDEMPIERE-92,Improvement,Closed,Fixed,02/11/11,30/08/12
+IDEMPIERE-90,New Feature,Closed,Fixed,25/10/11,18/12/13
+IDEMPIERE-88,Improvement,Closed,Fixed,23/10/11,23/10/11
+IDEMPIERE-85,Improvement,Closed,Fixed,14/10/11,11/07/12
+IDEMPIERE-84,New Feature,Closed,Duplicate,11/10/11,08/02/12
+IDEMPIERE-82,Improvement,Closed,Fixed,05/10/11,30/08/12
+IDEMPIERE-77,Improvement,Closed,Fixed,27/09/11,11/10/12
+IDEMPIERE-76,Improvement,Closed,Fixed,27/09/11,08/01/14
+IDEMPIERE-70,Improvement,Closed,Fixed,18/09/11,11/07/13
+IDEMPIERE-65,Improvement,Closed,Fixed,24/08/11,24/09/11
+IDEMPIERE-62,New Feature,Closed,Incomplete,15/08/11,30/08/12
+IDEMPIERE-61,Improvement,Closed,Fixed,15/08/11,15/08/11
+IDEMPIERE-59,Improvement,Closed,Fixed,14/08/11,14/08/11
+IDEMPIERE-58,Improvement,Closed,Incomplete,06/08/11,30/08/12
+IDEMPIERE-57,Improvement,Closed,Duplicate,06/08/11,24/10/12
+IDEMPIERE-49,Improvement,Closed,Fixed,27/07/11,27/07/11
+IDEMPIERE-46,Improvement,Closed,Fixed,18/07/11,26/07/11
+IDEMPIERE-43,Improvement,Closed,Fixed,05/07/11,09/07/11
+IDEMPIERE-31,Improvement,Closed,Won't Fix,30/06/11,02/05/12
+IDEMPIERE-30,Improvement,Closed,Fixed,30/06/11,30/08/12
+IDEMPIERE-29,New Feature,Closed,Fixed,30/06/11,29/08/12
+IDEMPIERE-8,Improvement,Closed,Fixed,30/06/11,30/06/11
+IDEMPIERE-5,Improvement,Closed,Fixed,30/06/11,30/06/11
+IDEMPIERE-4,Improvement,Closed,Fixed,30/06/11,30/06/11
+IDEMPIERE-2,Improvement,Closed,Fixed,30/06/11,30/06/11

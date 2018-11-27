@@ -1,0 +1,2681 @@
+OFBIZ-499,Improvement,Closed,Unresolved,27/11/06,08/09/18
+OFBIZ-297,New Feature,Closed,Not A Problem,14/09/06,18/05/18
+OFBIZ-194,New Feature,Closed,Fixed,03/09/06,16/07/14
+OFBIZ-565,Improvement,Closed,Duplicate,27/12/06,31/01/09
+OFBIZ-999,Improvement,Closed,Fixed,19/05/07,21/05/07
+OFBIZ-845,Improvement,Closed,Fixed,26/03/07,27/03/07
+OFBIZ-487,Improvement,Closed,Fixed,21/11/06,11/11/09
+OFBIZ-483,Improvement,Closed,Fixed,20/11/06,21/11/06
+OFBIZ-522,Improvement,Closed,Fixed,05/12/06,21/03/09
+OFBIZ-716,New Feature,Closed,Fixed,12/02/07,15/03/10
+OFBIZ-393,Improvement,Closed,Fixed,19/10/06,20/10/06
+OFBIZ-388,Improvement,Closed,Fixed,19/10/06,19/10/06
+OFBIZ-398,Improvement,Closed,Fixed,20/10/06,21/10/06
+OFBIZ-286,New Feature,Closed,Fixed,14/09/06,17/11/06
+OFBIZ-238,Improvement,Closed,Fixed,12/09/06,14/11/06
+OFBIZ-236,Improvement,Closed,Cannot Reproduce,12/09/06,27/11/06
+OFBIZ-77,Wish,Closed,Fixed,03/07/06,11/01/07
+OFBIZ-125,Improvement,Closed,Fixed,31/07/06,01/08/06
+OFBIZ-94,New Feature,Closed,Incomplete,18/07/06,23/09/16
+OFBIZ-382,New Feature,Closed,Fixed,18/10/06,08/06/16
+OFBIZ-207,Improvement,Closed,Duplicate,07/09/06,06/06/16
+OFBIZ-760,Improvement,Closed,Fixed,24/02/07,26/02/07
+OFBIZ-619,Improvement,Closed,Incomplete,12/01/07,23/10/15
+OFBIZ-566,Improvement,Closed,Cannot Reproduce,27/12/06,21/10/15
+OFBIZ-366,Improvement,Closed,Fixed,08/10/06,09/12/10
+OFBIZ-706,Improvement,Closed,Not A Problem,09/02/07,17/04/15
+OFBIZ-304,Improvement,Closed,Won't Fix,14/09/06,22/09/14
+OFBIZ-897,New Feature,Closed,Later,16/04/07,16/07/14
+OFBIZ-835,Improvement,Closed,Incomplete,21/03/07,16/07/14
+OFBIZ-794,New Feature,Closed,Won't Fix,08/03/07,16/07/14
+OFBIZ-641,New Feature,Closed,Won't Fix,22/01/07,16/07/14
+OFBIZ-475,New Feature,Closed,Later,19/11/06,16/07/14
+OFBIZ-272,New Feature,Closed,Incomplete,14/09/06,16/07/14
+OFBIZ-239,Improvement,Closed,Later,12/09/06,16/07/14
+OFBIZ-233,New Feature,Closed,Later,12/09/06,16/07/14
+OFBIZ-227,Improvement,Closed,Incomplete,11/09/06,16/07/14
+OFBIZ-197,New Feature,Closed,Later,03/09/06,16/07/14
+OFBIZ-196,New Feature,Closed,Later,03/09/06,16/07/14
+OFBIZ-195,New Feature,Closed,Later,03/09/06,16/07/14
+OFBIZ-183,New Feature,Closed,Fixed,24/08/06,16/07/14
+OFBIZ-173,New Feature,Closed,Fixed,22/08/06,16/07/14
+OFBIZ-150,Improvement,Closed,Incomplete,11/08/06,16/07/14
+OFBIZ-659,Improvement,Closed,Later,26/01/07,27/04/14
+OFBIZ-635,Improvement,Closed,Later,18/01/07,27/04/14
+OFBIZ-219,Wish,Closed,Later,11/09/06,21/04/14
+OFBIZ-149,Improvement,Closed,Later,10/08/06,21/04/14
+OFBIZ-228,Wish,Closed,Won't Fix,11/09/06,27/03/14
+OFBIZ-589,Improvement,Closed,Fixed,03/01/07,26/03/14
+OFBIZ-949,New Feature,Closed,Fixed,30/04/07,26/03/14
+OFBIZ-732,Improvement,Closed,Incomplete,17/02/07,26/03/14
+OFBIZ-793,Improvement,Closed,Fixed,08/03/07,26/03/14
+OFBIZ-559,Improvement,Closed,Incomplete,22/12/06,26/03/14
+OFBIZ-680,New Feature,Closed,Won't Fix,01/02/07,10/05/07
+OFBIZ-883,Improvement,Closed,Fixed,12/04/07,16/11/13
+OFBIZ-860,New Feature,Closed,Fixed,30/03/07,16/11/13
+OFBIZ-826,Improvement,Closed,Fixed,19/03/07,16/11/13
+OFBIZ-601,Improvement,Closed,Not A Problem,07/01/07,29/09/13
+OFBIZ-995,New Feature,Closed,Fixed,18/05/07,05/02/08
+OFBIZ-642,Improvement,Closed,Fixed,22/01/07,13/07/07
+OFBIZ-893,Improvement,Closed,Fixed,16/04/07,09/11/08
+OFBIZ-891,Improvement,Closed,Fixed,14/04/07,16/09/09
+OFBIZ-754,Improvement,Closed,Fixed,23/02/07,03/03/07
+OFBIZ-400,Improvement,Closed,Fixed,21/10/06,23/01/07
+OFBIZ-364,Improvement,Closed,Fixed,06/10/06,31/10/06
+OFBIZ-379,Improvement,Closed,Fixed,16/10/06,24/10/06
+OFBIZ-334,Improvement,Closed,Won't Fix,27/09/06,17/11/06
+OFBIZ-333,Improvement,Closed,Fixed,27/09/06,08/11/06
+OFBIZ-509,Improvement,Closed,Won't Fix,30/11/06,08/07/12
+OFBIZ-203,New Feature,Closed,Won't Fix,05/09/06,07/02/08
+OFBIZ-100,New Feature,Closed,Incomplete,21/07/06,22/12/07
+OFBIZ-528,Improvement,Closed,Fixed,06/12/06,29/04/07
+OFBIZ-644,Improvement,Closed,Fixed,22/01/07,14/02/07
+OFBIZ-864,New Feature,Closed,Won't Fix,02/04/07,12/01/12
+OFBIZ-630,New Feature,Closed,Fixed,16/01/07,02/09/07
+OFBIZ-411,New Feature,Closed,Fixed,29/10/06,30/05/11
+OFBIZ-185,Improvement,Closed,Fixed,26/08/06,30/05/11
+OFBIZ-847,Improvement,Closed,Fixed,26/03/07,20/01/11
+OFBIZ-315,New Feature,Closed,Fixed,16/09/06,16/01/11
+OFBIZ-736,Wish,Closed,Incomplete,17/02/07,15/01/11
+OFBIZ-348,Improvement,Closed,Not A Problem,30/09/06,12/01/11
+OFBIZ-269,Improvement,Closed,Duplicate,13/09/06,03/09/10
+OFBIZ-65,Improvement,Closed,Won't Fix,29/06/06,12/01/08
+OFBIZ-934,Improvement,Closed,Fixed,27/04/07,19/01/10
+OFBIZ-552,New Feature,Closed,Fixed,18/12/06,26/11/09
+OFBIZ-770,Improvement,Closed,Fixed,03/03/07,23/11/09
+OFBIZ-416,Improvement,Closed,Won't Fix,31/10/06,14/09/09
+OFBIZ-490,Improvement,Closed,Won't Fix,22/11/06,12/09/09
+OFBIZ-113,Improvement,Closed,Fixed,26/07/06,09/09/09
+OFBIZ-437,Improvement,Closed,Fixed,08/11/06,23/01/07
+OFBIZ-769,Wish,Closed,Fixed,02/03/07,04/05/09
+OFBIZ-609,Improvement,Closed,Won't Fix,10/01/07,29/04/09
+OFBIZ-797,Improvement,Closed,Fixed,08/03/07,17/04/09
+OFBIZ-777,New Feature,Closed,Fixed,05/03/07,09/04/09
+OFBIZ-796,Improvement,Closed,Later,08/03/07,25/02/09
+OFBIZ-193,New Feature,Closed,Incomplete,03/09/06,21/05/07
+OFBIZ-729,Improvement,Closed,Won't Fix,16/02/07,16/01/09
+OFBIZ-911,Improvement,Closed,Fixed,20/04/07,15/01/09
+OFBIZ-300,Improvement,Closed,Later,14/09/06,17/12/08
+OFBIZ-707,Improvement,Closed,Later,09/02/07,17/12/08
+OFBIZ-756,New Feature,Closed,Won't Fix,23/02/07,12/12/08
+OFBIZ-943,New Feature,Closed,Fixed,29/04/07,02/12/08
+OFBIZ-422,New Feature,Closed,Later,02/11/06,15/11/08
+OFBIZ-881,New Feature,Closed,Duplicate,12/04/07,14/11/08
+OFBIZ-3,New Feature,Closed,Fixed,28/05/06,09/09/07
+OFBIZ-558,Improvement,Closed,Fixed,22/12/06,16/03/07
+OFBIZ-52,Improvement,Closed,Fixed,25/06/06,01/11/08
+OFBIZ-31,New Feature,Closed,Duplicate,20/06/06,16/09/06
+OFBIZ-548,Improvement,Closed,Fixed,15/12/06,25/10/08
+OFBIZ-747,Improvement,Closed,Fixed,21/02/07,22/10/08
+OFBIZ-749,Improvement,Closed,Fixed,21/02/07,24/09/08
+OFBIZ-715,Improvement,Closed,Fixed,11/02/07,23/09/08
+OFBIZ-71,New Feature,Closed,Fixed,30/06/06,13/10/07
+OFBIZ-961,Improvement,Closed,Later,04/05/07,25/12/07
+OFBIZ-455,New Feature,Closed,Later,13/11/06,17/07/08
+OFBIZ-495,New Feature,Closed,Fixed,25/11/06,15/07/08
+OFBIZ-974,New Feature,Closed,Later,09/05/07,13/07/08
+OFBIZ-326,Improvement,Closed,Later,25/09/06,13/07/08
+OFBIZ-811,New Feature,Closed,Fixed,13/03/07,20/06/08
+OFBIZ-930,Improvement,Closed,Won't Fix,25/04/07,29/05/08
+OFBIZ-880,Improvement,Closed,Fixed,11/04/07,12/04/08
+OFBIZ-708,Improvement,Closed,Invalid,09/02/07,24/03/08
+OFBIZ-208,New Feature,Closed,Fixed,07/09/06,12/03/08
+OFBIZ-851,New Feature,Closed,Later,27/03/07,17/02/08
+OFBIZ-689,New Feature,Closed,Fixed,06/02/07,30/01/08
+OFBIZ-931,New Feature,Closed,Later,26/04/07,18/01/08
+OFBIZ-142,Improvement,Closed,Won't Fix,07/08/06,12/01/08
+OFBIZ-38,Improvement,Closed,Won't Fix,21/06/06,12/01/08
+OFBIZ-362,Improvement,Closed,Fixed,05/10/06,04/01/08
+OFBIZ-241,Improvement,Closed,Duplicate,12/09/06,04/01/08
+OFBIZ-932,Improvement,Closed,Fixed,27/04/07,30/12/07
+OFBIZ-20,Wish,Closed,Fixed,09/06/06,29/12/07
+OFBIZ-266,Improvement,Closed,Fixed,13/09/06,27/12/07
+OFBIZ-82,New Feature,Closed,Fixed,08/07/06,25/12/07
+OFBIZ-225,Wish,Closed,Fixed,11/09/06,25/12/07
+OFBIZ-148,Improvement,Closed,Incomplete,10/08/06,22/12/07
+OFBIZ-274,New Feature,Closed,Fixed,14/09/06,02/10/07
+OFBIZ-658,Improvement,Closed,Fixed,26/01/07,20/12/07
+OFBIZ-612,Improvement,Closed,Fixed,10/01/07,18/12/07
+OFBIZ-660,Improvement,Closed,Fixed,26/01/07,13/12/07
+OFBIZ-84,Improvement,Closed,Fixed,12/07/06,30/11/07
+OFBIZ-846,New Feature,Closed,Later,26/03/07,26/11/07
+OFBIZ-305,Improvement,Closed,Duplicate,14/09/06,23/11/07
+OFBIZ-767,Improvement,Closed,Fixed,28/02/07,16/10/07
+OFBIZ-131,Improvement,Closed,Fixed,03/08/06,15/11/07
+OFBIZ-568,Improvement,Closed,Fixed,28/12/06,11/11/07
+OFBIZ-465,Improvement,Closed,Fixed,15/11/06,02/11/07
+OFBIZ-854,Improvement,Closed,Fixed,29/03/07,18/10/07
+OFBIZ-525,Improvement,Closed,Fixed,06/12/06,17/10/07
+OFBIZ-720,Improvement,Closed,Fixed,13/02/07,17/09/07
+OFBIZ-342,Improvement,Closed,Invalid,29/09/06,15/09/07
+OFBIZ-257,Improvement,Closed,Incomplete,13/09/06,17/10/07
+OFBIZ-875,Improvement,Closed,Won't Fix,06/04/07,17/10/07
+OFBIZ-998,Improvement,Closed,Fixed,18/05/07,17/10/07
+OFBIZ-902,Improvement,Closed,Fixed,18/04/07,17/10/07
+OFBIZ-618,Improvement,Closed,Fixed,11/01/07,14/10/07
+OFBIZ-806,Improvement,Closed,Fixed,10/03/07,14/10/07
+OFBIZ-762,Wish,Closed,Incomplete,25/02/07,14/10/07
+OFBIZ-562,Wish,Closed,Incomplete,24/12/06,14/10/07
+OFBIZ-560,Wish,Closed,Incomplete,22/12/06,14/10/07
+OFBIZ-215,Improvement,Closed,Fixed,08/09/06,18/09/07
+OFBIZ-434,Improvement,Closed,Fixed,07/11/06,16/09/07
+OFBIZ-822,Improvement,Closed,Invalid,16/03/07,15/09/07
+OFBIZ-44,New Feature,Closed,Won't Fix,22/06/06,12/09/07
+OFBIZ-882,Improvement,Closed,Won't Fix,12/04/07,09/09/07
+OFBIZ-306,New Feature,Closed,Duplicate,14/09/06,30/08/07
+OFBIZ-981,Improvement,Closed,Later,14/05/07,12/08/07
+OFBIZ-273,Improvement,Closed,Fixed,14/09/06,11/08/07
+OFBIZ-987,Improvement,Closed,Cannot Reproduce,15/05/07,02/08/07
+OFBIZ-813,Improvement,Closed,Fixed,13/03/07,17/07/07
+OFBIZ-617,Wish,Closed,Fixed,11/01/07,15/07/07
+OFBIZ-990,Improvement,Closed,Fixed,16/05/07,07/07/07
+OFBIZ-939,Improvement,Closed,Fixed,28/04/07,28/06/07
+OFBIZ-2,New Feature,Closed,Duplicate,26/05/06,27/06/07
+OFBIZ-857,New Feature,Closed,Fixed,30/03/07,26/06/07
+OFBIZ-276,New Feature,Closed,Duplicate,14/09/06,24/06/07
+OFBIZ-96,Improvement,Closed,Fixed,19/07/06,08/06/07
+OFBIZ-575,Improvement,Closed,Fixed,29/12/06,08/06/07
+OFBIZ-809,New Feature,Closed,Fixed,11/03/07,07/06/07
+OFBIZ-901,Improvement,Closed,Fixed,18/04/07,04/06/07
+OFBIZ-942,Improvement,Closed,Fixed,29/04/07,01/06/07
+OFBIZ-936,Improvement,Closed,Fixed,28/04/07,26/05/07
+OFBIZ-983,Improvement,Closed,Fixed,14/05/07,24/05/07
+OFBIZ-993,Improvement,Closed,Duplicate,17/05/07,22/05/07
+OFBIZ-488,Improvement,Closed,Incomplete,21/11/06,21/05/07
+OFBIZ-992,Improvement,Closed,Fixed,17/05/07,21/05/07
+OFBIZ-963,Improvement,Closed,Fixed,06/05/07,20/05/07
+OFBIZ-976,Improvement,Closed,Fixed,10/05/07,19/05/07
+OFBIZ-962,Improvement,Closed,Fixed,04/05/07,19/05/07
+OFBIZ-946,Improvement,Closed,Fixed,30/04/07,19/05/07
+OFBIZ-959,Improvement,Closed,Fixed,03/05/07,19/05/07
+OFBIZ-991,Improvement,Closed,Invalid,17/05/07,19/05/07
+OFBIZ-996,Improvement,Closed,Fixed,18/05/07,19/05/07
+OFBIZ-593,Improvement,Closed,Fixed,04/01/07,18/05/07
+OFBIZ-303,Improvement,Closed,Fixed,14/09/06,18/05/07
+OFBIZ-994,Improvement,Closed,Fixed,18/05/07,18/05/07
+OFBIZ-918,Improvement,Closed,Fixed,22/04/07,17/05/07
+OFBIZ-698,Improvement,Closed,Fixed,08/02/07,15/05/07
+OFBIZ-984,Improvement,Closed,Fixed,14/05/07,14/05/07
+OFBIZ-980,Improvement,Closed,Fixed,14/05/07,14/05/07
+OFBIZ-979,Improvement,Closed,Fixed,12/05/07,14/05/07
+OFBIZ-774,Improvement,Closed,Fixed,04/03/07,11/05/07
+OFBIZ-973,Improvement,Closed,Fixed,09/05/07,09/05/07
+OFBIZ-967,Improvement,Closed,Fixed,07/05/07,08/05/07
+OFBIZ-392,Improvement,Closed,Fixed,19/10/06,21/10/06
+OFBIZ-341,Improvement,Closed,Fixed,29/09/06,05/05/07
+OFBIZ-948,Improvement,Closed,Fixed,30/04/07,03/05/07
+OFBIZ-955,New Feature,Closed,Fixed,02/05/07,02/05/07
+OFBIZ-950,Improvement,Closed,Fixed,30/04/07,02/05/07
+OFBIZ-951,New Feature,Closed,Fixed,01/05/07,01/05/07
+OFBIZ-952,Improvement,Closed,Fixed,01/05/07,01/05/07
+OFBIZ-929,Improvement,Closed,Fixed,25/04/07,28/04/07
+OFBIZ-928,New Feature,Closed,Fixed,25/04/07,30/04/07
+OFBIZ-947,Improvement,Closed,Fixed,30/04/07,30/04/07
+OFBIZ-927,Improvement,Closed,Fixed,25/04/07,28/04/07
+OFBIZ-924,Improvement,Closed,Fixed,24/04/07,24/04/07
+OFBIZ-914,Improvement,Closed,Fixed,21/04/07,23/04/07
+OFBIZ-915,Improvement,Closed,Fixed,22/04/07,23/04/07
+OFBIZ-916,Improvement,Closed,Fixed,22/04/07,23/04/07
+OFBIZ-917,Improvement,Closed,Fixed,22/04/07,23/04/07
+OFBIZ-909,Improvement,Closed,Fixed,20/04/07,22/04/07
+OFBIZ-910,Improvement,Closed,Fixed,20/04/07,22/04/07
+OFBIZ-908,Improvement,Closed,Fixed,20/04/07,22/04/07
+OFBIZ-913,Improvement,Closed,Fixed,21/04/07,22/04/07
+OFBIZ-905,Improvement,Closed,Fixed,19/04/07,22/04/07
+OFBIZ-456,Improvement,Closed,Fixed,14/11/06,21/04/07
+OFBIZ-118,Improvement,Closed,Fixed,27/07/06,21/04/07
+OFBIZ-40,Improvement,Closed,Fixed,21/06/06,21/04/07
+OFBIZ-41,Improvement,Closed,Fixed,21/06/06,21/04/07
+OFBIZ-892,Improvement,Closed,Fixed,15/04/07,15/04/07
+OFBIZ-878,Improvement,Closed,Fixed,09/04/07,17/04/07
+OFBIZ-852,Improvement,Closed,Fixed,28/03/07,16/04/07
+OFBIZ-887,Improvement,Closed,Fixed,13/04/07,16/04/07
+OFBIZ-889,Improvement,Closed,Fixed,14/04/07,15/04/07
+OFBIZ-884,New Feature,Closed,Fixed,13/04/07,14/04/07
+OFBIZ-877,Improvement,Closed,Fixed,08/04/07,11/04/07
+OFBIZ-873,Improvement,Closed,Fixed,05/04/07,06/04/07
+OFBIZ-867,Improvement,Closed,Fixed,02/04/07,06/04/07
+OFBIZ-869,Improvement,Closed,Fixed,03/04/07,03/04/07
+OFBIZ-858,Improvement,Closed,Fixed,30/03/07,31/03/07
+OFBIZ-861,Improvement,Closed,Duplicate,30/03/07,31/03/07
+OFBIZ-855,Improvement,Closed,Fixed,29/03/07,29/03/07
+OFBIZ-788,Improvement,Closed,Fixed,07/03/07,28/03/07
+OFBIZ-614,Improvement,Closed,Won't Fix,10/01/07,28/03/07
+OFBIZ-452,New Feature,Closed,Invalid,12/11/06,28/03/07
+OFBIZ-419,Improvement,Closed,Invalid,01/11/06,28/03/07
+OFBIZ-404,New Feature,Closed,Invalid,25/10/06,28/03/07
+OFBIZ-298,Improvement,Closed,Won't Fix,14/09/06,28/03/07
+OFBIZ-849,New Feature,Closed,Fixed,27/03/07,28/03/07
+OFBIZ-831,Improvement,Closed,Fixed,20/03/07,27/03/07
+OFBIZ-844,Improvement,Closed,Fixed,25/03/07,27/03/07
+OFBIZ-585,Improvement,Closed,Fixed,02/01/07,26/03/07
+OFBIZ-501,Improvement,Closed,Fixed,28/11/06,12/03/07
+OFBIZ-842,Improvement,Closed,Fixed,23/03/07,25/03/07
+OFBIZ-651,Improvement,Closed,Fixed,23/01/07,27/01/07
+OFBIZ-824,New Feature,Closed,Fixed,18/03/07,23/03/07
+OFBIZ-827,Improvement,Closed,Fixed,19/03/07,22/03/07
+OFBIZ-405,Improvement,Closed,Fixed,25/10/06,19/03/07
+OFBIZ-789,Improvement,Closed,Fixed,07/03/07,18/03/07
+OFBIZ-823,Improvement,Closed,Fixed,16/03/07,17/03/07
+OFBIZ-646,Improvement,Closed,Fixed,23/01/07,16/03/07
+OFBIZ-581,Improvement,Closed,Fixed,31/12/06,15/03/07
+OFBIZ-780,Improvement,Closed,Fixed,06/03/07,14/03/07
+OFBIZ-647,Improvement,Closed,Duplicate,23/01/07,13/03/07
+OFBIZ-458,Improvement,Closed,Cannot Reproduce,14/11/06,13/03/07
+OFBIZ-781,Improvement,Closed,Fixed,06/03/07,12/03/07
+OFBIZ-798,Improvement,Closed,Fixed,09/03/07,10/03/07
+OFBIZ-800,Improvement,Closed,Fixed,10/03/07,10/03/07
+OFBIZ-801,Improvement,Closed,Fixed,10/03/07,10/03/07
+OFBIZ-802,Improvement,Closed,Fixed,10/03/07,10/03/07
+OFBIZ-799,Improvement,Closed,Fixed,10/03/07,10/03/07
+OFBIZ-795,Improvement,Closed,Fixed,08/03/07,10/03/07
+OFBIZ-748,Improvement,Closed,Fixed,21/02/07,09/03/07
+OFBIZ-787,Improvement,Closed,Fixed,07/03/07,09/03/07
+OFBIZ-728,Improvement,Closed,Duplicate,15/02/07,09/03/07
+OFBIZ-791,New Feature,Closed,Fixed,07/03/07,09/03/07
+OFBIZ-790,Improvement,Closed,Fixed,07/03/07,08/03/07
+OFBIZ-783,Improvement,Closed,Won't Fix,06/03/07,08/03/07
+OFBIZ-775,Improvement,Closed,Won't Fix,04/03/07,08/03/07
+OFBIZ-784,New Feature,Closed,Fixed,06/03/07,08/03/07
+OFBIZ-785,Improvement,Closed,Fixed,07/03/07,08/03/07
+OFBIZ-656,Improvement,Closed,Fixed,25/01/07,07/03/07
+OFBIZ-693,Improvement,Closed,Fixed,06/02/07,07/03/07
+OFBIZ-779,Improvement,Closed,Fixed,05/03/07,05/03/07
+OFBIZ-537,Improvement,Closed,Fixed,08/12/06,03/03/07
+OFBIZ-513,Improvement,Closed,Fixed,02/12/06,03/03/07
+OFBIZ-511,Improvement,Closed,Fixed,30/11/06,03/03/07
+OFBIZ-625,Improvement,Closed,Fixed,15/01/07,03/03/07
+OFBIZ-755,Improvement,Closed,Fixed,23/02/07,24/02/07
+OFBIZ-735,Improvement,Closed,Fixed,17/02/07,24/02/07
+OFBIZ-759,Improvement,Closed,Fixed,23/02/07,24/02/07
+OFBIZ-752,Improvement,Closed,Invalid,22/02/07,23/02/07
+OFBIZ-739,Improvement,Closed,Fixed,20/02/07,23/02/07
+OFBIZ-734,Improvement,Closed,Fixed,17/02/07,23/02/07
+OFBIZ-733,Improvement,Closed,Fixed,17/02/07,22/02/07
+OFBIZ-727,Improvement,Closed,Fixed,15/02/07,21/02/07
+OFBIZ-709,Improvement,Closed,Fixed,09/02/07,21/02/07
+OFBIZ-740,Improvement,Closed,Fixed,20/02/07,20/02/07
+OFBIZ-685,Improvement,Closed,Fixed,05/02/07,19/02/07
+OFBIZ-737,Improvement,Closed,Fixed,18/02/07,19/02/07
+OFBIZ-459,Improvement,Closed,Fixed,14/11/06,16/02/07
+OFBIZ-722,Improvement,Closed,Fixed,14/02/07,15/02/07
+OFBIZ-677,New Feature,Closed,Fixed,31/01/07,14/02/07
+OFBIZ-712,Improvement,Closed,Fixed,11/02/07,14/02/07
+OFBIZ-717,New Feature,Closed,Fixed,12/02/07,14/02/07
+OFBIZ-704,Improvement,Closed,Fixed,08/02/07,12/02/07
+OFBIZ-663,New Feature,Closed,Fixed,27/01/07,12/02/07
+OFBIZ-271,New Feature,Closed,Fixed,13/09/06,12/02/07
+OFBIZ-666,Improvement,Closed,Fixed,28/01/07,11/02/07
+OFBIZ-632,Wish,Closed,Fixed,17/01/07,11/02/07
+OFBIZ-713,Improvement,Closed,Fixed,11/02/07,11/02/07
+OFBIZ-710,Improvement,Closed,Fixed,10/02/07,10/02/07
+OFBIZ-694,Improvement,Closed,Fixed,07/02/07,09/02/07
+OFBIZ-701,Improvement,Closed,Invalid,08/02/07,08/02/07
+OFBIZ-104,Improvement,Closed,Fixed,22/07/06,26/07/06
+OFBIZ-688,New Feature,Closed,Fixed,05/02/07,06/02/07
+OFBIZ-687,New Feature,Closed,Fixed,05/02/07,06/02/07
+OFBIZ-679,Improvement,Closed,Fixed,31/01/07,03/02/07
+OFBIZ-683,Improvement,Closed,Fixed,02/02/07,02/02/07
+OFBIZ-670,Improvement,Closed,Fixed,30/01/07,30/01/07
+OFBIZ-93,Improvement,Closed,Fixed,17/07/06,21/07/06
+OFBIZ-103,Improvement,Closed,Won't Fix,21/07/06,01/02/07
+OFBIZ-516,Improvement,Closed,Fixed,02/12/06,01/02/07
+OFBIZ-678,Improvement,Closed,Fixed,31/01/07,31/01/07
+OFBIZ-675,Improvement,Closed,Fixed,31/01/07,31/01/07
+OFBIZ-665,Improvement,Closed,Fixed,27/01/07,31/01/07
+OFBIZ-661,Improvement,Closed,Fixed,26/01/07,27/01/07
+OFBIZ-643,Improvement,Closed,Fixed,22/01/07,27/01/07
+OFBIZ-654,New Feature,Closed,Fixed,25/01/07,27/01/07
+OFBIZ-268,New Feature,Closed,Incomplete,13/09/06,26/01/07
+OFBIZ-657,Improvement,Closed,Fixed,25/01/07,26/01/07
+OFBIZ-655,Improvement,Closed,Fixed,25/01/07,25/01/07
+OFBIZ-645,Improvement,Closed,Fixed,22/01/07,25/01/07
+OFBIZ-603,Improvement,Closed,Fixed,07/01/07,23/01/07
+OFBIZ-546,Improvement,Closed,Fixed,13/12/06,23/01/07
+OFBIZ-598,Improvement,Closed,Fixed,05/01/07,22/01/07
+OFBIZ-639,Improvement,Closed,Fixed,20/01/07,20/01/07
+OFBIZ-638,Improvement,Closed,Fixed,20/01/07,20/01/07
+OFBIZ-605,Improvement,Closed,Fixed,08/01/07,19/01/07
+OFBIZ-623,Improvement,Closed,Fixed,13/01/07,17/01/07
+OFBIZ-607,Improvement,Closed,Fixed,09/01/07,17/01/07
+OFBIZ-628,Improvement,Closed,Fixed,15/01/07,17/01/07
+OFBIZ-626,Improvement,Closed,Fixed,15/01/07,15/01/07
+OFBIZ-620,Improvement,Closed,Fixed,13/01/07,13/01/07
+OFBIZ-302,Improvement,Closed,Won't Fix,14/09/06,12/01/07
+OFBIZ-595,Improvement,Closed,Fixed,04/01/07,09/01/07
+OFBIZ-606,Improvement,Closed,Won't Fix,09/01/07,09/01/07
+OFBIZ-604,Improvement,Closed,Fixed,08/01/07,08/01/07
+OFBIZ-580,Improvement,Closed,Fixed,31/12/06,07/01/07
+OFBIZ-547,Improvement,Closed,Fixed,14/12/06,04/01/07
+OFBIZ-555,Improvement,Closed,Fixed,20/12/06,03/01/07
+OFBIZ-586,Improvement,Closed,Cannot Reproduce,03/01/07,03/01/07
+OFBIZ-554,Improvement,Closed,Fixed,19/12/06,02/01/07
+OFBIZ-402,Improvement,Closed,Fixed,24/10/06,03/11/06
+OFBIZ-557,New Feature,Closed,Fixed,21/12/06,29/12/06
+OFBIZ-510,Improvement,Closed,Fixed,30/11/06,28/12/06
+OFBIZ-265,Improvement,Closed,Won't Fix,13/09/06,27/12/06
+OFBIZ-279,Improvement,Closed,Won't Fix,14/09/06,27/12/06
+OFBIZ-498,Improvement,Closed,Fixed,27/11/06,06/12/06
+OFBIZ-553,Improvement,Closed,Fixed,18/12/06,19/12/06
+OFBIZ-280,Improvement,Closed,Incomplete,14/09/06,18/12/06
+OFBIZ-549,Improvement,Closed,Fixed,15/12/06,17/12/06
+OFBIZ-471,Improvement,Closed,Fixed,18/11/06,16/12/06
+OFBIZ-538,Improvement,Closed,Fixed,08/12/06,15/12/06
+OFBIZ-540,Improvement,Closed,Fixed,09/12/06,12/12/06
+OFBIZ-523,Improvement,Closed,Fixed,05/12/06,10/12/06
+OFBIZ-530,Improvement,Closed,Fixed,07/12/06,09/12/06
+OFBIZ-533,Improvement,Closed,Fixed,07/12/06,09/12/06
+OFBIZ-536,Improvement,Closed,Fixed,08/12/06,09/12/06
+OFBIZ-343,New Feature,Closed,Fixed,29/09/06,09/12/06
+OFBIZ-529,Improvement,Closed,Fixed,06/12/06,08/12/06
+OFBIZ-531,Improvement,Closed,Fixed,07/12/06,08/12/06
+OFBIZ-188,Improvement,Closed,Fixed,30/08/06,07/12/06
+OFBIZ-226,New Feature,Closed,Fixed,11/09/06,05/12/06
+OFBIZ-521,Improvement,Closed,Fixed,04/12/06,06/12/06
+OFBIZ-524,Improvement,Closed,Fixed,06/12/06,06/12/06
+OFBIZ-519,Improvement,Closed,Fixed,04/12/06,05/12/06
+OFBIZ-514,Improvement,Closed,Fixed,02/12/06,04/12/06
+OFBIZ-311,Improvement,Closed,Fixed,15/09/06,02/12/06
+OFBIZ-504,Improvement,Closed,Fixed,29/11/06,03/12/06
+OFBIZ-361,New Feature,Closed,Fixed,04/10/06,02/12/06
+OFBIZ-508,Improvement,Closed,Fixed,29/11/06,02/12/06
+OFBIZ-460,Improvement,Closed,Fixed,14/11/06,02/12/06
+OFBIZ-502,Improvement,Closed,Fixed,28/11/06,29/11/06
+OFBIZ-500,Improvement,Closed,Fixed,28/11/06,28/11/06
+OFBIZ-108,Improvement,Closed,Won't Fix,24/07/06,27/11/06
+OFBIZ-435,Improvement,Closed,Fixed,08/11/06,24/11/06
+OFBIZ-468,Improvement,Closed,Fixed,17/11/06,22/11/06
+OFBIZ-485,Improvement,Closed,Later,20/11/06,22/11/06
+OFBIZ-442,Improvement,Closed,Fixed,10/11/06,21/11/06
+OFBIZ-479,Improvement,Closed,Won't Fix,19/11/06,21/11/06
+OFBIZ-370,Improvement,Closed,Fixed,09/10/06,18/11/06
+OFBIZ-470,Improvement,Closed,Fixed,18/11/06,18/11/06
+OFBIZ-450,Improvement,Closed,Fixed,11/11/06,12/11/06
+OFBIZ-464,Improvement,Closed,Fixed,15/11/06,16/11/06
+OFBIZ-418,Improvement,Closed,Fixed,31/10/06,01/11/06
+OFBIZ-433,Improvement,Closed,Fixed,07/11/06,13/11/06
+OFBIZ-444,Improvement,Closed,Fixed,10/11/06,12/11/06
+OFBIZ-335,Improvement,Closed,Fixed,27/09/06,13/11/06
+OFBIZ-447,Improvement,Closed,Fixed,11/11/06,12/11/06
+OFBIZ-449,Improvement,Closed,Fixed,11/11/06,11/11/06
+OFBIZ-292,Improvement,Closed,Invalid,14/09/06,11/11/06
+OFBIZ-179,Improvement,Closed,Fixed,23/08/06,11/11/06
+OFBIZ-440,Improvement,Closed,Fixed,09/11/06,09/11/06
+OFBIZ-439,Improvement,Closed,Fixed,09/11/06,09/11/06
+OFBIZ-421,Improvement,Closed,Fixed,01/11/06,08/11/06
+OFBIZ-429,Improvement,Closed,Fixed,06/11/06,07/11/06
+OFBIZ-425,Improvement,Closed,Invalid,03/11/06,03/11/06
+OFBIZ-399,New Feature,Closed,Fixed,20/10/06,02/11/06
+OFBIZ-403,Improvement,Closed,Fixed,24/10/06,02/11/06
+OFBIZ-406,Improvement,Closed,Won't Fix,25/10/06,02/11/06
+OFBIZ-420,Improvement,Closed,Fixed,01/11/06,01/11/06
+OFBIZ-417,Improvement,Closed,Fixed,31/10/06,31/10/06
+OFBIZ-49,Improvement,Closed,Fixed,24/06/06,21/10/06
+OFBIZ-395,Improvement,Closed,Fixed,20/10/06,20/10/06
+OFBIZ-383,Improvement,Closed,Fixed,18/10/06,20/10/06
+OFBIZ-387,Improvement,Closed,Fixed,19/10/06,19/10/06
+OFBIZ-16,Wish,Closed,Fixed,07/06/06,18/10/06
+OFBIZ-337,Improvement,Closed,Fixed,27/09/06,16/10/06
+OFBIZ-210,Improvement,Closed,Fixed,07/09/06,16/10/06
+OFBIZ-190,Improvement,Closed,Fixed,02/09/06,15/10/06
+OFBIZ-376,Improvement,Closed,Fixed,14/10/06,15/10/06
+OFBIZ-377,Improvement,Closed,Fixed,14/10/06,15/10/06
+OFBIZ-374,Improvement,Closed,Fixed,12/10/06,14/10/06
+OFBIZ-10,Improvement,Closed,Fixed,01/06/06,18/06/06
+OFBIZ-213,New Feature,Closed,Fixed,08/09/06,23/09/06
+OFBIZ-373,Improvement,Closed,Fixed,11/10/06,11/10/06
+OFBIZ-317,Improvement,Closed,Fixed,16/09/06,11/10/06
+OFBIZ-240,Improvement,Closed,Fixed,12/09/06,11/10/06
+OFBIZ-204,Improvement,Closed,Fixed,05/09/06,06/10/06
+OFBIZ-212,Improvement,Closed,Fixed,08/09/06,06/10/06
+OFBIZ-353,Improvement,Closed,Fixed,03/10/06,06/10/06
+OFBIZ-145,New Feature,Closed,Incomplete,08/08/06,15/09/06
+OFBIZ-359,Improvement,Closed,Won't Fix,04/10/06,04/10/06
+OFBIZ-68,Improvement,Closed,Fixed,30/06/06,04/10/06
+OFBIZ-356,Improvement,Closed,Fixed,03/10/06,04/10/06
+OFBIZ-349,Improvement,Closed,Fixed,01/10/06,02/10/06
+OFBIZ-15,Improvement,Closed,Fixed,05/06/06,02/10/06
+OFBIZ-336,Improvement,Closed,Fixed,27/09/06,01/10/06
+OFBIZ-345,Improvement,Closed,Won't Fix,30/09/06,30/09/06
+OFBIZ-11,Improvement,Closed,Fixed,01/06/06,30/09/06
+OFBIZ-346,Improvement,Closed,Fixed,30/09/06,30/09/06
+OFBIZ-338,Improvement,Closed,Fixed,27/09/06,29/09/06
+OFBIZ-339,Improvement,Closed,Fixed,29/09/06,29/09/06
+OFBIZ-331,Improvement,Closed,Fixed,26/09/06,29/09/06
+OFBIZ-157,Improvement,Closed,Fixed,14/08/06,26/09/06
+OFBIZ-329,Improvement,Closed,Fixed,26/09/06,26/09/06
+OFBIZ-75,Improvement,Closed,Fixed,01/07/06,26/09/06
+OFBIZ-201,Improvement,Closed,Fixed,04/09/06,22/09/06
+OFBIZ-320,Improvement,Closed,Fixed,19/09/06,19/09/06
+OFBIZ-319,Improvement,Closed,Fixed,17/09/06,17/09/06
+OFBIZ-202,New Feature,Closed,Fixed,04/09/06,16/09/06
+OFBIZ-209,Improvement,Closed,Fixed,07/09/06,16/09/06
+OFBIZ-301,Improvement,Closed,Fixed,14/09/06,16/09/06
+OFBIZ-43,Improvement,Closed,Won't Fix,22/06/06,15/09/06
+OFBIZ-291,Improvement,Closed,Won't Fix,14/09/06,14/09/06
+OFBIZ-288,New Feature,Closed,Duplicate,14/09/06,14/09/06
+OFBIZ-256,Wish,Closed,Won't Fix,13/09/06,13/09/06
+OFBIZ-217,Improvement,Closed,Fixed,11/09/06,12/09/06
+OFBIZ-216,Improvement,Closed,Fixed,11/09/06,12/09/06
+OFBIZ-211,Improvement,Closed,Fixed,07/09/06,09/09/06
+OFBIZ-205,Improvement,Closed,Fixed,05/09/06,07/09/06
+OFBIZ-155,Improvement,Closed,Fixed,11/08/06,06/09/06
+OFBIZ-200,Improvement,Closed,Fixed,03/09/06,04/09/06
+OFBIZ-191,Improvement,Closed,Fixed,03/09/06,04/09/06
+OFBIZ-24,Improvement,Closed,Fixed,15/06/06,04/08/06
+OFBIZ-186,Improvement,Closed,Fixed,30/08/06,31/08/06
+OFBIZ-79,Improvement,Closed,Fixed,06/07/06,07/07/06
+OFBIZ-73,Improvement,Closed,Fixed,30/06/06,21/07/06
+OFBIZ-54,Improvement,Closed,Fixed,27/06/06,27/07/06
+OFBIZ-182,New Feature,Closed,Fixed,24/08/06,30/08/06
+OFBIZ-163,Improvement,Closed,Fixed,17/08/06,25/08/06
+OFBIZ-174,Improvement,Closed,Fixed,22/08/06,22/08/06
+OFBIZ-172,New Feature,Closed,Fixed,21/08/06,21/08/06
+OFBIZ-159,New Feature,Closed,Fixed,16/08/06,17/08/06
+OFBIZ-120,Improvement,Closed,Fixed,28/07/06,21/08/06
+OFBIZ-160,New Feature,Closed,Fixed,16/08/06,21/08/06
+OFBIZ-168,Improvement,Closed,Fixed,19/08/06,19/08/06
+OFBIZ-167,Improvement,Closed,Fixed,18/08/06,19/08/06
+OFBIZ-154,Improvement,Closed,Fixed,11/08/06,17/08/06
+OFBIZ-166,Improvement,Closed,Fixed,18/08/06,18/08/06
+OFBIZ-129,Improvement,Closed,Fixed,01/08/06,07/08/06
+OFBIZ-92,Improvement,Closed,Fixed,17/07/06,05/08/06
+OFBIZ-90,Improvement,Closed,Fixed,16/07/06,05/08/06
+OFBIZ-7,Improvement,Closed,Fixed,01/06/06,06/07/06
+OFBIZ-132,Improvement,Closed,Fixed,03/08/06,03/08/06
+OFBIZ-112,Improvement,Closed,Fixed,25/07/06,28/07/06
+OFBIZ-78,Improvement,Closed,Fixed,06/07/06,22/07/06
+OFBIZ-63,Improvement,Closed,Fixed,29/06/06,22/07/06
+OFBIZ-99,Improvement,Closed,Fixed,20/07/06,21/07/06
+OFBIZ-83,Improvement,Closed,Fixed,12/07/06,19/07/06
+OFBIZ-98,Improvement,Closed,Fixed,20/07/06,20/07/06
+OFBIZ-57,Improvement,Closed,Fixed,28/06/06,19/07/06
+OFBIZ-39,Improvement,Closed,Fixed,21/06/06,18/07/06
+OFBIZ-81,New Feature,Closed,Fixed,07/07/06,14/07/06
+OFBIZ-86,New Feature,Closed,Fixed,13/07/06,13/07/06
+OFBIZ-55,Improvement,Closed,Fixed,27/06/06,12/07/06
+OFBIZ-9,Improvement,Closed,Fixed,01/06/06,06/07/06
+OFBIZ-26,Improvement,Closed,Fixed,16/06/06,28/06/06
+OFBIZ-51,Improvement,Closed,Fixed,24/06/06,27/06/06
+OFBIZ-48,Improvement,Closed,Fixed,24/06/06,27/06/06
+OFBIZ-46,Improvement,Closed,Fixed,22/06/06,24/06/06
+OFBIZ-36,Improvement,Closed,Fixed,21/06/06,21/06/06
+OFBIZ-35,Improvement,Closed,Fixed,20/06/06,20/06/06
+OFBIZ-34,Improvement,Closed,Fixed,20/06/06,21/06/06
+OFBIZ-22,Improvement,Closed,Duplicate,14/06/06,16/06/06
+OFBIZ-27,Improvement,Closed,Fixed,16/06/06,19/06/06
+OFBIZ-29,Improvement,Closed,Fixed,17/06/06,18/06/06
+OFBIZ-18,Improvement,Closed,Fixed,08/06/06,13/06/06
+OFBIZ-21,Improvement,Closed,Fixed,11/06/06,14/06/06
+OFBIZ-19,Improvement,Closed,Fixed,09/06/06,12/06/06
+OFBIZ-12,Improvement,Closed,Fixed,01/06/06,07/06/06
+OFBIZ-8,Improvement,Closed,Fixed,01/06/06,02/06/06
+OFBIZ-1724,Improvement,Closed,Won't Fix,29/03/08,28/09/09
+OFBIZ-1032,Improvement,Closed,Implemented,24/05/07,26/01/18
+OFBIZ-1948,Improvement,Closed,Not A Problem,04/09/08,21/01/18
+OFBIZ-1803,Improvement,Closed,Duplicate,24/05/08,21/01/18
+OFBIZ-1577,Improvement,Closed,Fixed,14/01/08,16/01/08
+OFBIZ-1810,New Feature,Closed,Fixed,29/05/08,05/06/08
+OFBIZ-1607,New Feature,Closed,Implemented,30/01/08,15/02/16
+OFBIZ-1859,New Feature,Closed,Fixed,01/07/08,21/01/11
+OFBIZ-1946,Improvement,Closed,Won't Fix,03/09/08,13/09/08
+OFBIZ-1862,Improvement,Closed,Incomplete,07/07/08,16/07/14
+OFBIZ-1853,New Feature,Closed,Fixed,26/06/08,29/06/08
+OFBIZ-1981,Improvement,Closed,Fixed,03/10/08,04/10/08
+OFBIZ-1945,Improvement,Closed,Unresolved,03/09/08,30/07/16
+OFBIZ-1991,Improvement,Closed,Fixed,07/10/08,10/10/08
+OFBIZ-1687,Improvement,Closed,Fixed,28/02/08,15/03/08
+OFBIZ-1674,New Feature,Closed,Fixed,25/02/08,15/03/08
+OFBIZ-1666,Improvement,Closed,Duplicate,21/02/08,01/03/08
+OFBIZ-1663,Improvement,Closed,Fixed,19/02/08,13/04/08
+OFBIZ-1606,Improvement,Closed,Fixed,30/01/08,28/07/08
+OFBIZ-1597,Improvement,Closed,Duplicate,25/01/08,25/01/08
+OFBIZ-1581,Improvement,Closed,Unresolved,16/01/08,30/07/16
+OFBIZ-1656,Improvement,Closed,Fixed,18/02/08,09/07/08
+OFBIZ-1428,Improvement,Closed,Fixed,25/11/07,15/12/07
+OFBIZ-1427,Improvement,Closed,Fixed,25/11/07,12/08/08
+OFBIZ-1580,Improvement,Closed,Fixed,16/01/08,10/02/08
+OFBIZ-1562,Improvement,Closed,Fixed,07/01/08,10/01/08
+OFBIZ-1316,Improvement,Closed,Later,05/10/07,19/11/07
+OFBIZ-1107,Improvement,Closed,Fixed,27/06/07,27/06/07
+OFBIZ-1109,New Feature,Closed,Fixed,28/06/07,17/12/07
+OFBIZ-1015,Improvement,Closed,Later,24/05/07,17/02/08
+OFBIZ-1923,New Feature,Closed,Fixed,18/08/08,28/01/09
+OFBIZ-1723,New Feature,Closed,Incomplete,28/03/08,16/09/16
+OFBIZ-1738,New Feature,Closed,Fixed,04/04/08,22/01/09
+OFBIZ-1867,Improvement,Closed,Incomplete,09/07/08,27/11/15
+OFBIZ-1843,Improvement,Closed,Incomplete,21/06/08,21/10/15
+OFBIZ-1910,Improvement,Closed,Fixed,07/08/08,18/08/08
+OFBIZ-1590,Improvement,Closed,Fixed,22/01/08,25/02/08
+OFBIZ-1708,Improvement,Closed,Unresolved,15/03/08,11/02/15
+OFBIZ-1110,Improvement,Closed,Fixed,28/06/07,22/10/08
+OFBIZ-1705,Improvement,Closed,Fixed,13/03/08,20/09/14
+OFBIZ-1967,Improvement,Closed,Implemented,24/09/08,16/07/14
+OFBIZ-1897,Improvement,Closed,Incomplete,26/07/08,16/07/14
+OFBIZ-1857,Improvement,Closed,Not A Problem,30/06/08,16/07/14
+OFBIZ-1670,New Feature,Closed,Later,22/02/08,16/07/14
+OFBIZ-1586,Improvement,Closed,Later,21/01/08,16/07/14
+OFBIZ-1558,New Feature,Closed,Incomplete,03/01/08,16/07/14
+OFBIZ-1489,New Feature,Closed,Incomplete,05/12/07,16/07/14
+OFBIZ-1208,New Feature,Closed,Incomplete,16/08/07,16/07/14
+OFBIZ-1175,New Feature,Closed,Incomplete,01/08/07,16/07/14
+OFBIZ-1026,Improvement,Closed,Won't Fix,24/05/07,29/06/14
+OFBIZ-1019,New Feature,Closed,Not A Problem,24/05/07,29/06/14
+OFBIZ-1653,New Feature,Closed,Later,16/02/08,27/04/14
+OFBIZ-1644,New Feature,Closed,Later,15/02/08,27/04/14
+OFBIZ-1637,New Feature,Closed,Later,14/02/08,27/04/14
+OFBIZ-1971,Wish,Closed,Incomplete,26/09/08,21/04/14
+OFBIZ-1001,Wish,Closed,Later,21/05/07,21/04/14
+OFBIZ-1528,Improvement,Closed,Incomplete,17/12/07,02/04/14
+OFBIZ-1942,New Feature,Closed,Later,01/09/08,02/04/14
+OFBIZ-1029,Improvement,Closed,Won't Fix,24/05/07,26/03/14
+OFBIZ-1033,New Feature,Closed,Incomplete,24/05/07,26/03/14
+OFBIZ-1016,Improvement,Closed,Won't Fix,24/05/07,26/03/14
+OFBIZ-1018,New Feature,Closed,Not A Problem,24/05/07,16/11/13
+OFBIZ-1031,Improvement,Closed,Fixed,24/05/07,16/11/13
+OFBIZ-1968,Improvement,Closed,Fixed,25/09/08,16/11/13
+OFBIZ-1873,Improvement,Closed,Won't Fix,12/07/08,16/11/13
+OFBIZ-1028,Improvement,Closed,Fixed,24/05/07,16/11/13
+OFBIZ-1022,Improvement,Closed,Fixed,24/05/07,16/11/13
+OFBIZ-1662,Improvement,Closed,Fixed,19/02/08,06/08/13
+OFBIZ-1939,New Feature,Closed,Fixed,29/08/08,04/09/08
+OFBIZ-1645,New Feature,Closed,Later,15/02/08,01/04/12
+OFBIZ-1650,New Feature,Closed,Fixed,16/02/08,28/04/09
+OFBIZ-1642,New Feature,Closed,Fixed,15/02/08,28/04/09
+OFBIZ-1495,Improvement,Closed,Fixed,06/12/07,10/01/08
+OFBIZ-1649,New Feature,Closed,Fixed,16/02/08,27/05/08
+OFBIZ-1611,New Feature,Closed,Fixed,03/02/08,05/02/08
+OFBIZ-1237,Improvement,Closed,Fixed,13/09/07,30/10/07
+OFBIZ-1089,Improvement,Closed,Fixed,19/06/07,12/08/07
+OFBIZ-1164,Improvement,Closed,Fixed,20/07/07,11/08/07
+OFBIZ-1117,Improvement,Closed,Fixed,02/07/07,04/07/07
+OFBIZ-1984,New Feature,Closed,Fixed,04/10/08,13/04/12
+OFBIZ-1856,Improvement,Closed,Fixed,30/06/08,09/03/12
+OFBIZ-1768,Improvement,Closed,Fixed,07/05/08,13/01/12
+OFBIZ-1397,New Feature,Closed,Later,10/11/07,10/11/07
+OFBIZ-1286,New Feature,Closed,Won't Fix,02/10/07,12/01/08
+OFBIZ-1870,New Feature,Closed,Won't Fix,10/07/08,07/10/11
+OFBIZ-1559,New Feature,Closed,Duplicate,04/01/08,31/05/11
+OFBIZ-1048,Improvement,Closed,Incomplete,01/06/07,30/01/11
+OFBIZ-1441,New Feature,Closed,Fixed,27/11/07,11/12/07
+OFBIZ-1847,New Feature,Closed,Fixed,23/06/08,21/01/11
+OFBIZ-2000,New Feature,Closed,Fixed,16/10/08,18/01/11
+OFBIZ-1874,Improvement,Closed,Fixed,12/07/08,22/12/10
+OFBIZ-1262,Improvement,Closed,Won't Fix,24/09/07,02/12/10
+OFBIZ-1425,Improvement,Closed,Fixed,24/11/07,04/12/07
+OFBIZ-1825,Improvement,Closed,Fixed,05/06/08,02/12/09
+OFBIZ-1383,New Feature,Closed,Not A Problem,03/11/07,05/12/09
+OFBIZ-1007,Improvement,Closed,Fixed,21/05/07,05/12/09
+OFBIZ-1348,Improvement,Closed,Incomplete,16/10/07,22/10/08
+OFBIZ-1883,Improvement,Closed,Fixed,18/07/08,21/07/08
+OFBIZ-1896,Improvement,Closed,Fixed,25/07/08,28/07/08
+OFBIZ-1975,Wish,Closed,Invalid,28/09/08,28/09/08
+OFBIZ-1313,Improvement,Closed,Won't Fix,04/10/07,17/09/09
+OFBIZ-1023,Improvement,Closed,Fixed,24/05/07,16/09/09
+OFBIZ-1086,Improvement,Closed,Fixed,16/06/07,10/09/09
+OFBIZ-1987,Improvement,Closed,Later,07/10/08,08/09/09
+OFBIZ-1890,Improvement,Closed,Fixed,23/07/08,27/07/08
+OFBIZ-1172,Improvement,Closed,Fixed,26/07/07,20/07/09
+OFBIZ-1557,New Feature,Closed,Fixed,02/01/08,26/08/09
+OFBIZ-1742,New Feature,Closed,Fixed,07/04/08,15/08/09
+OFBIZ-1668,Improvement,Closed,Fixed,22/02/08,07/08/09
+OFBIZ-1382,New Feature,Closed,Later,03/11/07,04/01/08
+OFBIZ-1365,Improvement,Closed,Won't Fix,24/10/07,04/05/09
+OFBIZ-1034,Improvement,Closed,Fixed,24/05/07,04/05/09
+OFBIZ-1643,New Feature,Closed,Fixed,15/02/08,28/04/09
+OFBIZ-1641,New Feature,Closed,Fixed,15/02/08,28/04/09
+OFBIZ-1646,New Feature,Closed,Fixed,15/02/08,28/04/09
+OFBIZ-1758,Improvement,Closed,Fixed,25/04/08,21/04/09
+OFBIZ-1462,New Feature,Closed,Fixed,01/12/07,08/04/09
+OFBIZ-1940,New Feature,Closed,Fixed,29/08/08,07/04/09
+OFBIZ-1235,New Feature,Closed,Fixed,12/09/07,06/04/09
+OFBIZ-1486,Improvement,Closed,Won't Fix,04/12/07,21/03/09
+OFBIZ-1398,Improvement,Closed,Later,12/11/07,08/03/09
+OFBIZ-1700,New Feature,Closed,Fixed,08/03/08,16/02/09
+OFBIZ-1406,New Feature,Closed,Won't Fix,16/11/07,08/02/09
+OFBIZ-1906,Improvement,Closed,Fixed,05/08/08,22/01/09
+OFBIZ-1780,Improvement,Closed,Fixed,11/05/08,18/01/09
+OFBIZ-1954,New Feature,Closed,Fixed,12/09/08,16/01/09
+OFBIZ-1753,Improvement,Closed,Fixed,15/04/08,15/01/09
+OFBIZ-1941,New Feature,Closed,Won't Fix,01/09/08,30/12/08
+OFBIZ-1352,Improvement,Closed,Won't Fix,18/10/07,30/12/08
+OFBIZ-1648,Improvement,Closed,Fixed,15/02/08,30/12/08
+OFBIZ-1796,Improvement,Closed,Fixed,16/05/08,15/12/08
+OFBIZ-1999,New Feature,Closed,Fixed,15/10/08,22/11/08
+OFBIZ-1996,Improvement,Closed,Fixed,13/10/08,08/11/08
+OFBIZ-1754,New Feature,Closed,Later,16/04/08,01/11/08
+OFBIZ-1911,New Feature,Closed,Later,07/08/08,25/10/08
+OFBIZ-1974,Improvement,Closed,Later,26/09/08,25/10/08
+OFBIZ-1209,Improvement,Closed,Later,17/08/07,25/10/08
+OFBIZ-1992,New Feature,Closed,Fixed,11/10/08,24/10/08
+OFBIZ-1852,Improvement,Closed,Won't Fix,26/06/08,23/10/08
+OFBIZ-1725,New Feature,Closed,Won't Fix,30/03/08,23/10/08
+OFBIZ-1252,New Feature,Closed,Incomplete,17/09/07,23/10/08
+OFBIZ-1421,Improvement,Closed,Incomplete,22/11/07,22/10/08
+OFBIZ-1219,New Feature,Closed,Invalid,30/08/07,22/10/08
+OFBIZ-1950,Improvement,Closed,Fixed,06/09/08,19/10/08
+OFBIZ-1997,Improvement,Closed,Fixed,14/10/08,14/10/08
+OFBIZ-1955,Improvement,Closed,Incomplete,12/09/08,14/10/08
+OFBIZ-1988,New Feature,Closed,Invalid,07/10/08,09/10/08
+OFBIZ-1990,Improvement,Closed,Fixed,07/10/08,08/10/08
+OFBIZ-1978,Improvement,Closed,Fixed,30/09/08,06/10/08
+OFBIZ-1943,Improvement,Closed,Fixed,01/09/08,06/10/08
+OFBIZ-1912,New Feature,Closed,Fixed,08/08/08,14/08/08
+OFBIZ-1983,Improvement,Closed,Fixed,04/10/08,04/10/08
+OFBIZ-1985,Improvement,Closed,Fixed,04/10/08,04/10/08
+OFBIZ-1980,Improvement,Closed,Fixed,03/10/08,03/10/08
+OFBIZ-1965,Improvement,Closed,Fixed,22/09/08,23/09/08
+OFBIZ-1885,Improvement,Closed,Fixed,19/07/08,23/09/08
+OFBIZ-1610,Improvement,Closed,Fixed,02/02/08,04/02/08
+OFBIZ-1801,Improvement,Closed,Fixed,23/05/08,23/09/08
+OFBIZ-1963,Improvement,Closed,Fixed,17/09/08,23/09/08
+OFBIZ-1920,Improvement,Closed,Fixed,14/08/08,22/09/08
+OFBIZ-1966,Improvement,Closed,Fixed,22/09/08,22/09/08
+OFBIZ-1956,Improvement,Closed,Fixed,13/09/08,15/09/08
+OFBIZ-1689,New Feature,Closed,Fixed,29/02/08,12/09/08
+OFBIZ-1805,Improvement,Closed,Fixed,27/05/08,10/09/08
+OFBIZ-1947,New Feature,Closed,Won't Fix,03/09/08,04/09/08
+OFBIZ-1750,New Feature,Closed,Fixed,13/04/08,03/09/08
+OFBIZ-1936,Improvement,Closed,Fixed,29/08/08,30/08/08
+OFBIZ-1937,New Feature,Closed,Fixed,29/08/08,29/08/08
+OFBIZ-1930,New Feature,Closed,Fixed,22/08/08,28/08/08
+OFBIZ-1934,Improvement,Closed,Fixed,27/08/08,28/08/08
+OFBIZ-1932,Improvement,Closed,Fixed,24/08/08,27/08/08
+OFBIZ-1928,New Feature,Closed,Fixed,20/08/08,26/08/08
+OFBIZ-1927,Improvement,Closed,Fixed,20/08/08,25/08/08
+OFBIZ-1893,New Feature,Closed,Fixed,24/07/08,25/08/08
+OFBIZ-1931,Improvement,Closed,Fixed,23/08/08,25/08/08
+OFBIZ-1921,Improvement,Closed,Fixed,15/08/08,21/08/08
+OFBIZ-1924,Improvement,Closed,Fixed,19/08/08,20/08/08
+OFBIZ-1919,New Feature,Closed,Fixed,14/08/08,16/08/08
+OFBIZ-1915,Improvement,Closed,Fixed,11/08/08,15/08/08
+OFBIZ-1908,Improvement,Closed,Fixed,05/08/08,09/08/08
+OFBIZ-1899,Improvement,Closed,Fixed,28/07/08,09/08/08
+OFBIZ-1904,Improvement,Closed,Invalid,31/07/08,31/07/08
+OFBIZ-1880,Improvement,Closed,Fixed,15/07/08,29/07/08
+OFBIZ-1881,Improvement,Closed,Fixed,17/07/08,27/07/08
+OFBIZ-1891,Improvement,Closed,Fixed,23/07/08,27/07/08
+OFBIZ-1894,Improvement,Closed,Fixed,24/07/08,25/07/08
+OFBIZ-1413,Improvement,Closed,Incomplete,19/11/07,16/07/08
+OFBIZ-1886,Improvement,Closed,Fixed,20/07/08,22/07/08
+OFBIZ-1884,New Feature,Closed,Fixed,18/07/08,21/07/08
+OFBIZ-1858,Improvement,Closed,Invalid,30/06/08,18/07/08
+OFBIZ-1877,Improvement,Closed,Fixed,15/07/08,15/07/08
+OFBIZ-1124,Improvement,Closed,Incomplete,04/07/07,16/07/08
+OFBIZ-1141,Improvement,Closed,Incomplete,12/07/07,16/07/08
+OFBIZ-1878,Improvement,Closed,Fixed,15/07/08,15/07/08
+OFBIZ-1864,Improvement,Closed,Fixed,07/07/08,15/07/08
+OFBIZ-1876,Improvement,Closed,Fixed,15/07/08,15/07/08
+OFBIZ-1863,Improvement,Closed,Fixed,07/07/08,08/07/08
+OFBIZ-1628,Improvement,Closed,Duplicate,10/02/08,05/07/08
+OFBIZ-1851,Improvement,Closed,Fixed,25/06/08,03/07/08
+OFBIZ-1791,Improvement,Closed,Fixed,13/05/08,02/07/08
+OFBIZ-1855,New Feature,Closed,Fixed,28/06/08,01/07/08
+OFBIZ-1839,Improvement,Closed,Fixed,11/06/08,27/06/08
+OFBIZ-1794,New Feature,Closed,Fixed,15/05/08,27/06/08
+OFBIZ-1849,Improvement,Closed,Fixed,25/06/08,25/06/08
+OFBIZ-1846,Improvement,Closed,Fixed,22/06/08,24/06/08
+OFBIZ-1831,New Feature,Closed,Fixed,09/06/08,21/06/08
+OFBIZ-1841,Improvement,Closed,Fixed,14/06/08,21/06/08
+OFBIZ-1842,Improvement,Closed,Fixed,17/06/08,21/06/08
+OFBIZ-1659,New Feature,Closed,Fixed,19/02/08,11/06/08
+OFBIZ-1834,Improvement,Closed,Fixed,09/06/08,09/06/08
+OFBIZ-1827,Improvement,Closed,Fixed,08/06/08,09/06/08
+OFBIZ-1829,Improvement,Closed,Fixed,09/06/08,09/06/08
+OFBIZ-1828,Improvement,Closed,Fixed,08/06/08,08/06/08
+OFBIZ-1722,New Feature,Closed,Fixed,28/03/08,06/06/08
+OFBIZ-1808,New Feature,Closed,Fixed,28/05/08,05/06/08
+OFBIZ-1739,Improvement,Closed,Fixed,06/04/08,04/06/08
+OFBIZ-1816,Improvement,Closed,Fixed,01/06/08,02/06/08
+OFBIZ-1812,Improvement,Closed,Fixed,30/05/08,30/05/08
+OFBIZ-1800,Improvement,Closed,Fixed,21/05/08,27/05/08
+OFBIZ-1798,New Feature,Closed,Fixed,19/05/08,21/05/08
+OFBIZ-1756,New Feature,Closed,Fixed,23/04/08,20/05/08
+OFBIZ-1343,Wish,Closed,Fixed,11/10/07,19/05/08
+OFBIZ-1779,New Feature,Closed,Fixed,09/05/08,18/05/08
+OFBIZ-1793,Improvement,Closed,Fixed,15/05/08,15/05/08
+OFBIZ-1781,New Feature,Closed,Fixed,12/05/08,13/05/08
+OFBIZ-1672,Improvement,Closed,Fixed,23/02/08,13/05/08
+OFBIZ-1773,New Feature,Closed,Fixed,08/05/08,12/05/08
+OFBIZ-1667,Improvement,Closed,Fixed,22/02/08,08/05/08
+OFBIZ-1661,Improvement,Closed,Fixed,19/02/08,08/05/08
+OFBIZ-1635,Improvement,Closed,Fixed,11/02/08,07/05/08
+OFBIZ-1658,Improvement,Closed,Fixed,18/02/08,05/05/08
+OFBIZ-1762,Improvement,Closed,Fixed,01/05/08,01/05/08
+OFBIZ-1651,New Feature,Closed,Fixed,16/02/08,30/04/08
+OFBIZ-1707,Improvement,Closed,Won't Fix,15/03/08,30/03/08
+OFBIZ-1714,New Feature,Closed,Fixed,19/03/08,24/03/08
+OFBIZ-1747,Improvement,Closed,Fixed,12/04/08,12/04/08
+OFBIZ-1049,Improvement,Closed,Fixed,01/06/07,05/04/08
+OFBIZ-1046,Improvement,Closed,Fixed,31/05/07,05/04/08
+OFBIZ-1234,Improvement,Closed,Fixed,11/09/07,03/04/08
+OFBIZ-1695,Wish,Closed,Fixed,07/03/08,02/04/08
+OFBIZ-1721,Improvement,Closed,Invalid,26/03/08,26/03/08
+OFBIZ-1704,Improvement,Closed,Fixed,12/03/08,24/03/08
+OFBIZ-1364,Improvement,Closed,Fixed,22/10/07,24/03/08
+OFBIZ-1619,Improvement,Closed,Fixed,06/02/08,23/03/08
+OFBIZ-1709,Improvement,Closed,Fixed,17/03/08,18/03/08
+OFBIZ-1703,Improvement,Closed,Fixed,11/03/08,12/03/08
+OFBIZ-1701,Improvement,Closed,Fixed,08/03/08,09/03/08
+OFBIZ-1691,Improvement,Closed,Fixed,04/03/08,06/03/08
+OFBIZ-1686,New Feature,Closed,Fixed,28/02/08,05/03/08
+OFBIZ-1685,Improvement,Closed,Fixed,27/02/08,01/03/08
+OFBIZ-1688,Improvement,Closed,Fixed,29/02/08,29/02/08
+OFBIZ-1657,Improvement,Closed,Fixed,18/02/08,23/02/08
+OFBIZ-1417,Improvement,Closed,Duplicate,21/11/07,20/02/08
+OFBIZ-1664,Improvement,Closed,Fixed,20/02/08,20/02/08
+OFBIZ-1655,Improvement,Closed,Fixed,18/02/08,19/02/08
+OFBIZ-1625,Improvement,Closed,Fixed,08/02/08,19/02/08
+OFBIZ-1633,Improvement,Closed,Fixed,11/02/08,16/02/08
+OFBIZ-1639,Improvement,Closed,Fixed,14/02/08,15/02/08
+OFBIZ-1626,New Feature,Closed,Fixed,08/02/08,12/02/08
+OFBIZ-1250,New Feature,Closed,Fixed,17/09/07,16/12/07
+OFBIZ-1618,Improvement,Closed,Fixed,04/02/08,05/02/08
+OFBIZ-1617,Improvement,Closed,Fixed,04/02/08,04/02/08
+OFBIZ-1616,Improvement,Closed,Fixed,04/02/08,04/02/08
+OFBIZ-1615,Improvement,Closed,Fixed,04/02/08,04/02/08
+OFBIZ-1614,Improvement,Closed,Fixed,04/02/08,04/02/08
+OFBIZ-1613,Improvement,Closed,Fixed,04/02/08,04/02/08
+OFBIZ-1601,Improvement,Closed,Fixed,25/01/08,02/02/08
+OFBIZ-1603,Improvement,Closed,Fixed,27/01/08,31/01/08
+OFBIZ-1249,New Feature,Closed,Fixed,17/09/07,29/01/08
+OFBIZ-1596,Improvement,Closed,Fixed,25/01/08,27/01/08
+OFBIZ-1595,Improvement,Closed,Fixed,24/01/08,25/01/08
+OFBIZ-1593,Improvement,Closed,Fixed,22/01/08,24/01/08
+OFBIZ-1594,Improvement,Closed,Fixed,24/01/08,24/01/08
+OFBIZ-1583,Improvement,Closed,Fixed,17/01/08,22/01/08
+OFBIZ-1588,Improvement,Closed,Fixed,21/01/08,22/01/08
+OFBIZ-1545,Improvement,Closed,Fixed,22/12/07,20/01/08
+OFBIZ-1582,Improvement,Closed,Fixed,16/01/08,19/01/08
+OFBIZ-1453,Improvement,Closed,Fixed,29/11/07,18/01/08
+OFBIZ-1573,Improvement,Closed,Fixed,10/01/08,11/01/08
+OFBIZ-1569,Improvement,Closed,Fixed,10/01/08,11/01/08
+OFBIZ-1068,Improvement,Closed,Won't Fix,07/06/07,12/01/08
+OFBIZ-1403,Improvement,Closed,Won't Fix,15/11/07,12/01/08
+OFBIZ-1574,Improvement,Closed,Fixed,11/01/08,12/01/08
+OFBIZ-1563,Improvement,Closed,Fixed,09/01/08,11/01/08
+OFBIZ-1570,Improvement,Closed,Fixed,10/01/08,11/01/08
+OFBIZ-1568,New Feature,Closed,Fixed,09/01/08,11/01/08
+OFBIZ-1513,New Feature,Closed,Fixed,11/12/07,08/01/08
+OFBIZ-1556,Improvement,Closed,Fixed,02/01/08,07/01/08
+OFBIZ-1517,New Feature,Closed,Fixed,12/12/07,04/01/08
+OFBIZ-1512,New Feature,Closed,Fixed,11/12/07,04/01/08
+OFBIZ-1424,Improvement,Closed,Fixed,24/11/07,02/01/08
+OFBIZ-1544,Improvement,Closed,Fixed,22/12/07,02/01/08
+OFBIZ-1553,Improvement,Closed,Fixed,29/12/07,29/12/07
+OFBIZ-1485,Improvement,Closed,Fixed,04/12/07,30/12/07
+OFBIZ-1550,New Feature,Closed,Fixed,27/12/07,28/12/07
+OFBIZ-1536,Improvement,Closed,Fixed,19/12/07,29/12/07
+OFBIZ-1516,New Feature,Closed,Fixed,12/12/07,29/12/07
+OFBIZ-1534,Improvement,Closed,Fixed,19/12/07,29/12/07
+OFBIZ-1518,New Feature,Closed,Fixed,12/12/07,25/12/07
+OFBIZ-1511,New Feature,Closed,Fixed,11/12/07,25/12/07
+OFBIZ-1509,Improvement,Closed,Fixed,11/12/07,25/12/07
+OFBIZ-1499,Improvement,Closed,Fixed,08/12/07,25/12/07
+OFBIZ-1256,New Feature,Closed,Fixed,19/09/07,25/12/07
+OFBIZ-1380,Improvement,Closed,Incomplete,03/11/07,22/12/07
+OFBIZ-1150,Improvement,Closed,Fixed,17/07/07,21/12/07
+OFBIZ-1438,Improvement,Closed,Duplicate,27/11/07,20/12/07
+OFBIZ-1527,Improvement,Closed,Fixed,17/12/07,20/12/07
+OFBIZ-1535,Improvement,Closed,Fixed,19/12/07,20/12/07
+OFBIZ-1515,New Feature,Closed,Fixed,12/12/07,20/12/07
+OFBIZ-1450,Improvement,Closed,Fixed,28/11/07,18/12/07
+OFBIZ-1507,New Feature,Closed,Fixed,11/12/07,18/12/07
+OFBIZ-1351,Improvement,Closed,Fixed,17/10/07,14/12/07
+OFBIZ-1247,Improvement,Closed,Fixed,17/09/07,14/12/07
+OFBIZ-1248,Improvement,Closed,Fixed,17/09/07,14/12/07
+OFBIZ-1508,New Feature,Closed,Fixed,11/12/07,14/12/07
+OFBIZ-1521,New Feature,Closed,Fixed,13/12/07,13/12/07
+OFBIZ-1442,Improvement,Closed,Fixed,28/11/07,03/12/07
+OFBIZ-1372,Improvement,Closed,Fixed,27/10/07,12/12/07
+OFBIZ-1498,Improvement,Closed,Fixed,07/12/07,12/12/07
+OFBIZ-1414,Improvement,Closed,Fixed,20/11/07,12/12/07
+OFBIZ-1359,Improvement,Closed,Duplicate,21/10/07,11/12/07
+OFBIZ-1433,Improvement,Closed,Fixed,27/11/07,11/12/07
+OFBIZ-1393,Improvement,Closed,Fixed,09/11/07,11/12/07
+OFBIZ-1401,Improvement,Closed,Fixed,14/11/07,11/12/07
+OFBIZ-1500,Improvement,Closed,Fixed,09/12/07,10/12/07
+OFBIZ-1410,Improvement,Closed,Fixed,17/11/07,08/12/07
+OFBIZ-1203,Improvement,Closed,Fixed,13/08/07,08/12/07
+OFBIZ-1407,New Feature,Closed,Fixed,16/11/07,05/12/07
+OFBIZ-1422,Improvement,Closed,Fixed,22/11/07,04/12/07
+OFBIZ-1131,Improvement,Closed,Fixed,08/07/07,01/12/07
+OFBIZ-1430,New Feature,Closed,Fixed,26/11/07,27/11/07
+OFBIZ-1420,Improvement,Closed,Fixed,21/11/07,26/11/07
+OFBIZ-1408,New Feature,Closed,Fixed,16/11/07,26/11/07
+OFBIZ-1419,Improvement,Closed,Fixed,21/11/07,22/11/07
+OFBIZ-1389,Improvement,Closed,Fixed,08/11/07,20/11/07
+OFBIZ-1390,Improvement,Closed,Fixed,08/11/07,20/11/07
+OFBIZ-1402,Improvement,Closed,Fixed,14/11/07,17/11/07
+OFBIZ-1168,Improvement,Closed,Fixed,21/07/07,16/11/07
+OFBIZ-1404,New Feature,Closed,Invalid,15/11/07,15/11/07
+OFBIZ-1405,New Feature,Closed,Fixed,15/11/07,15/11/07
+OFBIZ-1377,Improvement,Closed,Fixed,01/11/07,12/11/07
+OFBIZ-1012,Improvement,Closed,Fixed,23/05/07,12/11/07
+OFBIZ-1318,Improvement,Closed,Fixed,06/10/07,12/11/07
+OFBIZ-1392,Improvement,Closed,Fixed,08/11/07,09/11/07
+OFBIZ-1036,New Feature,Closed,Fixed,25/05/07,01/06/07
+OFBIZ-1386,Improvement,Closed,Fixed,05/11/07,05/11/07
+OFBIZ-1367,Improvement,Closed,Fixed,26/10/07,28/10/07
+OFBIZ-1239,New Feature,Closed,Incomplete,13/09/07,30/10/07
+OFBIZ-1362,Improvement,Closed,Fixed,22/10/07,27/10/07
+OFBIZ-1358,Improvement,Closed,Duplicate,21/10/07,27/10/07
+OFBIZ-1320,Improvement,Closed,Fixed,06/10/07,26/10/07
+OFBIZ-1355,Improvement,Closed,Fixed,19/10/07,20/10/07
+OFBIZ-1353,Improvement,Closed,Fixed,18/10/07,19/10/07
+OFBIZ-1118,Improvement,Closed,Fixed,03/07/07,19/10/07
+OFBIZ-1349,Improvement,Closed,Fixed,17/10/07,18/10/07
+OFBIZ-1291,Improvement,Closed,Fixed,03/10/07,18/10/07
+OFBIZ-1292,New Feature,Closed,Fixed,03/10/07,17/10/07
+OFBIZ-1342,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1335,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1330,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1341,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1331,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1324,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1306,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1303,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1305,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1304,New Feature,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1328,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1302,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1329,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1333,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1301,New Feature,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1299,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1300,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1295,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1327,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1284,New Feature,Closed,Fixed,02/10/07,17/10/07
+OFBIZ-1326,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1334,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1325,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1312,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1309,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1297,New Feature,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1293,Improvement,Closed,Fixed,03/10/07,17/10/07
+OFBIZ-1311,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1339,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1340,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1337,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1310,Improvement,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1336,Improvement,Closed,Fixed,10/10/07,17/10/07
+OFBIZ-1307,New Feature,Closed,Fixed,04/10/07,17/10/07
+OFBIZ-1323,Improvement,Closed,Fixed,09/10/07,17/10/07
+OFBIZ-1347,Improvement,Closed,Invalid,15/10/07,17/10/07
+OFBIZ-1290,Improvement,Closed,Fixed,03/10/07,17/10/07
+OFBIZ-1280,New Feature,Closed,Fixed,02/10/07,17/10/07
+OFBIZ-1040,Improvement,Closed,Fixed,28/05/07,17/10/07
+OFBIZ-1246,Improvement,Closed,Fixed,16/09/07,13/10/07
+OFBIZ-1230,Improvement,Closed,Fixed,09/09/07,06/10/07
+OFBIZ-1231,Improvement,Closed,Fixed,09/09/07,06/10/07
+OFBIZ-1275,Improvement,Closed,Fixed,28/09/07,28/09/07
+OFBIZ-1276,Improvement,Closed,Fixed,28/09/07,28/09/07
+OFBIZ-1258,Improvement,Closed,Fixed,20/09/07,28/09/07
+OFBIZ-1177,New Feature,Closed,Fixed,02/08/07,24/09/07
+OFBIZ-1236,Improvement,Closed,Fixed,12/09/07,13/09/07
+OFBIZ-1238,New Feature,Closed,Duplicate,13/09/07,13/09/07
+OFBIZ-1228,Improvement,Closed,Fixed,06/09/07,11/09/07
+OFBIZ-1174,Improvement,Closed,Fixed,31/07/07,11/09/07
+OFBIZ-1214,Improvement,Closed,Fixed,22/08/07,31/08/07
+OFBIZ-1215,Improvement,Closed,Fixed,22/08/07,28/08/07
+OFBIZ-1179,Improvement,Closed,Invalid,03/08/07,25/08/07
+OFBIZ-1102,Improvement,Closed,Fixed,26/06/07,18/08/07
+OFBIZ-1205,Improvement,Closed,Fixed,15/08/07,16/08/07
+OFBIZ-1083,Improvement,Closed,Fixed,15/06/07,16/08/07
+OFBIZ-1171,Improvement,Closed,Fixed,24/07/07,15/08/07
+OFBIZ-1194,Improvement,Closed,Fixed,09/08/07,13/08/07
+OFBIZ-1188,Improvement,Closed,Fixed,07/08/07,11/08/07
+OFBIZ-1196,Improvement,Closed,Fixed,10/08/07,11/08/07
+OFBIZ-1159,New Feature,Closed,Fixed,18/07/07,07/08/07
+OFBIZ-1184,Improvement,Closed,Fixed,05/08/07,05/08/07
+OFBIZ-1183,Improvement,Closed,Fixed,04/08/07,05/08/07
+OFBIZ-1169,Improvement,Closed,Fixed,23/07/07,30/07/07
+OFBIZ-1096,Improvement,Closed,Fixed,25/06/07,28/07/07
+OFBIZ-1167,Improvement,Closed,Fixed,20/07/07,28/07/07
+OFBIZ-1127,Improvement,Closed,Later,05/07/07,21/07/07
+OFBIZ-1153,Improvement,Closed,Fixed,17/07/07,17/07/07
+OFBIZ-1136,New Feature,Closed,Fixed,10/07/07,13/07/07
+OFBIZ-1123,Improvement,Closed,Fixed,03/07/07,17/07/07
+OFBIZ-1147,Improvement,Closed,Fixed,13/07/07,13/07/07
+OFBIZ-1137,Improvement,Closed,Fixed,11/07/07,13/07/07
+OFBIZ-1120,Improvement,Closed,Fixed,03/07/07,11/07/07
+OFBIZ-1139,Improvement,Closed,Won't Fix,11/07/07,12/07/07
+OFBIZ-1140,Improvement,Closed,Fixed,11/07/07,12/07/07
+OFBIZ-1135,Improvement,Closed,Fixed,10/07/07,10/07/07
+OFBIZ-1095,Improvement,Closed,Fixed,24/06/07,10/07/07
+OFBIZ-1104,Improvement,Closed,Fixed,26/06/07,07/07/07
+OFBIZ-1076,New Feature,Closed,Fixed,11/06/07,07/07/07
+OFBIZ-1129,Improvement,Closed,Fixed,05/07/07,06/07/07
+OFBIZ-1105,Improvement,Closed,Fixed,27/06/07,02/07/07
+OFBIZ-1047,Improvement,Closed,Fixed,31/05/07,02/07/07
+OFBIZ-1097,Improvement,Closed,Fixed,25/06/07,28/06/07
+OFBIZ-1075,Improvement,Closed,Fixed,10/06/07,24/06/07
+OFBIZ-1093,Improvement,Closed,Fixed,22/06/07,22/06/07
+OFBIZ-1074,Improvement,Closed,Fixed,10/06/07,20/06/07
+OFBIZ-1079,Improvement,Closed,Fixed,13/06/07,19/06/07
+OFBIZ-1057,Improvement,Closed,Fixed,02/06/07,08/06/07
+OFBIZ-1062,Improvement,Closed,Fixed,03/06/07,08/06/07
+OFBIZ-1039,Improvement,Closed,Fixed,27/05/07,08/06/07
+OFBIZ-1042,Improvement,Closed,Fixed,28/05/07,08/06/07
+OFBIZ-1037,Improvement,Closed,Fixed,26/05/07,08/06/07
+OFBIZ-1038,Improvement,Closed,Fixed,26/05/07,08/06/07
+OFBIZ-1051,Improvement,Closed,Fixed,01/06/07,07/06/07
+OFBIZ-1063,Improvement,Closed,Fixed,04/06/07,06/06/07
+OFBIZ-1061,Improvement,Closed,Fixed,03/06/07,04/06/07
+OFBIZ-1052,Improvement,Closed,Fixed,01/06/07,01/06/07
+OFBIZ-1003,Improvement,Closed,Fixed,21/05/07,01/06/07
+OFBIZ-1004,Improvement,Closed,Fixed,21/05/07,01/06/07
+OFBIZ-1002,Improvement,Closed,Fixed,21/05/07,22/05/07
+OFBIZ-2118,New Feature,Closed,Fixed,10/01/09,01/02/09
+OFBIZ-2100,New Feature,Closed,Not A Problem,22/12/08,01/03/15
+OFBIZ-2547,Improvement,Closed,Fixed,29/05/09,29/05/09
+OFBIZ-2484,New Feature,Closed,Fixed,18/05/09,19/05/09
+OFBIZ-2542,Improvement,Closed,Fixed,28/05/09,29/05/09
+OFBIZ-2670,Improvement,Closed,Fixed,29/06/09,30/06/09
+OFBIZ-2663,Improvement,Closed,Fixed,26/06/09,27/06/09
+OFBIZ-2687,Improvement,Closed,Fixed,02/07/09,03/07/09
+OFBIZ-2377,New Feature,Closed,Fixed,28/04/09,01/05/09
+OFBIZ-2608,Improvement,Closed,Fixed,15/06/09,15/06/09
+OFBIZ-2062,Improvement,Closed,Fixed,24/11/08,04/11/09
+OFBIZ-2580,Wish,Closed,Invalid,09/06/09,09/06/09
+OFBIZ-2157,Improvement,Closed,Later,31/01/09,01/02/09
+OFBIZ-2158,Improvement,Closed,Not A Problem,01/02/09,16/07/14
+OFBIZ-2027,Improvement,Closed,Fixed,27/10/08,01/11/08
+OFBIZ-2235,Wish,Closed,Invalid,10/03/09,10/03/09
+OFBIZ-2895,New Feature,Closed,Fixed,05/09/09,24/09/09
+OFBIZ-2443,Improvement,Closed,Won't Fix,08/05/09,03/09/16
+OFBIZ-2614,Wish,Closed,Fixed,16/06/09,16/11/13
+OFBIZ-2521,Improvement,Closed,Not A Problem,26/05/09,04/07/16
+OFBIZ-2064,Wish,Closed,Cannot Reproduce,28/11/08,19/06/16
+OFBIZ-2173,Improvement,Closed,Fixed,07/02/09,07/02/09
+OFBIZ-2531,Improvement,Closed,Works for Me,27/05/09,08/04/16
+OFBIZ-2983,Improvement,Closed,Fixed,01/10/09,21/12/15
+OFBIZ-2995,Improvement,Closed,Fixed,03/10/09,21/11/15
+OFBIZ-2813,Improvement,Closed,Implemented,07/08/09,03/11/15
+OFBIZ-2328,Improvement,Closed,Later,21/04/09,21/10/15
+OFBIZ-2866,Improvement,Closed,Duplicate,26/08/09,17/09/15
+OFBIZ-2831,Improvement,Closed,Fixed,13/08/09,03/06/15
+OFBIZ-2864,New Feature,Closed,Incomplete,26/08/09,27/05/15
+OFBIZ-2120,Improvement,Closed,Fixed,13/01/09,07/02/09
+OFBIZ-2052,New Feature,Closed,Implemented,18/11/08,23/02/15
+OFBIZ-2348,Wish,Closed,Later,23/04/09,16/07/14
+OFBIZ-2790,Improvement,Closed,Won't Fix,03/08/09,16/08/14
+OFBIZ-2383,Improvement,Closed,Incomplete,29/04/09,16/07/14
+OFBIZ-2009,New Feature,Closed,Incomplete,20/10/08,16/07/14
+OFBIZ-2474,New Feature,Closed,Incomplete,15/05/09,14/07/14
+OFBIZ-2267,New Feature,Closed,Incomplete,02/04/09,24/04/14
+OFBIZ-2390,Improvement,Closed,Won't Fix,29/04/09,24/04/14
+OFBIZ-2616,Wish,Closed,Incomplete,16/06/09,21/04/14
+OFBIZ-2107,Improvement,Closed,Won't Fix,29/12/08,21/04/14
+OFBIZ-2117,New Feature,Closed,Fixed,10/01/09,21/04/14
+OFBIZ-2008,New Feature,Closed,Later,19/10/08,02/04/14
+OFBIZ-2944,Improvement,Closed,Fixed,15/09/09,02/04/14
+OFBIZ-2471,Wish,Closed,Won't Fix,13/05/09,27/03/14
+OFBIZ-2385,Improvement,Closed,Incomplete,29/04/09,26/03/14
+OFBIZ-2624,New Feature,Closed,Incomplete,17/06/09,26/03/14
+OFBIZ-2343,New Feature,Closed,Fixed,22/04/09,16/11/13
+OFBIZ-2342,New Feature,Closed,Fixed,22/04/09,16/11/13
+OFBIZ-2548,Improvement,Closed,Fixed,29/05/09,12/06/09
+OFBIZ-2106,New Feature,Closed,Fixed,27/12/08,21/02/09
+OFBIZ-2172,New Feature,Closed,Fixed,05/02/09,11/02/09
+OFBIZ-2399,New Feature,Closed,Fixed,01/05/09,17/01/13
+OFBIZ-2640,New Feature,Closed,Later,20/06/09,30/12/12
+OFBIZ-2019,Improvement,Closed,Fixed,24/10/08,10/11/12
+OFBIZ-2862,Improvement,Closed,Fixed,25/08/09,15/04/12
+OFBIZ-2958,Improvement,Closed,Fixed,18/09/09,13/04/12
+OFBIZ-2366,New Feature,Closed,Incomplete,27/04/09,31/03/12
+OFBIZ-2581,Improvement,Closed,Fixed,09/06/09,09/03/12
+OFBIZ-2889,Improvement,Closed,Fixed,01/09/09,25/02/12
+OFBIZ-2800,New Feature,Closed,Fixed,05/08/09,17/12/11
+OFBIZ-2868,Improvement,Closed,Fixed,26/08/09,15/12/11
+OFBIZ-2901,New Feature,Closed,Won't Fix,07/09/09,14/12/11
+OFBIZ-2488,New Feature,Closed,Fixed,19/05/09,31/01/11
+OFBIZ-2601,Improvement,Closed,Fixed,13/06/09,13/12/11
+OFBIZ-2992,Improvement,Closed,Incomplete,03/10/09,30/05/11
+OFBIZ-2290,Improvement,Closed,Fixed,12/04/09,30/05/11
+OFBIZ-2042,New Feature,Closed,Won't Fix,12/11/08,09/05/11
+OFBIZ-2132,Wish,Closed,Fixed,19/01/09,24/04/11
+OFBIZ-2460,Improvement,Closed,Cannot Reproduce,11/05/09,13/02/11
+OFBIZ-2900,Improvement,Closed,Cannot Reproduce,07/09/09,13/02/11
+OFBIZ-2921,Improvement,Closed,Fixed,09/09/09,21/01/11
+OFBIZ-2554,Improvement,Closed,Later,31/05/09,20/01/11
+OFBIZ-2493,Improvement,Closed,Cannot Reproduce,19/05/09,20/01/11
+OFBIZ-2703,Wish,Closed,Fixed,05/07/09,20/01/11
+OFBIZ-2897,Improvement,Closed,Cannot Reproduce,06/09/09,18/01/11
+OFBIZ-2228,New Feature,Closed,Won't Fix,04/03/09,18/01/11
+OFBIZ-2469,Improvement,Closed,Won't Fix,13/05/09,10/01/11
+OFBIZ-2589,Improvement,Closed,Fixed,10/06/09,02/01/11
+OFBIZ-2133,New Feature,Closed,Fixed,20/01/09,01/03/09
+OFBIZ-2964,Improvement,Closed,Fixed,23/09/09,25/01/10
+OFBIZ-2116,New Feature,Closed,Fixed,09/01/09,14/08/09
+OFBIZ-2693,New Feature,Closed,Duplicate,03/07/09,05/07/09
+OFBIZ-2129,Improvement,Closed,Fixed,18/01/09,27/11/10
+OFBIZ-2380,Improvement,Closed,Won't Fix,29/04/09,11/11/10
+OFBIZ-2043,Improvement,Closed,Fixed,12/11/08,21/09/10
+OFBIZ-2040,Improvement,Closed,Not A Problem,11/11/08,13/09/10
+OFBIZ-2045,Improvement,Closed,Fixed,13/11/08,04/06/10
+OFBIZ-2236,Improvement,Closed,Incomplete,10/03/09,04/06/10
+OFBIZ-2222,Improvement,Closed,Fixed,02/03/09,10/05/10
+OFBIZ-2766,New Feature,Closed,Fixed,29/07/09,01/04/10
+OFBIZ-2723,Improvement,Closed,Won't Fix,12/07/09,31/03/10
+OFBIZ-2020,New Feature,Closed,Won't Fix,25/10/08,30/03/10
+OFBIZ-2915,Improvement,Closed,Fixed,08/09/09,15/03/10
+OFBIZ-2347,New Feature,Closed,Fixed,23/04/09,02/12/09
+OFBIZ-2875,Improvement,Closed,Duplicate,27/08/09,11/01/10
+OFBIZ-2876,Improvement,Closed,Duplicate,27/08/09,11/01/10
+OFBIZ-2913,New Feature,Closed,Fixed,08/09/09,11/09/09
+OFBIZ-2071,Improvement,Closed,Fixed,07/12/08,22/12/09
+OFBIZ-2778,Improvement,Closed,Fixed,31/07/09,21/12/09
+OFBIZ-2448,New Feature,Closed,Fixed,09/05/09,21/12/09
+OFBIZ-2815,Improvement,Closed,Fixed,08/08/09,27/11/09
+OFBIZ-2744,Improvement,Closed,Fixed,21/07/09,24/11/09
+OFBIZ-2451,Improvement,Closed,Fixed,09/05/09,20/11/09
+OFBIZ-2911,Improvement,Closed,Fixed,08/09/09,21/09/09
+OFBIZ-2550,New Feature,Closed,Fixed,29/05/09,16/11/09
+OFBIZ-2794,New Feature,Closed,Incomplete,04/08/09,15/11/09
+OFBIZ-2187,Improvement,Closed,Won't Fix,13/02/09,05/11/09
+OFBIZ-2861,Improvement,Closed,Fixed,25/08/09,03/11/09
+OFBIZ-2447,New Feature,Closed,Fixed,09/05/09,01/11/09
+OFBIZ-2938,Improvement,Closed,Fixed,14/09/09,30/10/09
+OFBIZ-2409,Wish,Closed,Invalid,01/05/09,02/05/09
+OFBIZ-2195,Wish,Closed,Invalid,17/02/09,17/02/09
+OFBIZ-2188,Wish,Closed,Fixed,13/02/09,13/02/09
+OFBIZ-2193,Wish,Closed,Invalid,17/02/09,17/02/09
+OFBIZ-2510,Wish,Closed,Invalid,22/05/09,23/05/09
+OFBIZ-2251,Wish,Closed,Won't Fix,24/03/09,06/04/09
+OFBIZ-2872,Wish,Closed,Fixed,27/08/09,03/09/09
+OFBIZ-2029,Wish,Closed,Invalid,28/10/08,28/10/08
+OFBIZ-2028,Wish,Closed,Invalid,28/10/08,28/10/08
+OFBIZ-2579,Wish,Closed,Invalid,09/06/09,09/06/09
+OFBIZ-2793,Wish,Closed,Won't Fix,04/08/09,15/08/09
+OFBIZ-2178,Improvement,Closed,Duplicate,10/02/09,26/10/09
+OFBIZ-2874,Improvement,Closed,Duplicate,27/08/09,18/10/09
+OFBIZ-2998,Improvement,Closed,Fixed,05/10/09,05/10/09
+OFBIZ-2997,Improvement,Closed,Fixed,05/10/09,05/10/09
+OFBIZ-2988,Improvement,Closed,Fixed,01/10/09,04/10/09
+OFBIZ-2994,Improvement,Closed,Fixed,03/10/09,03/10/09
+OFBIZ-2970,Improvement,Closed,Fixed,25/09/09,27/09/09
+OFBIZ-2948,Wish,Closed,Fixed,16/09/09,27/09/09
+OFBIZ-2967,Improvement,Closed,Fixed,24/09/09,25/09/09
+OFBIZ-2966,Improvement,Closed,Fixed,24/09/09,24/09/09
+OFBIZ-2606,Improvement,Closed,Fixed,15/06/09,24/09/09
+OFBIZ-2960,Improvement,Closed,Fixed,21/09/09,23/09/09
+OFBIZ-2953,Improvement,Closed,Fixed,17/09/09,21/09/09
+OFBIZ-2954,Improvement,Closed,Fixed,17/09/09,19/09/09
+OFBIZ-2783,New Feature,Closed,Fixed,01/08/09,18/09/09
+OFBIZ-2945,New Feature,Closed,Fixed,16/09/09,17/09/09
+OFBIZ-2950,Improvement,Closed,Fixed,16/09/09,17/09/09
+OFBIZ-2811,New Feature,Closed,Fixed,07/08/09,17/09/09
+OFBIZ-2059,Improvement,Closed,Fixed,23/11/08,16/09/09
+OFBIZ-2949,Improvement,Closed,Fixed,16/09/09,16/09/09
+OFBIZ-2916,Improvement,Closed,Fixed,09/09/09,16/09/09
+OFBIZ-2936,New Feature,Closed,Fixed,14/09/09,16/09/09
+OFBIZ-2435,Improvement,Closed,Fixed,08/05/09,16/09/09
+OFBIZ-2941,Improvement,Closed,Fixed,14/09/09,15/09/09
+OFBIZ-2917,Improvement,Closed,Fixed,09/09/09,15/09/09
+OFBIZ-2527,Improvement,Closed,Fixed,27/05/09,14/09/09
+OFBIZ-2939,Improvement,Closed,Fixed,14/09/09,14/09/09
+OFBIZ-2559,Improvement,Closed,Fixed,02/06/09,13/09/09
+OFBIZ-2540,Improvement,Closed,Fixed,28/05/09,04/09/09
+OFBIZ-2604,Improvement,Closed,Fixed,14/06/09,06/09/09
+OFBIZ-2739,Improvement,Closed,Fixed,19/07/09,11/09/09
+OFBIZ-2902,Improvement,Closed,Fixed,07/09/09,10/09/09
+OFBIZ-2922,Improvement,Closed,Fixed,09/09/09,10/09/09
+OFBIZ-2561,New Feature,Closed,Won't Fix,03/06/09,07/09/09
+OFBIZ-2918,New Feature,Closed,Fixed,09/09/09,09/09/09
+OFBIZ-2914,Improvement,Closed,Fixed,08/09/09,09/09/09
+OFBIZ-2896,Improvement,Closed,Fixed,05/09/09,09/09/09
+OFBIZ-2893,New Feature,Closed,Fixed,04/09/09,09/09/09
+OFBIZ-2848,Improvement,Closed,Fixed,20/08/09,08/09/09
+OFBIZ-2910,Improvement,Closed,Fixed,08/09/09,08/09/09
+OFBIZ-2906,Improvement,Closed,Fixed,07/09/09,08/09/09
+OFBIZ-2907,Improvement,Closed,Fixed,07/09/09,08/09/09
+OFBIZ-2908,New Feature,Closed,Invalid,08/09/09,08/09/09
+OFBIZ-2909,Improvement,Closed,Fixed,08/09/09,08/09/09
+OFBIZ-2720,Improvement,Closed,Fixed,11/07/09,15/07/09
+OFBIZ-2841,Improvement,Closed,Fixed,18/08/09,06/09/09
+OFBIZ-2666,Improvement,Closed,Fixed,27/06/09,06/09/09
+OFBIZ-2595,Improvement,Closed,Fixed,11/06/09,06/09/09
+OFBIZ-2757,Improvement,Closed,Fixed,24/07/09,06/09/09
+OFBIZ-2552,Improvement,Closed,Fixed,30/05/09,05/09/09
+OFBIZ-2578,Improvement,Closed,Fixed,09/06/09,04/09/09
+OFBIZ-2845,Improvement,Closed,Fixed,19/08/09,03/09/09
+OFBIZ-2849,Improvement,Closed,Fixed,20/08/09,03/09/09
+OFBIZ-2855,Improvement,Closed,Fixed,24/08/09,03/09/09
+OFBIZ-2857,Improvement,Closed,Fixed,24/08/09,03/09/09
+OFBIZ-2846,Improvement,Closed,Fixed,19/08/09,03/09/09
+OFBIZ-2374,New Feature,Closed,Fixed,28/04/09,02/09/09
+OFBIZ-2891,Improvement,Closed,Fixed,02/09/09,02/09/09
+OFBIZ-2890,Improvement,Closed,Fixed,02/09/09,02/09/09
+OFBIZ-2886,Improvement,Closed,Fixed,01/09/09,02/09/09
+OFBIZ-2887,Improvement,Closed,Fixed,01/09/09,01/09/09
+OFBIZ-2877,New Feature,Closed,Fixed,28/08/09,01/09/09
+OFBIZ-2785,Improvement,Closed,Fixed,01/08/09,27/08/09
+OFBIZ-2859,Improvement,Closed,Fixed,25/08/09,27/08/09
+OFBIZ-2818,Improvement,Closed,Fixed,08/08/09,26/08/09
+OFBIZ-2829,Improvement,Closed,Fixed,13/08/09,26/08/09
+OFBIZ-2858,Improvement,Closed,Fixed,25/08/09,25/08/09
+OFBIZ-2839,New Feature,Closed,Fixed,18/08/09,24/08/09
+OFBIZ-2835,New Feature,Closed,Fixed,17/08/09,24/08/09
+OFBIZ-2764,New Feature,Closed,Fixed,28/07/09,24/08/09
+OFBIZ-2791,New Feature,Closed,Fixed,03/08/09,17/08/09
+OFBIZ-2758,Improvement,Closed,Fixed,24/07/09,14/08/09
+OFBIZ-2125,Improvement,Closed,Fixed,16/01/09,14/08/09
+OFBIZ-2827,Improvement,Closed,Fixed,13/08/09,13/08/09
+OFBIZ-2665,New Feature,Closed,Fixed,27/06/09,12/08/09
+OFBIZ-2816,Improvement,Closed,Fixed,08/08/09,12/08/09
+OFBIZ-2774,Improvement,Closed,Fixed,30/07/09,12/08/09
+OFBIZ-2826,Improvement,Closed,Fixed,12/08/09,12/08/09
+OFBIZ-2806,Improvement,Closed,Fixed,07/08/09,12/08/09
+OFBIZ-2699,Improvement,Closed,Fixed,03/07/09,12/08/09
+OFBIZ-2824,Improvement,Closed,Fixed,11/08/09,12/08/09
+OFBIZ-2825,Improvement,Closed,Fixed,11/08/09,12/08/09
+OFBIZ-2803,Improvement,Closed,Fixed,06/08/09,08/08/09
+OFBIZ-2706,New Feature,Closed,Fixed,06/07/09,07/08/09
+OFBIZ-2784,Improvement,Closed,Fixed,01/08/09,07/08/09
+OFBIZ-2802,Improvement,Closed,Fixed,06/08/09,06/08/09
+OFBIZ-2801,Improvement,Closed,Fixed,06/08/09,06/08/09
+OFBIZ-2779,Improvement,Closed,Fixed,31/07/09,03/08/09
+OFBIZ-2768,New Feature,Closed,Fixed,29/07/09,03/08/09
+OFBIZ-2780,Improvement,Closed,Fixed,31/07/09,31/07/09
+OFBIZ-2776,Improvement,Closed,Fixed,30/07/09,31/07/09
+OFBIZ-2727,Improvement,Closed,Fixed,13/07/09,31/07/09
+OFBIZ-2767,Improvement,Closed,Fixed,29/07/09,30/07/09
+OFBIZ-2775,Improvement,Closed,Fixed,30/07/09,30/07/09
+OFBIZ-2772,Improvement,Closed,Fixed,30/07/09,30/07/09
+OFBIZ-2773,Improvement,Closed,Fixed,30/07/09,30/07/09
+OFBIZ-2770,Improvement,Closed,Fixed,29/07/09,30/07/09
+OFBIZ-2771,Improvement,Closed,Fixed,30/07/09,30/07/09
+OFBIZ-2769,New Feature,Closed,Fixed,29/07/09,30/07/09
+OFBIZ-2713,New Feature,Closed,Fixed,09/07/09,29/07/09
+OFBIZ-2762,New Feature,Closed,Fixed,27/07/09,27/07/09
+OFBIZ-2625,New Feature,Closed,Fixed,18/06/09,23/07/09
+OFBIZ-2752,Improvement,Closed,Fixed,23/07/09,23/07/09
+OFBIZ-2751,Improvement,Closed,Fixed,22/07/09,22/07/09
+OFBIZ-2745,New Feature,Closed,Fixed,21/07/09,22/07/09
+OFBIZ-2740,Improvement,Closed,Fixed,20/07/09,20/07/09
+OFBIZ-2735,Improvement,Closed,Fixed,16/07/09,17/07/09
+OFBIZ-2731,Improvement,Closed,Fixed,15/07/09,17/07/09
+OFBIZ-2717,New Feature,Closed,Fixed,11/07/09,16/07/09
+OFBIZ-2732,Improvement,Closed,Duplicate,15/07/09,15/07/09
+OFBIZ-2728,Improvement,Closed,Fixed,13/07/09,14/07/09
+OFBIZ-2718,New Feature,Closed,Fixed,11/07/09,13/07/09
+OFBIZ-2716,Improvement,Closed,Fixed,10/07/09,10/07/09
+OFBIZ-2707,Improvement,Closed,Fixed,06/07/09,06/07/09
+OFBIZ-2701,New Feature,Closed,Fixed,04/07/09,06/07/09
+OFBIZ-2698,New Feature,Closed,Fixed,03/07/09,04/07/09
+OFBIZ-2696,New Feature,Closed,Fixed,03/07/09,04/07/09
+OFBIZ-2695,Improvement,Closed,Fixed,03/07/09,03/07/09
+OFBIZ-2685,Improvement,Closed,Fixed,02/07/09,02/07/09
+OFBIZ-2686,Improvement,Closed,Fixed,02/07/09,02/07/09
+OFBIZ-2657,Improvement,Closed,Fixed,25/06/09,30/06/09
+OFBIZ-2669,Improvement,Closed,Fixed,29/06/09,29/06/09
+OFBIZ-2664,New Feature,Closed,Fixed,27/06/09,27/06/09
+OFBIZ-2655,New Feature,Closed,Fixed,24/06/09,27/06/09
+OFBIZ-2611,New Feature,Closed,Fixed,16/06/09,27/06/09
+OFBIZ-2650,Improvement,Closed,Fixed,23/06/09,26/06/09
+OFBIZ-2658,Improvement,Closed,Fixed,25/06/09,25/06/09
+OFBIZ-2646,Improvement,Closed,Fixed,22/06/09,23/06/09
+OFBIZ-2470,Improvement,Closed,Fixed,13/05/09,20/06/09
+OFBIZ-2641,Improvement,Closed,Fixed,20/06/09,20/06/09
+OFBIZ-2633,Improvement,Closed,Fixed,19/06/09,19/06/09
+OFBIZ-2634,Improvement,Closed,Fixed,19/06/09,19/06/09
+OFBIZ-2630,Improvement,Closed,Fixed,19/06/09,19/06/09
+OFBIZ-2627,Improvement,Closed,Fixed,18/06/09,19/06/09
+OFBIZ-2626,Improvement,Closed,Fixed,18/06/09,18/06/09
+OFBIZ-2622,Improvement,Closed,Fixed,17/06/09,17/06/09
+OFBIZ-2503,Improvement,Closed,Fixed,21/05/09,16/06/09
+OFBIZ-2557,Improvement,Closed,Fixed,31/05/09,16/06/09
+OFBIZ-2556,Improvement,Closed,Fixed,31/05/09,16/06/09
+OFBIZ-2555,Improvement,Closed,Fixed,31/05/09,16/06/09
+OFBIZ-2607,Improvement,Closed,Fixed,15/06/09,16/06/09
+OFBIZ-2592,Improvement,Closed,Fixed,11/06/09,11/06/09
+OFBIZ-2575,Improvement,Closed,Fixed,08/06/09,08/06/09
+OFBIZ-2573,New Feature,Closed,Fixed,06/06/09,08/06/09
+OFBIZ-2572,New Feature,Closed,Fixed,05/06/09,06/06/09
+OFBIZ-2570,Improvement,Closed,Fixed,05/06/09,06/06/09
+OFBIZ-2502,Improvement,Closed,Fixed,21/05/09,04/06/09
+OFBIZ-2271,New Feature,Closed,Fixed,04/04/09,07/04/09
+OFBIZ-2536,Improvement,Closed,Fixed,28/05/09,02/06/09
+OFBIZ-2553,New Feature,Closed,Fixed,31/05/09,01/06/09
+OFBIZ-2541,Improvement,Closed,Fixed,28/05/09,29/05/09
+OFBIZ-2520,Wish,Closed,Fixed,26/05/09,29/05/09
+OFBIZ-2483,Improvement,Closed,Fixed,17/05/09,25/05/09
+OFBIZ-2530,Improvement,Closed,Fixed,27/05/09,27/05/09
+OFBIZ-2519,New Feature,Closed,Fixed,26/05/09,26/05/09
+OFBIZ-2480,New Feature,Closed,Fixed,16/05/09,25/05/09
+OFBIZ-2499,Improvement,Closed,Fixed,21/05/09,25/05/09
+OFBIZ-2515,Improvement,Closed,Fixed,23/05/09,23/05/09
+OFBIZ-2273,Improvement,Closed,Fixed,06/04/09,25/04/09
+OFBIZ-2498,Improvement,Closed,Fixed,20/05/09,21/05/09
+OFBIZ-2478,Improvement,Closed,Fixed,15/05/09,21/05/09
+OFBIZ-2497,Improvement,Closed,Fixed,20/05/09,21/05/09
+OFBIZ-2505,Improvement,Closed,Fixed,21/05/09,21/05/09
+OFBIZ-2496,Improvement,Closed,Fixed,20/05/09,21/05/09
+OFBIZ-2504,Improvement,Closed,Duplicate,21/05/09,21/05/09
+OFBIZ-2205,New Feature,Closed,Fixed,24/02/09,21/05/09
+OFBIZ-2477,Improvement,Closed,Fixed,15/05/09,20/05/09
+OFBIZ-2489,New Feature,Closed,Fixed,19/05/09,20/05/09
+OFBIZ-2481,Improvement,Closed,Fixed,16/05/09,19/05/09
+OFBIZ-2485,Improvement,Closed,Fixed,18/05/09,19/05/09
+OFBIZ-2476,Improvement,Closed,Fixed,15/05/09,15/05/09
+OFBIZ-2465,Improvement,Closed,Fixed,12/05/09,15/05/09
+OFBIZ-2464,Improvement,Closed,Fixed,12/05/09,15/05/09
+OFBIZ-2445,Improvement,Closed,Fixed,09/05/09,13/05/09
+OFBIZ-2429,New Feature,Closed,Fixed,06/05/09,13/05/09
+OFBIZ-2463,Improvement,Closed,Fixed,12/05/09,13/05/09
+OFBIZ-2446,New Feature,Closed,Fixed,09/05/09,12/05/09
+OFBIZ-2379,Improvement,Closed,Won't Fix,28/04/09,10/05/09
+OFBIZ-2161,Improvement,Closed,Fixed,02/02/09,09/05/09
+OFBIZ-2180,Improvement,Closed,Invalid,11/02/09,16/02/09
+OFBIZ-2346,Improvement,Closed,Fixed,23/04/09,08/05/09
+OFBIZ-2432,Improvement,Closed,Fixed,08/05/09,08/05/09
+OFBIZ-2428,New Feature,Closed,Fixed,06/05/09,07/05/09
+OFBIZ-2259,New Feature,Closed,Fixed,29/03/09,06/05/09
+OFBIZ-2417,Improvement,Closed,Fixed,02/05/09,04/05/09
+OFBIZ-2404,Improvement,Closed,Fixed,01/05/09,02/05/09
+OFBIZ-2260,Improvement,Closed,Fixed,30/03/09,21/04/09
+OFBIZ-2397,New Feature,Closed,Fixed,30/04/09,02/05/09
+OFBIZ-2376,New Feature,Closed,Fixed,28/04/09,30/04/09
+OFBIZ-2370,Improvement,Closed,Fixed,27/04/09,28/04/09
+OFBIZ-2369,Improvement,Closed,Fixed,27/04/09,28/04/09
+OFBIZ-2247,New Feature,Closed,Won't Fix,20/03/09,26/04/09
+OFBIZ-2287,Improvement,Closed,Fixed,10/04/09,21/04/09
+OFBIZ-2291,Improvement,Closed,Fixed,12/04/09,25/04/09
+OFBIZ-2351,Improvement,Closed,Fixed,24/04/09,24/04/09
+OFBIZ-2283,Improvement,Closed,Fixed,08/04/09,24/04/09
+OFBIZ-2349,Improvement,Closed,Invalid,23/04/09,24/04/09
+OFBIZ-2336,Improvement,Closed,Fixed,21/04/09,23/04/09
+OFBIZ-2335,Improvement,Closed,Fixed,21/04/09,21/04/09
+OFBIZ-2289,Improvement,Closed,Fixed,10/04/09,23/04/09
+OFBIZ-2334,Improvement,Closed,Fixed,21/04/09,21/04/09
+OFBIZ-2288,Improvement,Closed,Fixed,10/04/09,21/04/09
+OFBIZ-2297,Improvement,Closed,Fixed,15/04/09,21/04/09
+OFBIZ-2321,Improvement,Closed,Fixed,18/04/09,21/04/09
+OFBIZ-2317,Improvement,Closed,Fixed,17/04/09,17/04/09
+OFBIZ-2318,Improvement,Closed,Fixed,17/04/09,17/04/09
+OFBIZ-2293,Improvement,Closed,Fixed,12/04/09,16/04/09
+OFBIZ-2299,Improvement,Closed,Fixed,16/04/09,16/04/09
+OFBIZ-2263,Improvement,Closed,Fixed,30/03/09,09/04/09
+OFBIZ-2294,Improvement,Closed,Later,14/04/09,14/04/09
+OFBIZ-2276,Improvement,Closed,Fixed,07/04/09,14/04/09
+OFBIZ-2286,Improvement,Closed,Fixed,09/04/09,12/04/09
+OFBIZ-2270,Improvement,Closed,Fixed,04/04/09,10/04/09
+OFBIZ-2262,Improvement,Closed,Fixed,30/03/09,10/04/09
+OFBIZ-2269,New Feature,Closed,Fixed,03/04/09,09/04/09
+OFBIZ-2070,New Feature,Closed,Fixed,07/12/08,09/04/09
+OFBIZ-2261,Improvement,Closed,Fixed,30/03/09,08/04/09
+OFBIZ-2274,Improvement,Closed,Fixed,06/04/09,06/04/09
+OFBIZ-2243,Improvement,Closed,Fixed,17/03/09,29/03/09
+OFBIZ-2265,Improvement,Closed,Fixed,01/04/09,01/04/09
+OFBIZ-2252,Improvement,Closed,Fixed,24/03/09,26/03/09
+OFBIZ-2249,Improvement,Closed,Fixed,23/03/09,24/03/09
+OFBIZ-2217,Improvement,Closed,Fixed,02/03/09,24/03/09
+OFBIZ-2051,Improvement,Closed,Fixed,18/11/08,23/03/09
+OFBIZ-2248,Improvement,Closed,Fixed,20/03/09,21/03/09
+OFBIZ-2245,New Feature,Closed,Fixed,20/03/09,20/03/09
+OFBIZ-2244,Improvement,Closed,Fixed,18/03/09,18/03/09
+OFBIZ-2137,Improvement,Closed,Fixed,22/01/09,15/03/09
+OFBIZ-2232,Improvement,Closed,Fixed,07/03/09,07/03/09
+OFBIZ-2229,Improvement,Closed,Fixed,05/03/09,06/03/09
+OFBIZ-2215,Improvement,Closed,Fixed,01/03/09,02/03/09
+OFBIZ-2214,Improvement,Closed,Fixed,01/03/09,01/03/09
+OFBIZ-2201,Improvement,Closed,Fixed,22/02/09,26/02/09
+OFBIZ-2210,Improvement,Closed,Fixed,25/02/09,25/02/09
+OFBIZ-2206,Improvement,Closed,Fixed,24/02/09,25/02/09
+OFBIZ-2204,Improvement,Closed,Fixed,23/02/09,23/02/09
+OFBIZ-2200,Improvement,Closed,Fixed,21/02/09,23/02/09
+OFBIZ-2181,Improvement,Closed,Invalid,11/02/09,16/02/09
+OFBIZ-2199,Improvement,Closed,Fixed,21/02/09,21/02/09
+OFBIZ-2063,New Feature,Closed,Later,27/11/08,16/02/09
+OFBIZ-2182,New Feature,Closed,Invalid,11/02/09,16/02/09
+OFBIZ-2190,Improvement,Closed,Fixed,15/02/09,15/02/09
+OFBIZ-2170,Improvement,Closed,Fixed,05/02/09,08/02/09
+OFBIZ-2159,New Feature,Closed,Fixed,01/02/09,03/02/09
+OFBIZ-2136,Improvement,Closed,Fixed,22/01/09,07/02/09
+OFBIZ-2169,New Feature,Closed,Fixed,05/02/09,06/02/09
+OFBIZ-2162,Improvement,Closed,Fixed,02/02/09,06/02/09
+OFBIZ-2165,Improvement,Closed,Duplicate,03/02/09,03/02/09
+OFBIZ-2164,Improvement,Closed,Fixed,03/02/09,03/02/09
+OFBIZ-2083,Improvement,Closed,Fixed,16/12/08,16/12/08
+OFBIZ-2123,Improvement,Closed,Fixed,15/01/09,01/02/09
+OFBIZ-2151,Improvement,Closed,Duplicate,30/01/09,01/02/09
+OFBIZ-2156,Improvement,Closed,Fixed,31/01/09,31/01/09
+OFBIZ-2155,Improvement,Closed,Fixed,31/01/09,31/01/09
+OFBIZ-2141,Improvement,Closed,Fixed,26/01/09,29/01/09
+OFBIZ-2128,New Feature,Closed,Fixed,18/01/09,29/01/09
+OFBIZ-2150,Improvement,Closed,Fixed,29/01/09,29/01/09
+OFBIZ-2149,Improvement,Closed,Fixed,29/01/09,29/01/09
+OFBIZ-2122,Improvement,Closed,Fixed,14/01/09,23/01/09
+OFBIZ-2115,Improvement,Closed,Fixed,08/01/09,23/01/09
+OFBIZ-2109,Improvement,Closed,Fixed,02/01/09,23/01/09
+OFBIZ-2126,Improvement,Closed,Fixed,17/01/09,17/01/09
+OFBIZ-2105,Improvement,Closed,Invalid,26/12/08,15/01/09
+OFBIZ-2113,Improvement,Closed,Fixed,07/01/09,08/01/09
+OFBIZ-2067,Improvement,Closed,Fixed,02/12/08,04/01/09
+OFBIZ-2111,Improvement,Closed,Fixed,06/01/09,06/01/09
+OFBIZ-2103,Improvement,Closed,Fixed,22/12/08,03/01/09
+OFBIZ-2068,Improvement,Closed,Fixed,05/12/08,03/01/09
+OFBIZ-2099,Improvement,Closed,Fixed,21/12/08,22/12/08
+OFBIZ-2097,Improvement,Closed,Fixed,21/12/08,25/12/08
+OFBIZ-2102,Improvement,Closed,Fixed,22/12/08,23/12/08
+OFBIZ-2037,Improvement,Closed,Fixed,09/11/08,23/12/08
+OFBIZ-2101,Improvement,Closed,Fixed,22/12/08,22/12/08
+OFBIZ-2057,Improvement,Closed,Fixed,22/11/08,21/12/08
+OFBIZ-2076,Improvement,Closed,Fixed,11/12/08,21/12/08
+OFBIZ-2095,Improvement,Closed,Fixed,19/12/08,19/12/08
+OFBIZ-2094,New Feature,Closed,Fixed,18/12/08,19/12/08
+OFBIZ-2090,Improvement,Closed,Fixed,17/12/08,18/12/08
+OFBIZ-2089,Improvement,Closed,Fixed,17/12/08,18/12/08
+OFBIZ-2074,New Feature,Closed,Fixed,10/12/08,17/12/08
+OFBIZ-2082,Improvement,Closed,Fixed,16/12/08,17/12/08
+OFBIZ-2085,Improvement,Closed,Fixed,16/12/08,16/12/08
+OFBIZ-2080,Improvement,Closed,Fixed,15/12/08,16/12/08
+OFBIZ-2079,Improvement,Closed,Fixed,15/12/08,16/12/08
+OFBIZ-2084,Improvement,Closed,Fixed,16/12/08,16/12/08
+OFBIZ-2073,Improvement,Closed,Fixed,09/12/08,15/12/08
+OFBIZ-2069,Improvement,Closed,Fixed,06/12/08,15/12/08
+OFBIZ-2056,Improvement,Closed,Fixed,21/11/08,21/11/08
+OFBIZ-2055,Improvement,Closed,Fixed,21/11/08,21/11/08
+OFBIZ-2053,Improvement,Closed,Fixed,18/11/08,19/11/08
+OFBIZ-2050,Improvement,Closed,Fixed,16/11/08,19/11/08
+OFBIZ-2046,Improvement,Closed,Fixed,14/11/08,18/11/08
+OFBIZ-2044,Improvement,Closed,Fixed,13/11/08,17/11/08
+OFBIZ-2038,Improvement,Closed,Fixed,10/11/08,17/11/08
+OFBIZ-2049,Improvement,Closed,Fixed,16/11/08,17/11/08
+OFBIZ-2048,Improvement,Closed,Fixed,16/11/08,16/11/08
+OFBIZ-2039,Improvement,Closed,Fixed,10/11/08,11/11/08
+OFBIZ-2018,Improvement,Closed,Invalid,23/10/08,09/11/08
+OFBIZ-2036,Wish,Closed,Invalid,08/11/08,08/11/08
+OFBIZ-2035,Wish,Closed,Invalid,08/11/08,08/11/08
+OFBIZ-2032,New Feature,Closed,Fixed,30/10/08,06/11/08
+OFBIZ-2026,New Feature,Closed,Invalid,27/10/08,01/11/08
+OFBIZ-2024,New Feature,Closed,Fixed,27/10/08,31/10/08
+OFBIZ-2031,Improvement,Closed,Fixed,29/10/08,29/10/08
+OFBIZ-2023,Improvement,Closed,Won't Fix,26/10/08,28/10/08
+OFBIZ-2017,Improvement,Closed,Fixed,23/10/08,25/10/08
+OFBIZ-2006,Improvement,Closed,Won't Fix,18/10/08,26/10/08
+OFBIZ-2014,Improvement,Closed,Fixed,22/10/08,23/10/08
+OFBIZ-2016,Improvement,Closed,Fixed,23/10/08,23/10/08
+OFBIZ-2015,Improvement,Closed,Fixed,23/10/08,23/10/08
+OFBIZ-3946,New Feature,Closed,Won't Fix,17/09/10,23/02/18
+OFBIZ-3165,New Feature,Closed,Fixed,05/11/09,09/11/09
+OFBIZ-3706,Improvement,Closed,Fixed,16/04/10,17/04/10
+OFBIZ-3697,Improvement,Closed,Fixed,14/04/10,14/04/10
+OFBIZ-3958,Improvement,Closed,Fixed,27/09/10,27/09/10
+OFBIZ-3070,Improvement,Closed,Fixed,21/10/09,21/10/09
+OFBIZ-3971,Improvement,Closed,Fixed,01/10/10,09/02/11
+OFBIZ-3945,Improvement,Closed,Fixed,17/09/10,19/09/10
+OFBIZ-3034,Improvement,Closed,Fixed,13/10/09,14/10/09
+OFBIZ-3333,Wish,Closed,Won't Fix,12/12/09,26/04/10
+OFBIZ-3200,Improvement,Closed,Fixed,14/11/09,14/11/09
+OFBIZ-3131,Improvement,Closed,Fixed,31/10/09,31/10/09
+OFBIZ-3078,Improvement,Closed,Fixed,24/10/09,24/10/09
+OFBIZ-3550,Improvement,Closed,Fixed,11/03/10,13/03/10
+OFBIZ-3029,Improvement,Closed,Unresolved,12/10/09,30/07/16
+OFBIZ-3063,Improvement,Closed,Unresolved,19/10/09,30/07/16
+OFBIZ-3435,Improvement,Closed,Won't Fix,29/01/10,17/12/16
+OFBIZ-3155,Improvement,Closed,Later,04/11/09,04/12/16
+OFBIZ-3902,Improvement,Closed,Implemented,26/08/10,05/09/16
+OFBIZ-3311,Improvement,Closed,Implemented,05/12/09,19/03/16
+OFBIZ-3956,Improvement,Closed,Fixed,24/09/10,24/09/10
+OFBIZ-3438,Improvement,Closed,Incomplete,02/02/10,23/10/15
+OFBIZ-3480,Improvement,Closed,Implemented,15/02/10,15/03/15
+OFBIZ-3230,Improvement,Closed,Later,20/11/09,23/02/15
+OFBIZ-3669,Improvement,Closed,Implemented,11/04/10,11/01/15
+OFBIZ-3406,Improvement,Closed,Fixed,11/01/10,09/01/15
+OFBIZ-3802,Improvement,Closed,Fixed,03/06/10,17/07/14
+OFBIZ-3774,Improvement,Closed,Fixed,17/05/10,02/11/14
+OFBIZ-3365,Improvement,Closed,Fixed,17/12/09,01/11/14
+OFBIZ-3719,Improvement,Closed,Fixed,19/04/10,27/09/14
+OFBIZ-3479,Wish,Closed,Invalid,15/02/10,20/09/14
+OFBIZ-3555,New Feature,Closed,Fixed,15/03/10,16/07/14
+OFBIZ-3211,New Feature,Closed,Fixed,17/11/09,16/07/14
+OFBIZ-3535,Wish,Closed,Later,04/03/10,14/07/14
+OFBIZ-3161,Improvement,Closed,Implemented,05/11/09,01/06/14
+OFBIZ-3691,New Feature,Closed,Won't Fix,12/04/10,27/04/14
+OFBIZ-3670,Improvement,Closed,Won't Fix,11/04/10,27/04/14
+OFBIZ-3852,Improvement,Closed,Incomplete,10/07/10,27/04/14
+OFBIZ-3071,Improvement,Closed,Won't Fix,21/10/09,24/04/14
+OFBIZ-3705,New Feature,Closed,Won't Fix,16/04/10,22/04/14
+OFBIZ-3579,New Feature,Closed,Incomplete,27/03/10,02/04/14
+OFBIZ-3925,New Feature,Closed,Invalid,08/09/10,26/03/14
+OFBIZ-3853,Improvement,Closed,Incomplete,10/07/10,26/03/14
+OFBIZ-3125,Improvement,Closed,Fixed,29/10/09,11/03/14
+OFBIZ-3162,New Feature,Closed,Duplicate,05/11/09,02/12/13
+OFBIZ-3798,New Feature,Closed,Fixed,02/06/10,30/06/10
+OFBIZ-3868,Improvement,Closed,Fixed,20/07/10,24/02/12
+OFBIZ-3027,Improvement,Closed,Fixed,11/10/09,13/01/13
+OFBIZ-3518,Improvement,Closed,Fixed,26/02/10,01/03/10
+OFBIZ-3855,Improvement,Closed,Fixed,11/07/10,09/08/12
+OFBIZ-3948,Improvement,Closed,Won't Fix,18/09/10,08/07/12
+OFBIZ-3875,New Feature,Closed,Won't Fix,25/07/10,08/07/12
+OFBIZ-3431,Improvement,Closed,Fixed,28/01/10,26/05/12
+OFBIZ-3483,Improvement,Closed,Fixed,16/02/10,29/03/12
+OFBIZ-3769,New Feature,Closed,Won't Fix,12/05/10,21/03/12
+OFBIZ-3242,Improvement,Closed,Fixed,20/11/09,09/03/12
+OFBIZ-3416,Improvement,Closed,Fixed,18/01/10,09/03/12
+OFBIZ-3571,Improvement,Closed,Fixed,20/03/10,15/12/11
+OFBIZ-3648,Improvement,Closed,Fixed,06/04/10,15/04/10
+OFBIZ-3814,New Feature,Closed,Fixed,09/06/10,02/10/11
+OFBIZ-3985,Improvement,Closed,Not A Problem,12/10/10,13/10/10
+OFBIZ-3843,Improvement,Closed,Fixed,01/07/10,26/07/11
+OFBIZ-3996,Improvement,Closed,Fixed,18/10/10,06/06/11
+OFBIZ-3784,Improvement,Closed,Fixed,26/05/10,27/05/10
+OFBIZ-3987,Improvement,Closed,Fixed,12/10/10,11/04/11
+OFBIZ-3142,Improvement,Closed,Fixed,03/11/09,26/03/11
+OFBIZ-3542,Improvement,Closed,Fixed,07/03/10,16/03/11
+OFBIZ-3418,Improvement,Closed,Fixed,19/01/10,21/02/11
+OFBIZ-3659,New Feature,Closed,Fixed,08/04/10,14/02/11
+OFBIZ-3205,Improvement,Closed,Duplicate,15/11/09,13/02/11
+OFBIZ-3186,New Feature,Closed,Fixed,12/11/09,17/11/09
+OFBIZ-3897,New Feature,Closed,Incomplete,23/08/10,03/02/11
+OFBIZ-3765,Improvement,Closed,Fixed,07/05/10,29/01/11
+OFBIZ-3795,Improvement,Closed,Cannot Reproduce,01/06/10,27/01/11
+OFBIZ-3882,Improvement,Closed,Fixed,05/08/10,24/01/11
+OFBIZ-3954,New Feature,Closed,Fixed,23/09/10,23/01/11
+OFBIZ-3866,Improvement,Closed,Fixed,20/07/10,23/01/11
+OFBIZ-3783,Improvement,Closed,Fixed,25/05/10,21/01/11
+OFBIZ-3260,Improvement,Closed,Fixed,25/11/09,21/01/11
+OFBIZ-3097,Improvement,Closed,Fixed,28/10/09,21/01/11
+OFBIZ-3322,Improvement,Closed,Not A Problem,09/12/09,08/01/11
+OFBIZ-3932,Improvement,Closed,Fixed,11/09/10,08/01/11
+OFBIZ-3280,Improvement,Closed,Fixed,01/12/09,02/12/09
+OFBIZ-3319,Improvement,Closed,Fixed,09/12/09,14/01/10
+OFBIZ-3296,Improvement,Closed,Fixed,03/12/09,04/12/09
+OFBIZ-3281,Improvement,Closed,Fixed,01/12/09,01/12/09
+OFBIZ-3401,Improvement,Closed,Fixed,08/01/10,09/01/10
+OFBIZ-3386,Improvement,Closed,Fixed,30/12/09,30/12/09
+OFBIZ-3372,Improvement,Closed,Fixed,22/12/09,23/12/09
+OFBIZ-3842,Improvement,Closed,Fixed,01/07/10,23/11/10
+OFBIZ-3969,Improvement,Closed,Fixed,01/10/10,18/10/10
+OFBIZ-3984,Improvement,Closed,Fixed,11/10/10,11/10/10
+OFBIZ-3970,Improvement,Closed,Fixed,01/10/10,03/10/10
+OFBIZ-3968,Improvement,Closed,Fixed,30/09/10,01/10/10
+OFBIZ-3625,New Feature,Closed,Fixed,30/03/10,19/09/10
+OFBIZ-3937,New Feature,Closed,Not A Problem,13/09/10,14/09/10
+OFBIZ-3940,New Feature,Closed,Fixed,14/09/10,14/09/10
+OFBIZ-3510,Wish,Closed,Incomplete,25/02/10,11/09/10
+OFBIZ-3647,Improvement,Closed,Fixed,06/04/10,07/09/10
+OFBIZ-3854,Improvement,Closed,Fixed,10/07/10,07/09/10
+OFBIZ-3921,Improvement,Closed,Fixed,03/09/10,03/09/10
+OFBIZ-3914,Improvement,Closed,Fixed,31/08/10,31/08/10
+OFBIZ-3247,Improvement,Closed,Fixed,23/11/09,24/08/10
+OFBIZ-3352,Improvement,Closed,Fixed,15/12/09,25/08/10
+OFBIZ-3786,Improvement,Closed,Fixed,28/05/10,30/07/10
+OFBIZ-3873,Improvement,Closed,Fixed,23/07/10,23/07/10
+OFBIZ-3874,Improvement,Closed,Fixed,23/07/10,23/07/10
+OFBIZ-3865,Improvement,Closed,Fixed,20/07/10,23/07/10
+OFBIZ-3407,Improvement,Closed,Fixed,12/01/10,17/02/10
+OFBIZ-3849,Improvement,Closed,Fixed,06/07/10,06/07/10
+OFBIZ-3245,Improvement,Closed,Won't Fix,21/11/09,01/07/10
+OFBIZ-3828,Improvement,Closed,Fixed,20/06/10,21/06/10
+OFBIZ-3826,Improvement,Closed,Fixed,18/06/10,19/06/10
+OFBIZ-3801,Improvement,Closed,Fixed,03/06/10,17/06/10
+OFBIZ-3212,Improvement,Closed,Fixed,17/11/09,15/06/10
+OFBIZ-3818,Improvement,Closed,Fixed,11/06/10,12/06/10
+OFBIZ-3819,Improvement,Closed,Fixed,11/06/10,11/06/10
+OFBIZ-3808,Improvement,Closed,Invalid,06/06/10,09/06/10
+OFBIZ-3787,Improvement,Closed,Invalid,28/05/10,07/06/10
+OFBIZ-3804,Improvement,Closed,Fixed,04/06/10,04/06/10
+OFBIZ-3800,Improvement,Closed,Fixed,03/06/10,03/06/10
+OFBIZ-3740,New Feature,Closed,Fixed,25/04/10,03/06/10
+OFBIZ-3232,Improvement,Closed,Fixed,20/11/09,20/11/09
+OFBIZ-3793,Improvement,Closed,Fixed,01/06/10,03/06/10
+OFBIZ-3796,Improvement,Closed,Fixed,02/06/10,02/06/10
+OFBIZ-3792,Improvement,Closed,Fixed,01/06/10,01/06/10
+OFBIZ-3788,Improvement,Closed,Fixed,28/05/10,31/05/10
+OFBIZ-3785,Improvement,Closed,Fixed,26/05/10,27/05/10
+OFBIZ-3779,Improvement,Closed,Fixed,23/05/10,26/05/10
+OFBIZ-3777,Improvement,Closed,Fixed,19/05/10,25/05/10
+OFBIZ-3496,Improvement,Closed,Cannot Reproduce,23/02/10,16/05/10
+OFBIZ-3664,Improvement,Closed,Fixed,09/04/10,15/05/10
+OFBIZ-3694,Improvement,Closed,Fixed,13/04/10,10/05/10
+OFBIZ-3702,Improvement,Closed,Fixed,15/04/10,29/04/10
+OFBIZ-3515,Improvement,Closed,Fixed,26/02/10,23/04/10
+OFBIZ-3724,Improvement,Closed,Fixed,19/04/10,22/04/10
+OFBIZ-3735,Improvement,Closed,Fixed,21/04/10,21/04/10
+OFBIZ-3633,New Feature,Closed,Fixed,02/04/10,21/04/10
+OFBIZ-3725,Improvement,Closed,Fixed,20/04/10,20/04/10
+OFBIZ-3521,Improvement,Closed,Fixed,26/02/10,18/04/10
+OFBIZ-3704,Improvement,Closed,Fixed,15/04/10,16/04/10
+OFBIZ-3672,New Feature,Closed,Fixed,11/04/10,15/04/10
+OFBIZ-3695,New Feature,Closed,Invalid,14/04/10,14/04/10
+OFBIZ-3665,Improvement,Closed,Fixed,09/04/10,13/04/10
+OFBIZ-3674,Improvement,Closed,Fixed,12/04/10,12/04/10
+OFBIZ-3655,Improvement,Closed,Fixed,07/04/10,07/04/10
+OFBIZ-3652,Improvement,Closed,Fixed,06/04/10,07/04/10
+OFBIZ-3649,Improvement,Closed,Fixed,06/04/10,06/04/10
+OFBIZ-3635,New Feature,Closed,Fixed,03/04/10,05/04/10
+OFBIZ-3632,Improvement,Closed,Fixed,01/04/10,03/04/10
+OFBIZ-3624,New Feature,Closed,Fixed,30/03/10,30/03/10
+OFBIZ-3540,New Feature,Closed,Fixed,05/03/10,26/03/10
+OFBIZ-3572,New Feature,Closed,Fixed,22/03/10,22/03/10
+OFBIZ-3573,Improvement,Closed,Fixed,22/03/10,22/03/10
+OFBIZ-3560,Improvement,Closed,Fixed,17/03/10,19/03/10
+OFBIZ-3486,Wish,Closed,Fixed,18/02/10,03/03/10
+OFBIZ-3533,Improvement,Closed,Fixed,04/03/10,13/03/10
+OFBIZ-3440,Improvement,Closed,Fixed,04/02/10,12/03/10
+OFBIZ-3547,Improvement,Closed,Fixed,10/03/10,10/03/10
+OFBIZ-3539,Improvement,Closed,Fixed,05/03/10,05/03/10
+OFBIZ-3525,Improvement,Closed,Fixed,01/03/10,01/03/10
+OFBIZ-3303,Improvement,Closed,Fixed,04/12/09,26/02/10
+OFBIZ-3320,Improvement,Closed,Fixed,09/12/09,25/02/10
+OFBIZ-3173,Improvement,Closed,Fixed,07/11/09,25/02/10
+OFBIZ-3508,Improvement,Closed,Fixed,25/02/10,25/02/10
+OFBIZ-3506,Improvement,Closed,Fixed,24/02/10,25/02/10
+OFBIZ-3494,Improvement,Closed,Fixed,22/02/10,24/02/10
+OFBIZ-3472,Improvement,Closed,Fixed,11/02/10,23/02/10
+OFBIZ-3493,Improvement,Closed,Fixed,22/02/10,22/02/10
+OFBIZ-3487,Improvement,Closed,Fixed,19/02/10,19/02/10
+OFBIZ-3475,Wish,Closed,Invalid,13/02/10,13/02/10
+OFBIZ-3463,Improvement,Closed,Fixed,10/02/10,11/02/10
+OFBIZ-3460,Improvement,Closed,Fixed,10/02/10,11/02/10
+OFBIZ-3459,Improvement,Closed,Fixed,10/02/10,10/02/10
+OFBIZ-3452,Improvement,Closed,Fixed,08/02/10,08/02/10
+OFBIZ-3437,Improvement,Closed,Fixed,01/02/10,06/02/10
+OFBIZ-3444,Improvement,Closed,Fixed,05/02/10,05/02/10
+OFBIZ-3425,Improvement,Closed,Fixed,26/01/10,27/01/10
+OFBIZ-3423,Improvement,Closed,Fixed,25/01/10,25/01/10
+OFBIZ-3422,Improvement,Closed,Fixed,22/01/10,23/01/10
+OFBIZ-3412,Improvement,Closed,Fixed,15/01/10,20/01/10
+OFBIZ-3417,Improvement,Closed,Fixed,19/01/10,19/01/10
+OFBIZ-3415,Improvement,Closed,Fixed,18/01/10,18/01/10
+OFBIZ-3381,Improvement,Closed,Fixed,24/12/09,15/01/10
+OFBIZ-3409,Improvement,Closed,Fixed,14/01/10,14/01/10
+OFBIZ-3399,New Feature,Closed,Fixed,08/01/10,11/01/10
+OFBIZ-3402,Improvement,Closed,Fixed,10/01/10,11/01/10
+OFBIZ-3400,Improvement,Closed,Fixed,08/01/10,08/01/10
+OFBIZ-3397,New Feature,Closed,Fixed,08/01/10,08/01/10
+OFBIZ-3387,Improvement,Closed,Fixed,31/12/09,06/01/10
+OFBIZ-3392,Improvement,Closed,Fixed,06/01/10,06/01/10
+OFBIZ-3388,New Feature,Closed,Won't Fix,01/01/10,01/01/10
+OFBIZ-3274,Improvement,Closed,Fixed,29/11/09,29/12/09
+OFBIZ-3363,New Feature,Closed,Fixed,17/12/09,21/12/09
+OFBIZ-3380,Improvement,Closed,Fixed,24/12/09,24/12/09
+OFBIZ-3375,Improvement,Closed,Fixed,22/12/09,22/12/09
+OFBIZ-3243,New Feature,Closed,Invalid,21/11/09,22/12/09
+OFBIZ-3370,Improvement,Closed,Fixed,18/12/09,19/12/09
+OFBIZ-3360,Improvement,Closed,Fixed,16/12/09,17/12/09
+OFBIZ-3361,Improvement,Closed,Fixed,16/12/09,17/12/09
+OFBIZ-3359,Improvement,Closed,Fixed,16/12/09,17/12/09
+OFBIZ-3357,Improvement,Closed,Fixed,16/12/09,16/12/09
+OFBIZ-3356,Improvement,Closed,Fixed,16/12/09,16/12/09
+OFBIZ-3355,Improvement,Closed,Fixed,16/12/09,16/12/09
+OFBIZ-3354,Improvement,Closed,Fixed,16/12/09,16/12/09
+OFBIZ-3044,Improvement,Closed,Fixed,15/10/09,22/10/09
+OFBIZ-3180,New Feature,Closed,Fixed,09/11/09,19/11/09
+OFBIZ-3327,Improvement,Closed,Fixed,10/12/09,15/12/09
+OFBIZ-3339,Improvement,Closed,Fixed,15/12/09,15/12/09
+OFBIZ-3332,New Feature,Closed,Fixed,11/12/09,15/12/09
+OFBIZ-3336,Improvement,Closed,Fixed,14/12/09,15/12/09
+OFBIZ-3227,Improvement,Closed,Fixed,19/11/09,27/11/09
+OFBIZ-3326,Improvement,Closed,Fixed,10/12/09,11/12/09
+OFBIZ-3324,Improvement,Closed,Fixed,10/12/09,11/12/09
+OFBIZ-3325,Improvement,Closed,Fixed,10/12/09,10/12/09
+OFBIZ-3317,Improvement,Closed,Fixed,09/12/09,09/12/09
+OFBIZ-3271,New Feature,Closed,Fixed,28/11/09,07/12/09
+OFBIZ-3066,Improvement,Closed,Fixed,20/10/09,07/12/09
+OFBIZ-3306,Improvement,Closed,Fixed,04/12/09,04/12/09
+OFBIZ-3297,Wish,Closed,Won't Fix,03/12/09,03/12/09
+OFBIZ-3295,Improvement,Closed,Fixed,03/12/09,03/12/09
+OFBIZ-3286,Improvement,Closed,Fixed,02/12/09,02/12/09
+OFBIZ-3175,Improvement,Closed,Fixed,08/11/09,09/11/09
+OFBIZ-3278,Improvement,Closed,Fixed,01/12/09,01/12/09
+OFBIZ-3267,Improvement,Closed,Fixed,27/11/09,30/11/09
+OFBIZ-3244,New Feature,Closed,Fixed,21/11/09,30/11/09
+OFBIZ-3269,Improvement,Closed,Fixed,27/11/09,30/11/09
+OFBIZ-3270,Improvement,Closed,Fixed,28/11/09,30/11/09
+OFBIZ-3265,Improvement,Closed,Fixed,27/11/09,27/11/09
+OFBIZ-3263,Improvement,Closed,Fixed,26/11/09,26/11/09
+OFBIZ-3146,Improvement,Closed,Duplicate,04/11/09,24/11/09
+OFBIZ-3252,Improvement,Closed,Fixed,23/11/09,24/11/09
+OFBIZ-3241,Improvement,Closed,Fixed,20/11/09,24/11/09
+OFBIZ-3236,Improvement,Closed,Fixed,20/11/09,24/11/09
+OFBIZ-3238,Improvement,Closed,Fixed,20/11/09,24/11/09
+OFBIZ-3235,Improvement,Closed,Fixed,20/11/09,24/11/09
+OFBIZ-3248,Improvement,Closed,Fixed,23/11/09,23/11/09
+OFBIZ-3228,Improvement,Closed,Duplicate,19/11/09,21/11/09
+OFBIZ-3231,Improvement,Closed,Fixed,20/11/09,23/11/09
+OFBIZ-3192,Improvement,Closed,Fixed,12/11/09,22/11/09
+OFBIZ-3207,New Feature,Closed,Fixed,16/11/09,20/11/09
+OFBIZ-3234,Improvement,Closed,Fixed,20/11/09,20/11/09
+OFBIZ-3190,New Feature,Closed,Fixed,12/11/09,18/11/09
+OFBIZ-3224,Improvement,Closed,Fixed,19/11/09,19/11/09
+OFBIZ-3223,Improvement,Closed,Fixed,19/11/09,19/11/09
+OFBIZ-3222,Improvement,Closed,Fixed,18/11/09,18/11/09
+OFBIZ-3220,Improvement,Closed,Fixed,18/11/09,18/11/09
+OFBIZ-3221,Improvement,Closed,Fixed,18/11/09,18/11/09
+OFBIZ-3219,Improvement,Closed,Fixed,18/11/09,18/11/09
+OFBIZ-3209,Improvement,Closed,Fixed,16/11/09,16/11/09
+OFBIZ-3156,Improvement,Closed,Fixed,04/11/09,16/11/09
+OFBIZ-3197,Improvement,Closed,Fixed,14/11/09,14/11/09
+OFBIZ-3170,Improvement,Closed,Fixed,06/11/09,12/11/09
+OFBIZ-3184,Improvement,Closed,Fixed,11/11/09,12/11/09
+OFBIZ-3098,Improvement,Closed,Fixed,28/10/09,10/11/09
+OFBIZ-3158,Improvement,Closed,Fixed,05/11/09,10/11/09
+OFBIZ-3176,Improvement,Closed,Fixed,08/11/09,08/11/09
+OFBIZ-3172,Improvement,Closed,Fixed,07/11/09,07/11/09
+OFBIZ-3171,Improvement,Closed,Fixed,06/11/09,07/11/09
+OFBIZ-3168,Improvement,Closed,Fixed,05/11/09,06/11/09
+OFBIZ-3091,Improvement,Closed,Fixed,26/10/09,05/11/09
+OFBIZ-3167,Improvement,Closed,Fixed,05/11/09,05/11/09
+OFBIZ-3159,Improvement,Closed,Fixed,05/11/09,05/11/09
+OFBIZ-3090,Improvement,Closed,Fixed,26/10/09,04/11/09
+OFBIZ-3152,Improvement,Closed,Fixed,04/11/09,04/11/09
+OFBIZ-3145,Improvement,Closed,Fixed,03/11/09,04/11/09
+OFBIZ-3149,Improvement,Closed,Fixed,04/11/09,04/11/09
+OFBIZ-3129,Improvement,Closed,Fixed,30/10/09,03/11/09
+OFBIZ-3140,Improvement,Closed,Fixed,02/11/09,04/11/09
+OFBIZ-3143,Improvement,Closed,Fixed,03/11/09,03/11/09
+OFBIZ-3137,Improvement,Closed,Fixed,02/11/09,03/11/09
+OFBIZ-3128,New Feature,Closed,Fixed,30/10/09,03/11/09
+OFBIZ-3083,New Feature,Closed,Fixed,25/10/09,01/11/09
+OFBIZ-3132,Improvement,Closed,Fixed,31/10/09,31/10/09
+OFBIZ-3130,Improvement,Closed,Fixed,30/10/09,30/10/09
+OFBIZ-3086,Improvement,Closed,Fixed,25/10/09,28/10/09
+OFBIZ-3049,Wish,Closed,Fixed,18/10/09,19/10/09
+OFBIZ-3004,Improvement,Closed,Duplicate,06/10/09,27/10/09
+OFBIZ-3058,Improvement,Closed,Fixed,19/10/09,19/10/09
+OFBIZ-3088,Improvement,Closed,Fixed,26/10/09,26/10/09
+OFBIZ-3067,Improvement,Closed,Fixed,20/10/09,24/10/09
+OFBIZ-3082,Improvement,Closed,Fixed,24/10/09,25/10/09
+OFBIZ-3081,Improvement,Closed,Fixed,24/10/09,24/10/09
+OFBIZ-3068,Improvement,Closed,Fixed,20/10/09,23/10/09
+OFBIZ-3069,Improvement,Closed,Fixed,20/10/09,22/10/09
+OFBIZ-3072,Improvement,Closed,Fixed,21/10/09,22/10/09
+OFBIZ-3050,Improvement,Closed,Fixed,18/10/09,18/10/09
+OFBIZ-3048,Improvement,Closed,Fixed,17/10/09,18/10/09
+OFBIZ-3040,Improvement,Closed,Fixed,14/10/09,18/10/09
+OFBIZ-3047,Improvement,Closed,Fixed,17/10/09,18/10/09
+OFBIZ-3022,Improvement,Closed,Fixed,09/10/09,17/10/09
+OFBIZ-3038,Improvement,Closed,Fixed,14/10/09,17/10/09
+OFBIZ-3020,Improvement,Closed,Fixed,09/10/09,10/10/09
+OFBIZ-3033,Improvement,Closed,Fixed,13/10/09,13/10/09
+OFBIZ-3021,Improvement,Closed,Fixed,09/10/09,10/10/09
+OFBIZ-3024,New Feature,Closed,Fixed,10/10/09,10/10/09
+OFBIZ-3014,Improvement,Closed,Fixed,09/10/09,09/10/09
+OFBIZ-4926,Improvement,Closed,Incomplete,06/06/12,30/11/17
+OFBIZ-4983,New Feature,Closed,Implemented,07/08/12,27/11/15
+OFBIZ-4265,Improvement,Closed,Fixed,26/04/11,28/04/11
+OFBIZ-4659,Improvement,Closed,Incomplete,15/01/12,26/03/14
+OFBIZ-4808,Improvement,Closed,Fixed,15/04/12,19/05/12
+OFBIZ-4806,Improvement,Closed,Fixed,14/04/12,14/04/12
+OFBIZ-4800,Improvement,Closed,Fixed,10/04/12,10/04/12
+OFBIZ-4774,Improvement,Closed,Fixed,30/03/12,31/03/12
+OFBIZ-4658,Improvement,Closed,Fixed,12/01/12,12/01/12
+OFBIZ-4550,Improvement,Closed,Fixed,08/11/11,08/11/11
+OFBIZ-4544,Improvement,Closed,Fixed,07/11/11,12/11/11
+OFBIZ-4330,Improvement,Closed,Fixed,05/07/11,09/08/11
+OFBIZ-4218,Improvement,Closed,Fixed,17/03/11,18/03/11
+OFBIZ-4955,New Feature,Closed,Fixed,05/07/12,12/07/12
+OFBIZ-4091,Improvement,Closed,Fixed,03/01/11,27/05/11
+OFBIZ-4966,Improvement,Closed,Fixed,13/07/12,06/03/15
+OFBIZ-4232,Improvement,Closed,Fixed,28/03/11,14/04/11
+OFBIZ-4901,Improvement,Closed,Fixed,28/05/12,28/05/12
+OFBIZ-4480,Improvement,Closed,Fixed,14/10/11,21/05/15
+OFBIZ-4090,Improvement,Closed,Implemented,01/01/11,13/04/16
+OFBIZ-4430,Improvement,Closed,Won't Fix,19/09/11,04/04/16
+OFBIZ-4761,Improvement,Closed,Implemented,27/03/12,22/03/16
+OFBIZ-4183,Improvement,Closed,Duplicate,17/02/11,29/01/16
+OFBIZ-4189,Improvement,Closed,Incomplete,18/02/11,23/10/15
+OFBIZ-4211,Improvement,Closed,Won't Fix,10/03/11,26/03/14
+OFBIZ-4194,Improvement,Closed,Fixed,21/02/11,03/03/11
+OFBIZ-4154,New Feature,Closed,Fixed,28/01/11,13/09/15
+OFBIZ-4481,Improvement,Closed,Implemented,14/10/11,21/05/15
+OFBIZ-4412,Improvement,Closed,Incomplete,13/09/11,09/01/15
+OFBIZ-4020,Improvement,Closed,Fixed,17/11/10,21/03/15
+OFBIZ-4909,Wish,Closed,Not A Problem,30/05/12,20/03/15
+OFBIZ-4374,Improvement,Closed,Implemented,18/08/11,28/01/15
+OFBIZ-4257,Improvement,Closed,Fixed,16/04/11,29/04/11
+OFBIZ-4511,Improvement,Closed,Done,25/10/11,20/12/14
+OFBIZ-4433,Improvement,Closed,Duplicate,19/09/11,22/12/14
+OFBIZ-4053,New Feature,Closed,Fixed,10/12/10,27/09/14
+OFBIZ-4673,Improvement,Closed,Fixed,27/01/12,21/12/14
+OFBIZ-4159,Improvement,Closed,Fixed,31/01/11,20/12/14
+OFBIZ-4740,Improvement,Closed,Fixed,20/03/12,14/07/14
+OFBIZ-4494,Improvement,Closed,Invalid,20/10/11,29/11/14
+OFBIZ-4572,Improvement,Closed,Fixed,18/11/11,01/11/14
+OFBIZ-4328,New Feature,Closed,Incomplete,03/07/11,19/10/14
+OFBIZ-4777,Improvement,Closed,Fixed,01/04/12,01/04/12
+OFBIZ-4902,Improvement,Closed,Fixed,28/05/12,16/08/14
+OFBIZ-4794,Improvement,Closed,Fixed,08/04/12,29/07/14
+OFBIZ-4283,Improvement,Closed,Fixed,14/05/11,25/07/14
+OFBIZ-4872,Improvement,Closed,Implemented,11/05/12,14/07/14
+OFBIZ-4922,Improvement,Closed,Invalid,04/06/12,10/07/14
+OFBIZ-4247,New Feature,Closed,Won't Fix,07/04/11,24/04/14
+OFBIZ-4167,Wish,Closed,Incomplete,08/02/11,21/04/14
+OFBIZ-4803,Improvement,Closed,Invalid,12/04/12,02/04/14
+OFBIZ-4767,Improvement,Closed,Incomplete,28/03/12,02/04/14
+OFBIZ-4634,New Feature,Closed,Invalid,28/12/11,02/04/14
+OFBIZ-4592,Improvement,Closed,Later,24/11/11,27/03/14
+OFBIZ-4037,Improvement,Closed,Incomplete,28/11/10,26/03/14
+OFBIZ-4904,Improvement,Closed,Incomplete,29/05/12,26/03/14
+OFBIZ-4952,New Feature,Closed,Implemented,04/07/12,19/03/14
+OFBIZ-4432,Improvement,Closed,Duplicate,19/09/11,21/12/13
+OFBIZ-4351,Improvement,Closed,Implemented,25/07/11,21/12/13
+OFBIZ-4203,New Feature,Closed,Fixed,28/02/11,21/05/11
+OFBIZ-4894,Improvement,Closed,Fixed,22/05/12,26/09/13
+OFBIZ-4172,New Feature,Closed,Fixed,08/02/11,29/10/11
+OFBIZ-4472,New Feature,Closed,Implemented,12/10/11,25/07/13
+OFBIZ-4934,Improvement,Closed,Fixed,13/06/12,09/02/13
+OFBIZ-4622,Improvement,Closed,Fixed,12/12/11,20/04/12
+OFBIZ-4906,Improvement,Closed,Fixed,29/05/12,28/06/12
+OFBIZ-4346,Improvement,Closed,Fixed,21/07/11,17/12/12
+OFBIZ-4792,New Feature,Closed,Fixed,08/04/12,03/12/12
+OFBIZ-4768,Improvement,Closed,Won't Fix,29/03/12,19/04/12
+OFBIZ-4844,Improvement,Closed,Fixed,26/04/12,06/09/12
+OFBIZ-4788,Improvement,Closed,Fixed,07/04/12,06/09/12
+OFBIZ-4986,Improvement,Closed,Fixed,08/08/12,04/09/12
+OFBIZ-4770,Improvement,Closed,Fixed,29/03/12,29/03/12
+OFBIZ-4974,Improvement,Closed,Fixed,24/07/12,28/07/12
+OFBIZ-4962,Improvement,Closed,Fixed,12/07/12,13/07/12
+OFBIZ-4543,Improvement,Closed,Won't Fix,07/11/11,08/07/12
+OFBIZ-4948,Improvement,Closed,Fixed,29/06/12,29/06/12
+OFBIZ-4759,Improvement,Closed,Fixed,26/03/12,03/06/12
+OFBIZ-4917,Wish,Closed,Invalid,02/06/12,02/06/12
+OFBIZ-4779,Improvement,Closed,Won't Fix,02/04/12,27/05/12
+OFBIZ-4874,Improvement,Closed,Fixed,12/05/12,20/05/12
+OFBIZ-4887,Improvement,Closed,Fixed,18/05/12,19/05/12
+OFBIZ-4864,New Feature,Closed,Fixed,08/05/12,14/05/12
+OFBIZ-4831,Improvement,Closed,Fixed,19/04/12,28/04/12
+OFBIZ-4688,Improvement,Closed,Won't Fix,11/02/12,27/04/12
+OFBIZ-4846,Improvement,Closed,Fixed,26/04/12,26/04/12
+OFBIZ-4801,Improvement,Closed,Fixed,11/04/12,23/04/12
+OFBIZ-4815,Improvement,Closed,Fixed,16/04/12,21/04/12
+OFBIZ-4830,Improvement,Closed,Fixed,19/04/12,20/04/12
+OFBIZ-4822,Improvement,Closed,Fixed,17/04/12,17/04/12
+OFBIZ-4760,Improvement,Closed,Fixed,27/03/12,15/04/12
+OFBIZ-4797,Improvement,Closed,Fixed,09/04/12,15/04/12
+OFBIZ-4242,Improvement,Closed,Fixed,04/04/11,14/04/12
+OFBIZ-4793,Improvement,Closed,Fixed,08/04/12,11/04/12
+OFBIZ-4798,Improvement,Closed,Fixed,09/04/12,11/04/12
+OFBIZ-4588,Improvement,Closed,Fixed,22/11/11,08/04/12
+OFBIZ-4764,Improvement,Closed,Fixed,28/03/12,05/04/12
+OFBIZ-4775,Improvement,Closed,Fixed,31/03/12,02/04/12
+OFBIZ-4776,Improvement,Closed,Fixed,01/04/12,01/04/12
+OFBIZ-4771,Improvement,Closed,Fixed,29/03/12,02/04/12
+OFBIZ-4765,Improvement,Closed,Fixed,28/03/12,02/04/12
+OFBIZ-4518,Improvement,Closed,Fixed,26/10/11,31/03/12
+OFBIZ-4723,Improvement,Closed,Fixed,06/03/12,25/03/12
+OFBIZ-4627,Improvement,Closed,Fixed,19/12/11,23/03/12
+OFBIZ-4580,Improvement,Closed,Fixed,19/11/11,23/03/12
+OFBIZ-4736,Improvement,Closed,Fixed,20/03/12,25/03/12
+OFBIZ-4748,Improvement,Closed,Fixed,21/03/12,24/03/12
+OFBIZ-4747,Improvement,Closed,Fixed,21/03/12,24/03/12
+OFBIZ-4738,Improvement,Closed,Fixed,20/03/12,23/03/12
+OFBIZ-4102,Improvement,Closed,Fixed,09/01/11,13/03/11
+OFBIZ-4730,Improvement,Closed,Fixed,15/03/12,19/03/12
+OFBIZ-4727,Improvement,Closed,Fixed,09/03/12,09/03/12
+OFBIZ-4678,Improvement,Closed,Fixed,04/02/12,04/03/12
+OFBIZ-4721,Improvement,Closed,Fixed,29/02/12,01/03/12
+OFBIZ-4716,Improvement,Closed,Fixed,24/02/12,25/02/12
+OFBIZ-4718,New Feature,Closed,Duplicate,24/02/12,24/02/12
+OFBIZ-4713,Improvement,Closed,Fixed,22/02/12,23/02/12
+OFBIZ-4714,Improvement,Closed,Fixed,22/02/12,22/02/12
+OFBIZ-4708,Improvement,Closed,Fixed,21/02/12,21/02/12
+OFBIZ-4690,Improvement,Closed,Fixed,13/02/12,18/02/12
+OFBIZ-4698,Improvement,Closed,Fixed,16/02/12,17/02/12
+OFBIZ-4700,Improvement,Closed,Fixed,16/02/12,16/02/12
+OFBIZ-4697,Improvement,Closed,Fixed,16/02/12,16/02/12
+OFBIZ-4656,Improvement,Closed,Fixed,12/01/12,12/02/12
+OFBIZ-4685,Improvement,Closed,Fixed,10/02/12,11/02/12
+OFBIZ-4681,Improvement,Closed,Fixed,07/02/12,07/02/12
+OFBIZ-4672,Improvement,Closed,Fixed,26/01/12,26/01/12
+OFBIZ-4671,Improvement,Closed,Fixed,25/01/12,25/01/12
+OFBIZ-4612,Improvement,Closed,Not A Problem,06/12/11,13/12/11
+OFBIZ-4623,Improvement,Closed,Fixed,12/12/11,07/01/12
+OFBIZ-4648,Improvement,Closed,Fixed,05/01/12,07/01/12
+OFBIZ-4640,Improvement,Closed,Fixed,03/01/12,03/01/12
+OFBIZ-4643,Improvement,Closed,Fixed,03/01/12,03/01/12
+OFBIZ-4282,Improvement,Closed,Fixed,14/05/11,01/01/12
+OFBIZ-4487,Improvement,Closed,Fixed,16/10/11,19/12/11
+OFBIZ-4626,Improvement,Closed,Fixed,17/12/11,18/12/11
+OFBIZ-4610,Improvement,Closed,Fixed,06/12/11,17/12/11
+OFBIZ-4616,Improvement,Closed,Fixed,08/12/11,17/12/11
+OFBIZ-4046,Improvement,Closed,Fixed,07/12/10,08/12/10
+OFBIZ-4564,Improvement,Closed,Fixed,14/11/11,21/11/11
+OFBIZ-4333,Improvement,Closed,Duplicate,07/07/11,26/07/11
+OFBIZ-4560,Improvement,Closed,Incomplete,12/11/11,13/11/11
+OFBIZ-4563,Improvement,Closed,Fixed,14/11/11,18/11/11
+OFBIZ-4604,Improvement,Closed,Fixed,02/12/11,07/12/11
+OFBIZ-4583,Improvement,Closed,Not A Problem,20/11/11,23/11/11
+OFBIZ-4352,Improvement,Closed,Fixed,25/07/11,17/11/11
+OFBIZ-4561,Improvement,Closed,Fixed,14/11/11,14/11/11
+OFBIZ-4562,Improvement,Closed,Fixed,14/11/11,14/11/11
+OFBIZ-4557,Improvement,Closed,Fixed,10/11/11,12/11/11
+OFBIZ-4555,Improvement,Closed,Fixed,09/11/11,12/11/11
+OFBIZ-4510,Improvement,Closed,Fixed,25/10/11,12/11/11
+OFBIZ-4347,Improvement,Closed,Fixed,21/07/11,21/07/11
+OFBIZ-4545,Improvement,Closed,Fixed,07/11/11,09/11/11
+OFBIZ-4548,Improvement,Closed,Fixed,07/11/11,07/11/11
+OFBIZ-4536,Improvement,Closed,Fixed,31/10/11,01/11/11
+OFBIZ-4537,Improvement,Closed,Fixed,01/11/11,01/11/11
+OFBIZ-4522,Improvement,Closed,Fixed,27/10/11,29/10/11
+OFBIZ-4533,Improvement,Closed,Fixed,28/10/11,28/10/11
+OFBIZ-4534,Improvement,Closed,Fixed,28/10/11,28/10/11
+OFBIZ-4532,Improvement,Closed,Fixed,28/10/11,28/10/11
+OFBIZ-4531,Improvement,Closed,Fixed,28/10/11,28/10/11
+OFBIZ-4530,Improvement,Closed,Fixed,27/10/11,27/10/11
+OFBIZ-4529,Improvement,Closed,Fixed,27/10/11,27/10/11
+OFBIZ-4524,Improvement,Closed,Fixed,27/10/11,27/10/11
+OFBIZ-4507,Improvement,Closed,Fixed,24/10/11,24/10/11
+OFBIZ-4471,Improvement,Closed,Fixed,12/10/11,17/10/11
+OFBIZ-4150,Improvement,Closed,Not A Problem,27/01/11,02/10/11
+OFBIZ-4436,Improvement,Closed,Fixed,20/09/11,22/09/11
+OFBIZ-4434,Improvement,Closed,Fixed,19/09/11,24/09/11
+OFBIZ-4410,Improvement,Closed,Fixed,13/09/11,24/09/11
+OFBIZ-4442,Improvement,Closed,Fixed,22/09/11,22/09/11
+OFBIZ-4400,Improvement,Closed,Fixed,08/09/11,18/09/11
+OFBIZ-4426,Improvement,Closed,Fixed,16/09/11,17/09/11
+OFBIZ-4418,Improvement,Closed,Fixed,14/09/11,15/09/11
+OFBIZ-4415,Improvement,Closed,Fixed,14/09/11,14/09/11
+OFBIZ-4416,Improvement,Closed,Fixed,14/09/11,14/09/11
+OFBIZ-4404,Improvement,Closed,Fixed,12/09/11,14/09/11
+OFBIZ-4405,Improvement,Closed,Fixed,12/09/11,14/09/11
+OFBIZ-4384,Improvement,Closed,Fixed,31/08/11,10/09/11
+OFBIZ-4401,Improvement,Closed,Fixed,09/09/11,09/09/11
+OFBIZ-4394,Improvement,Closed,Fixed,05/09/11,05/09/11
+OFBIZ-4132,Improvement,Closed,Fixed,22/01/11,03/09/11
+OFBIZ-4192,Improvement,Closed,Incomplete,19/02/11,03/09/11
+OFBIZ-4193,Improvement,Closed,Incomplete,19/02/11,03/09/11
+OFBIZ-4219,Improvement,Closed,Fixed,18/03/11,21/03/11
+OFBIZ-4380,Improvement,Closed,Fixed,29/08/11,30/08/11
+OFBIZ-4370,New Feature,Closed,Fixed,18/08/11,22/08/11
+OFBIZ-4373,Improvement,Closed,Fixed,18/08/11,22/08/11
+OFBIZ-4367,Wish,Closed,Not A Problem,15/08/11,19/08/11
+OFBIZ-4359,Improvement,Closed,Fixed,03/08/11,04/08/11
+OFBIZ-4357,Improvement,Closed,Fixed,01/08/11,01/08/11
+OFBIZ-4353,Improvement,Closed,Fixed,26/07/11,28/07/11
+OFBIZ-4348,Improvement,Closed,Fixed,21/07/11,25/07/11
+OFBIZ-4329,Improvement,Closed,Fixed,04/07/11,16/07/11
+OFBIZ-4334,Improvement,Closed,Fixed,08/07/11,08/07/11
+OFBIZ-4327,New Feature,Closed,Later,26/06/11,03/07/11
+OFBIZ-4325,Improvement,Closed,Fixed,24/06/11,28/06/11
+OFBIZ-4014,Improvement,Closed,Fixed,09/11/10,28/06/11
+OFBIZ-4307,Improvement,Closed,Not A Problem,01/06/11,25/06/11
+OFBIZ-4324,Improvement,Closed,Fixed,23/06/11,24/06/11
+OFBIZ-4322,Improvement,Closed,Fixed,21/06/11,23/06/11
+OFBIZ-4012,Improvement,Closed,Invalid,07/11/10,28/05/11
+OFBIZ-4294,Wish,Closed,Not A Problem,23/05/11,26/05/11
+OFBIZ-4290,Improvement,Closed,Fixed,22/05/11,23/05/11
+OFBIZ-4287,Improvement,Closed,Fixed,20/05/11,22/05/11
+OFBIZ-4195,Improvement,Closed,Fixed,21/02/11,14/04/11
+OFBIZ-4286,Improvement,Closed,Duplicate,18/05/11,18/05/11
+OFBIZ-4244,Improvement,Closed,Fixed,05/04/11,06/05/11
+OFBIZ-4248,Improvement,Closed,Fixed,09/04/11,06/05/11
+OFBIZ-4268,Improvement,Closed,Fixed,29/04/11,06/05/11
+OFBIZ-4272,Improvement,Closed,Fixed,05/05/11,05/05/11
+OFBIZ-4269,Improvement,Closed,Fixed,30/04/11,30/04/11
+OFBIZ-4246,New Feature,Closed,Later,06/04/11,29/04/11
+OFBIZ-4264,Improvement,Closed,Fixed,25/04/11,28/04/11
+OFBIZ-4260,New Feature,Closed,Fixed,21/04/11,24/04/11
+OFBIZ-4258,Improvement,Closed,Fixed,18/04/11,18/04/11
+OFBIZ-4253,Improvement,Closed,Fixed,13/04/11,14/04/11
+OFBIZ-4236,Improvement,Closed,Fixed,29/03/11,02/04/11
+OFBIZ-4234,Improvement,Closed,Not A Problem,28/03/11,29/03/11
+OFBIZ-4230,Improvement,Closed,Fixed,24/03/11,26/03/11
+OFBIZ-4229,Improvement,Closed,Fixed,24/03/11,26/03/11
+OFBIZ-4217,Improvement,Closed,Fixed,16/03/11,25/03/11
+OFBIZ-4226,Improvement,Closed,Fixed,23/03/11,23/03/11
+OFBIZ-4214,Wish,Closed,Not A Problem,14/03/11,14/03/11
+OFBIZ-4213,Improvement,Closed,Fixed,13/03/11,13/03/11
+OFBIZ-4204,Improvement,Closed,Fixed,28/02/11,07/03/11
+OFBIZ-4181,Improvement,Closed,Fixed,16/02/11,17/02/11
+OFBIZ-4182,Improvement,Closed,Fixed,16/02/11,16/02/11
+OFBIZ-4177,Improvement,Closed,Fixed,11/02/11,11/02/11
+OFBIZ-4148,Improvement,Closed,Fixed,25/01/11,25/01/11
+OFBIZ-4133,Improvement,Closed,Fixed,23/01/11,24/01/11
+OFBIZ-4131,Improvement,Closed,Fixed,22/01/11,22/01/11
+OFBIZ-4129,Improvement,Closed,Fixed,20/01/11,20/01/11
+OFBIZ-4092,Improvement,Closed,Fixed,03/01/11,16/01/11
+OFBIZ-4076,Improvement,Closed,Fixed,27/12/10,09/01/11
+OFBIZ-4097,Improvement,Closed,Fixed,06/01/11,08/01/11
+OFBIZ-4094,Improvement,Closed,Fixed,05/01/11,05/01/11
+OFBIZ-4077,Improvement,Closed,Fixed,27/12/10,04/01/11
+OFBIZ-4078,Improvement,Closed,Fixed,28/12/10,28/12/10
+OFBIZ-4074,Improvement,Closed,Fixed,24/12/10,24/12/10
+OFBIZ-4055,Improvement,Closed,Fixed,14/12/10,24/12/10
+OFBIZ-4070,New Feature,Closed,Fixed,21/12/10,21/12/10
+OFBIZ-4052,Improvement,Closed,Fixed,10/12/10,17/12/10
+OFBIZ-4063,Improvement,Closed,Fixed,16/12/10,16/12/10
+OFBIZ-4027,Improvement,Closed,Fixed,18/11/10,05/12/10
+OFBIZ-4034,Improvement,Closed,Fixed,24/11/10,03/12/10
+OFBIZ-4024,Improvement,Closed,Fixed,18/11/10,03/12/10
+OFBIZ-4013,Improvement,Closed,Invalid,08/11/10,30/11/10
+OFBIZ-4031,Improvement,Closed,Fixed,22/11/10,26/11/10
+OFBIZ-4028,Improvement,Closed,Fixed,18/11/10,18/11/10
+OFBIZ-5840,New Feature,Closed,Incomplete,28/10/14,19/09/16
+OFBIZ-5312,New Feature,Closed,Implemented,09/09/13,29/01/15
+OFBIZ-5218,Improvement,Closed,Not A Problem,11/06/13,21/04/18
+OFBIZ-5959,Improvement,Closed,Not A Problem,13/01/15,11/12/17
+OFBIZ-5997,Improvement,Closed,Not A Problem,17/01/15,11/12/17
+OFBIZ-5682,Improvement,Closed,Fixed,14/07/14,20/11/17
+OFBIZ-5321,Improvement,Closed,Done,17/09/13,22/10/17
+OFBIZ-5902,Improvement,Closed,Done,08/12/14,17/12/14
+OFBIZ-5780,Improvement,Closed,Duplicate,20/09/14,22/02/16
+OFBIZ-5431,Improvement,Closed,Done,17/12/13,17/12/14
+OFBIZ-5432,Improvement,Closed,Implemented,17/12/13,17/12/13
+OFBIZ-5433,Improvement,Closed,Implemented,17/12/13,17/12/13
+OFBIZ-5434,Improvement,Closed,Implemented,17/12/13,01/11/14
+OFBIZ-5435,Improvement,Closed,Implemented,17/12/13,17/12/13
+OFBIZ-5448,Improvement,Closed,Implemented,27/12/13,03/01/14
+OFBIZ-5529,Improvement,Closed,Implemented,03/02/14,11/02/15
+OFBIZ-5523,Improvement,Closed,Implemented,01/02/14,24/04/14
+OFBIZ-5656,Improvement,Closed,Done,13/06/14,17/12/14
+OFBIZ-5660,Improvement,Closed,Implemented,19/06/14,17/12/14
+OFBIZ-5757,Improvement,Closed,Done,08/09/14,12/11/15
+OFBIZ-5812,Improvement,Closed,Done,15/10/14,21/01/15
+OFBIZ-5814,Improvement,Closed,Done,15/10/14,10/09/15
+OFBIZ-5994,Improvement,Closed,Done,17/01/15,15/08/16
+OFBIZ-5263,Improvement,Closed,Fixed,13/07/13,07/01/14
+OFBIZ-5262,Improvement,Closed,Implemented,13/07/13,10/08/13
+OFBIZ-5242,Improvement,Closed,Implemented,22/06/13,22/06/13
+OFBIZ-5240,Improvement,Closed,Fixed,22/06/13,22/06/13
+OFBIZ-5223,Improvement,Closed,Fixed,14/06/13,14/06/13
+OFBIZ-5841,Improvement,Closed,Implemented,28/10/14,28/10/14
+OFBIZ-5833,Improvement,Closed,Done,21/10/14,11/01/15
+OFBIZ-5838,Improvement,Closed,Resolved,23/10/14,17/02/17
+OFBIZ-5042,Improvement,Closed,Implemented,29/09/12,09/09/15
+OFBIZ-5844,Improvement,Closed,Done,01/11/14,17/12/14
+OFBIZ-5536,Improvement,Closed,Unresolved,09/02/14,30/07/16
+OFBIZ-5652,Improvement,Closed,Won't Fix,11/06/14,20/03/15
+OFBIZ-5865,Improvement,Closed,Later,06/11/14,04/12/16
+OFBIZ-5851,Improvement,Closed,Later,04/11/14,04/12/16
+OFBIZ-5852,Improvement,Closed,Fixed,04/11/14,28/06/16
+OFBIZ-5761,Improvement,Closed,Implemented,09/09/14,03/12/14
+OFBIZ-5800,Improvement,Closed,Done,05/10/14,08/11/14
+OFBIZ-5835,Improvement,Closed,Fixed,22/10/14,17/02/15
+OFBIZ-5169,Improvement,Closed,Fixed,05/04/13,23/09/16
+OFBIZ-5024,Improvement,Closed,Fixed,03/09/12,27/08/16
+OFBIZ-5129,New Feature,Closed,Incomplete,31/01/13,17/08/16
+OFBIZ-5898,Improvement,Closed,Implemented,03/12/14,17/12/14
+OFBIZ-5464,Improvement,Closed,Not A Problem,07/01/14,18/07/16
+OFBIZ-5839,Improvement,Closed,Duplicate,23/10/14,15/07/16
+OFBIZ-5837,Improvement,Closed,Duplicate,23/10/14,15/07/16
+OFBIZ-5705,Improvement,Closed,Implemented,09/08/14,28/06/16
+OFBIZ-5610,Improvement,Closed,Fixed,02/04/14,19/05/15
+OFBIZ-5955,Improvement,Closed,Done,11/01/15,11/01/15
+OFBIZ-5234,Improvement,Closed,Cannot Reproduce,22/06/13,19/06/16
+OFBIZ-5679,Improvement,Closed,Implemented,12/07/14,28/05/15
+OFBIZ-5235,Improvement,Closed,Fixed,22/06/13,06/06/16
+OFBIZ-5861,Improvement,Closed,Fixed,06/11/14,21/05/16
+OFBIZ-5872,Improvement,Closed,Fixed,12/11/14,17/05/16
+OFBIZ-5697,Improvement,Closed,Implemented,04/08/14,10/05/16
+OFBIZ-5298,Improvement,Closed,Won't Fix,24/08/13,27/03/16
+OFBIZ-5868,Improvement,Closed,Fixed,06/11/14,19/03/16
+OFBIZ-5461,Improvement,Closed,Fixed,06/01/14,09/03/16
+OFBIZ-5878,Improvement,Closed,Implemented,16/11/14,16/01/16
+OFBIZ-5395,Improvement,Closed,Implemented,15/11/13,18/11/13
+OFBIZ-5947,Improvement,Closed,Not A Problem,05/01/15,07/01/15
+OFBIZ-5545,Improvement,Closed,Not A Problem,21/02/14,12/03/14
+OFBIZ-5758,Improvement,Closed,Fixed,08/09/14,17/10/15
+OFBIZ-5803,Improvement,Closed,Not A Problem,10/10/14,28/10/15
+OFBIZ-5805,Improvement,Closed,Won't Fix,11/10/14,17/10/15
+OFBIZ-5361,Improvement,Closed,Done,18/10/13,19/09/15
+OFBIZ-5584,New Feature,Closed,Not A Problem,18/03/14,19/03/14
+OFBIZ-5975,Improvement,Closed,Fixed,16/01/15,15/06/15
+OFBIZ-5917,Improvement,Closed,Implemented,21/12/14,24/12/14
+OFBIZ-5532,Improvement,Closed,Unresolved,06/02/14,22/02/15
+OFBIZ-5568,Improvement,Closed,Not A Problem,08/03/14,18/02/15
+OFBIZ-5569,Improvement,Closed,Invalid,10/03/14,07/04/15
+OFBIZ-5577,Improvement,Closed,Not A Problem,14/03/14,18/02/15
+OFBIZ-5781,Improvement,Closed,Implemented,20/09/14,10/04/15
+OFBIZ-5420,Improvement,Closed,Not A Problem,09/12/13,22/01/14
+OFBIZ-5893,Improvement,Closed,Fixed,02/12/14,10/03/15
+OFBIZ-5984,Improvement,Closed,Invalid,16/01/15,18/03/15
+OFBIZ-5153,Improvement,Closed,Later,12/03/13,23/02/15
+OFBIZ-5706,Improvement,Closed,Implemented,09/08/14,15/02/15
+OFBIZ-5709,Improvement,Closed,Implemented,10/08/14,15/02/15
+OFBIZ-5604,Improvement,Closed,Not A Problem,28/03/14,16/02/15
+OFBIZ-5030,Improvement,Closed,Won't Fix,10/09/12,28/01/15
+OFBIZ-5752,Improvement,Closed,Implemented,04/09/14,27/01/15
+OFBIZ-5995,Improvement,Closed,Won't Fix,17/01/15,22/01/15
+OFBIZ-5969,Improvement,Closed,Implemented,16/01/15,18/01/15
+OFBIZ-5992,Improvement,Closed,Done,17/01/15,17/01/15
+OFBIZ-5963,Improvement,Closed,Done,15/01/15,15/01/15
+OFBIZ-5958,Improvement,Closed,Done,12/01/15,12/01/15
+OFBIZ-5957,Improvement,Closed,Done,12/01/15,12/01/15
+OFBIZ-5772,Improvement,Closed,Done,16/09/14,17/12/14
+OFBIZ-5950,Improvement,Closed,Implemented,08/01/15,08/01/15
+OFBIZ-5922,Improvement,Closed,Fixed,22/12/14,22/12/14
+OFBIZ-5807,Improvement,Closed,Done,13/10/14,17/12/14
+OFBIZ-5325,Improvement,Closed,Fixed,18/09/13,21/12/14
+OFBIZ-5717,Improvement,Closed,Done,16/08/14,17/12/14
+OFBIZ-5592,Improvement,Closed,Fixed,22/03/14,14/07/14
+OFBIZ-5698,Improvement,Closed,Done,04/08/14,17/12/14
+OFBIZ-5777,Improvement,Closed,Implemented,19/09/14,17/12/14
+OFBIZ-5778,Improvement,Closed,Implemented,19/09/14,17/12/14
+OFBIZ-5287,Improvement,Closed,Fixed,04/08/13,15/09/14
+OFBIZ-5912,Wish,Closed,Not A Problem,19/12/14,19/12/14
+OFBIZ-5318,Improvement,Closed,Done,13/09/13,17/12/14
+OFBIZ-5554,Improvement,Closed,Duplicate,02/03/14,17/12/14
+OFBIZ-5892,Improvement,Closed,Done,02/12/14,17/12/14
+OFBIZ-5890,Improvement,Closed,Implemented,29/11/14,17/12/14
+OFBIZ-5842,Improvement,Closed,Implemented,29/10/14,17/12/14
+OFBIZ-5454,Improvement,Closed,Implemented,31/12/13,17/12/14
+OFBIZ-5483,Improvement,Closed,Implemented,14/01/14,17/12/14
+OFBIZ-5743,Improvement,Closed,Done,01/09/14,17/12/14
+OFBIZ-5738,Improvement,Closed,Implemented,28/08/14,17/12/14
+OFBIZ-5736,Improvement,Closed,Implemented,28/08/14,17/12/14
+OFBIZ-5734,Improvement,Closed,Implemented,27/08/14,17/12/14
+OFBIZ-5731,Improvement,Closed,Done,26/08/14,17/12/14
+OFBIZ-5726,Improvement,Closed,Implemented,21/08/14,17/12/14
+OFBIZ-5725,Improvement,Closed,Done,21/08/14,17/12/14
+OFBIZ-5718,Improvement,Closed,Done,16/08/14,17/12/14
+OFBIZ-5691,Improvement,Closed,Implemented,23/07/14,17/12/14
+OFBIZ-5751,Improvement,Closed,Done,03/09/14,17/12/14
+OFBIZ-5887,Improvement,Closed,Done,27/11/14,17/12/14
+OFBIZ-5818,Improvement,Closed,Done,16/10/14,17/12/14
+OFBIZ-5793,Improvement,Closed,Implemented,02/10/14,17/12/14
+OFBIZ-5790,Improvement,Closed,Implemented,30/09/14,17/12/14
+OFBIZ-5779,Improvement,Closed,Done,19/09/14,17/12/14
+OFBIZ-5146,Improvement,Closed,Implemented,01/03/13,10/12/14
+OFBIZ-5899,Improvement,Closed,Implemented,04/12/14,09/12/14
+OFBIZ-5900,Improvement,Closed,Fixed,06/12/14,06/12/14
+OFBIZ-5760,Improvement,Closed,Done,08/09/14,05/12/14
+OFBIZ-5895,New Feature,Closed,Invalid,02/12/14,03/12/14
+OFBIZ-5886,New Feature,Closed,Implemented,25/11/14,25/11/14
+OFBIZ-5880,Improvement,Closed,Implemented,17/11/14,17/11/14
+OFBIZ-5823,Improvement,Closed,Invalid,17/10/14,15/11/14
+OFBIZ-5873,Improvement,Closed,Not A Problem,12/11/14,12/11/14
+OFBIZ-5764,Improvement,Closed,Implemented,10/09/14,01/11/14
+OFBIZ-5843,Improvement,Closed,Implemented,29/10/14,29/10/14
+OFBIZ-5813,Improvement,Closed,Won't Fix,15/10/14,29/10/14
+OFBIZ-5771,Improvement,Closed,Implemented,15/09/14,22/10/14
+OFBIZ-5631,Improvement,Closed,Not A Problem,03/05/14,21/10/14
+OFBIZ-5825,Wish,Closed,Invalid,18/10/14,18/10/14
+OFBIZ-5819,Improvement,Closed,Implemented,16/10/14,16/10/14
+OFBIZ-5737,Improvement,Closed,Implemented,28/08/14,06/10/14
+OFBIZ-5363,Improvement,Closed,Unresolved,18/10/13,23/07/14
+OFBIZ-5768,Improvement,Closed,Fixed,12/09/14,12/09/14
+OFBIZ-5741,Improvement,Closed,Implemented,31/08/14,02/09/14
+OFBIZ-5742,Improvement,Closed,Implemented,31/08/14,01/09/14
+OFBIZ-5585,Improvement,Closed,Not A Problem,18/03/14,29/08/14
+OFBIZ-5657,Improvement,Closed,Won't Fix,13/06/14,16/08/14
+OFBIZ-5050,Improvement,Closed,Invalid,13/10/12,14/07/14
+OFBIZ-5012,Improvement,Closed,Fixed,15/08/12,27/06/14
+OFBIZ-5653,Improvement,Closed,Implemented,13/06/14,13/06/14
+OFBIZ-5333,Improvement,Closed,Implemented,01/10/13,24/05/14
+OFBIZ-5615,Improvement,Closed,Fixed,13/04/14,23/05/14
+OFBIZ-5638,Improvement,Closed,Implemented,12/05/14,19/05/14
+OFBIZ-5538,Improvement,Closed,Not A Problem,11/02/14,01/05/14
+OFBIZ-5006,Improvement,Closed,Fixed,13/08/12,24/04/14
+OFBIZ-5094,Improvement,Closed,Incomplete,06/12/12,24/04/14
+OFBIZ-5559,Improvement,Closed,Fixed,04/03/14,24/04/14
+OFBIZ-5540,Improvement,Closed,Not A Problem,12/02/14,14/04/14
+OFBIZ-5614,Improvement,Closed,Invalid,10/04/14,10/04/14
+OFBIZ-5613,Improvement,Closed,Invalid,10/04/14,10/04/14
+OFBIZ-5594,Wish,Closed,Implemented,24/03/14,29/03/14
+OFBIZ-5394,Improvement,Closed,Later,15/11/13,02/04/14
+OFBIZ-5607,Improvement,Closed,Implemented,31/03/14,01/04/14
+OFBIZ-5606,Improvement,Closed,Implemented,31/03/14,31/03/14
+OFBIZ-5609,Improvement,Closed,Implemented,01/04/14,01/04/14
+OFBIZ-5177,Improvement,Closed,Fixed,12/04/13,26/03/14
+OFBIZ-5598,Improvement,Closed,Not A Problem,26/03/14,26/03/14
+OFBIZ-5463,Improvement,Closed,Incomplete,07/01/14,26/03/14
+OFBIZ-5327,Improvement,Closed,Incomplete,23/09/13,25/03/14
+OFBIZ-5208,Improvement,Closed,Incomplete,02/06/13,25/03/14
+OFBIZ-5243,Improvement,Closed,Incomplete,23/06/13,25/03/14
+OFBIZ-5596,Wish,Closed,Not A Problem,25/03/14,25/03/14
+OFBIZ-5593,Improvement,Closed,Implemented,23/03/14,24/03/14
+OFBIZ-5582,Improvement,Closed,Invalid,17/03/14,17/03/14
+OFBIZ-5348,Improvement,Closed,Invalid,10/10/13,11/03/14
+OFBIZ-5530,Improvement,Closed,Implemented,06/02/14,06/02/14
+OFBIZ-5307,Improvement,Closed,Not A Problem,05/09/13,04/02/14
+OFBIZ-5440,Improvement,Closed,Invalid,19/12/13,22/01/14
+OFBIZ-5437,Improvement,Closed,Invalid,17/12/13,22/01/14
+OFBIZ-5489,Wish,Closed,Not A Problem,15/01/14,18/01/14
+OFBIZ-5462,Improvement,Closed,Duplicate,06/01/14,07/01/14
+OFBIZ-5407,Improvement,Closed,Fixed,27/11/13,12/12/13
+OFBIZ-5405,Improvement,Closed,Fixed,26/11/13,11/12/13
+OFBIZ-5374,Improvement,Closed,Implemented,29/10/13,29/10/13
+OFBIZ-5251,Improvement,Closed,Won't Fix,28/06/13,24/10/13
+OFBIZ-5369,Improvement,Closed,Fixed,23/10/13,23/10/13
+OFBIZ-5366,Improvement,Closed,Implemented,19/10/13,20/10/13
+OFBIZ-5225,Wish,Closed,Incomplete,14/06/13,03/09/13
+OFBIZ-5342,Improvement,Closed,Fixed,08/10/13,08/10/13
+OFBIZ-5209,Improvement,Closed,Implemented,03/06/13,17/06/13
+OFBIZ-5244,Improvement,Closed,Fixed,23/06/13,11/08/13
+OFBIZ-5190,Improvement,Closed,Fixed,10/05/13,28/06/13
+OFBIZ-5260,Improvement,Closed,Implemented,11/07/13,11/07/13
+OFBIZ-5253,Improvement,Closed,Implemented,30/06/13,01/07/13
+OFBIZ-5249,Improvement,Closed,Fixed,28/06/13,28/06/13
+OFBIZ-5247,Improvement,Closed,Fixed,27/06/13,27/06/13
+OFBIZ-5237,Improvement,Closed,Implemented,22/06/13,22/06/13
+OFBIZ-5236,Improvement,Closed,Implemented,22/06/13,22/06/13
+OFBIZ-5031,Improvement,Closed,Fixed,10/09/12,15/06/13
+OFBIZ-5226,Improvement,Closed,Fixed,14/06/13,15/06/13
+OFBIZ-5211,Improvement,Closed,Fixed,05/06/13,11/06/13
+OFBIZ-5207,Improvement,Closed,Fixed,01/06/13,09/06/13
+OFBIZ-5176,Improvement,Closed,Fixed,11/04/13,03/06/13
+OFBIZ-5123,Improvement,Closed,Won't Fix,09/01/13,14/01/13
+OFBIZ-5198,New Feature,Closed,Implemented,21/05/13,23/05/13
+OFBIZ-5181,Improvement,Closed,Fixed,17/04/13,22/04/13
+OFBIZ-5187,Improvement,Closed,Fixed,05/05/13,06/05/13
+OFBIZ-5010,Improvement,Closed,Fixed,14/08/12,09/11/12
+OFBIZ-5182,Improvement,Closed,Fixed,19/04/13,22/04/13
+OFBIZ-5141,Improvement,Closed,Fixed,24/02/13,20/04/13
+OFBIZ-5173,Improvement,Closed,Fixed,08/04/13,20/04/13
+OFBIZ-5001,Improvement,Closed,Fixed,10/08/12,20/04/13
+OFBIZ-5180,Improvement,Closed,Fixed,17/04/13,17/04/13
+OFBIZ-5009,New Feature,Closed,Implemented,14/08/12,06/04/13
+OFBIZ-5172,Improvement,Closed,Fixed,07/04/13,07/04/13
+OFBIZ-5171,Improvement,Closed,Fixed,05/04/13,05/04/13
+OFBIZ-5155,Improvement,Closed,Fixed,15/03/13,25/03/13
+OFBIZ-5154,Improvement,Closed,Fixed,15/03/13,25/03/13
+OFBIZ-5162,Wish,Closed,Invalid,25/03/13,25/03/13
+OFBIZ-5161,Wish,Closed,Invalid,24/03/13,24/03/13
+OFBIZ-5143,Improvement,Closed,Not A Problem,27/02/13,13/03/13
+OFBIZ-5147,Improvement,Closed,Fixed,03/03/13,04/03/13
+OFBIZ-5136,Improvement,Closed,Fixed,15/02/13,16/02/13
+OFBIZ-5137,Improvement,Closed,Fixed,16/02/13,20/02/13
+OFBIZ-5109,Improvement,Closed,Fixed,24/12/12,13/01/13
+OFBIZ-5132,Improvement,Closed,Fixed,10/02/13,16/02/13
+OFBIZ-5134,Improvement,Closed,Fixed,14/02/13,16/02/13
+OFBIZ-5127,Improvement,Closed,Fixed,29/01/13,30/01/13
+OFBIZ-5126,Improvement,Closed,Fixed,24/01/13,25/01/13
+OFBIZ-5108,Improvement,Closed,Fixed,20/12/12,08/01/13
+OFBIZ-5092,Wish,Closed,Won't Fix,03/12/12,21/12/12
+OFBIZ-5091,Improvement,Closed,Fixed,03/12/12,10/12/12
+OFBIZ-5087,Improvement,Closed,Fixed,27/11/12,03/12/12
+OFBIZ-5078,Improvement,Closed,Fixed,20/11/12,26/11/12
+OFBIZ-5077,Improvement,Closed,Fixed,19/11/12,26/11/12
+OFBIZ-5079,Improvement,Closed,Won't Fix,20/11/12,26/11/12
+OFBIZ-5084,Wish,Closed,Not A Problem,25/11/12,25/11/12
+OFBIZ-5061,Improvement,Closed,Fixed,25/10/12,23/11/12
+OFBIZ-5051,Improvement,Closed,Duplicate,13/10/12,09/11/12
+OFBIZ-5015,Improvement,Closed,Implemented,20/08/12,20/08/12
+OFBIZ-5049,Improvement,Closed,Fixed,09/10/12,16/10/12
+OFBIZ-5037,Improvement,Closed,Fixed,18/09/12,27/09/12
+OFBIZ-5032,Improvement,Closed,Fixed,11/09/12,11/09/12
+OFBIZ-5021,New Feature,Closed,Fixed,30/08/12,05/09/12
+OFBIZ-5020,Improvement,Closed,Fixed,29/08/12,02/09/12
+OFBIZ-5011,Improvement,Closed,Fixed,15/08/12,27/08/12
+OFBIZ-5007,Improvement,Closed,Fixed,13/08/12,13/08/12
+OFBIZ-6206,Improvement,Closed,Fixed,24/03/15,17/05/18
+OFBIZ-6854,Improvement,Closed,Done,24/01/16,24/01/16
+OFBIZ-6264,Improvement,Closed,Incomplete,19/04/15,21/04/18
+OFBIZ-6097,Improvement,Closed,Duplicate,23/02/15,21/04/18
+OFBIZ-6085,Improvement,Closed,Not A Problem,18/02/15,21/04/18
+OFBIZ-6882,Improvement,Closed,Implemented,05/02/16,08/02/16
+OFBIZ-6701,Improvement,Closed,Fixed,26/10/15,07/04/16
+OFBIZ-6963,Improvement,Closed,Won't Do,28/03/16,23/12/17
+OFBIZ-6759,Improvement,Closed,Duplicate,09/12/15,18/10/17
+OFBIZ-6457,Improvement,Closed,Implemented,05/06/15,18/10/17
+OFBIZ-6556,Improvement,Closed,Invalid,09/07/15,18/10/17
+OFBIZ-6848,Improvement,Closed,Implemented,22/01/16,22/01/16
+OFBIZ-6273,Improvement,Closed,Done,22/04/15,13/08/17
+OFBIZ-6401,New Feature,Closed,Implemented,22/05/15,11/08/17
+OFBIZ-6802,Improvement,Closed,Fixed,15/01/16,20/02/16
+OFBIZ-6958,Improvement,Closed,Implemented,24/03/16,25/03/16
+OFBIZ-6223,Improvement,Closed,Done,29/03/15,18/04/15
+OFBIZ-6972,Improvement,Closed,Fixed,30/03/16,04/04/16
+OFBIZ-6783,Improvement,Closed,Implemented,30/12/15,04/07/16
+OFBIZ-6971,Improvement,Closed,Fixed,30/03/16,04/04/16
+OFBIZ-6738,Improvement,Closed,Done,19/11/15,11/05/16
+OFBIZ-6016,Improvement,Closed,Fixed,19/01/15,20/01/15
+OFBIZ-6018,Improvement,Closed,Done,19/01/15,20/01/15
+OFBIZ-6019,Improvement,Closed,Done,19/01/15,20/01/15
+OFBIZ-6020,Improvement,Closed,Done,19/01/15,20/01/15
+OFBIZ-6030,Improvement,Closed,Fixed,22/01/15,23/01/15
+OFBIZ-6107,Improvement,Closed,Fixed,24/02/15,21/11/15
+OFBIZ-6121,Improvement,Closed,Done,01/03/15,01/03/15
+OFBIZ-6124,Improvement,Closed,Done,01/03/15,05/03/15
+OFBIZ-6122,Improvement,Closed,Done,01/03/15,04/03/15
+OFBIZ-6171,Improvement,Closed,Fixed,18/03/15,21/11/15
+OFBIZ-6303,Improvement,Closed,Done,25/04/15,15/08/16
+OFBIZ-6332,Improvement,Closed,Done,06/05/15,27/05/15
+OFBIZ-6470,Improvement,Closed,Implemented,07/06/15,07/06/15
+OFBIZ-6593,Improvement,Closed,Done,01/09/15,01/09/15
+OFBIZ-6598,Improvement,Closed,Done,03/09/15,21/09/15
+OFBIZ-6876,Improvement,Closed,Done,03/02/16,20/03/16
+OFBIZ-6890,Improvement,Closed,Implemented,10/02/16,22/03/16
+OFBIZ-6865,Improvement,Closed,Implemented,31/01/16,01/02/16
+OFBIZ-6875,Improvement,Closed,Fixed,03/02/16,08/02/16
+OFBIZ-6962,Improvement,Closed,Done,27/03/16,28/03/16
+OFBIZ-6924,Improvement,Closed,Fixed,08/03/16,17/03/16
+OFBIZ-6954,Improvement,Closed,Done,23/03/16,25/03/16
+OFBIZ-6477,Improvement,Closed,Invalid,08/06/15,17/04/17
+OFBIZ-6691,Improvement,Closed,Pending Closed,20/10/15,22/10/15
+OFBIZ-6919,New Feature,Closed,Implemented,01/03/16,28/01/17
+OFBIZ-6488,Improvement,Closed,Incomplete,08/06/15,17/12/16
+OFBIZ-6458,Improvement,Closed,Done,05/06/15,27/10/15
+OFBIZ-6210,Improvement,Closed,Won't Fix,25/03/15,13/10/16
+OFBIZ-6312,Improvement,Closed,Fixed,28/04/15,27/05/15
+OFBIZ-6899,New Feature,Closed,Fixed,16/02/16,02/09/16
+OFBIZ-6125,Improvement,Closed,Done,02/03/15,15/07/16
+OFBIZ-6476,Improvement,Closed,Implemented,08/06/15,08/06/15
+OFBIZ-6274,Improvement,Closed,Implemented,22/04/15,18/07/16
+OFBIZ-6302,Improvement,Closed,Fixed,25/04/15,17/07/16
+OFBIZ-6224,Improvement,Closed,Done,29/03/15,15/07/16
+OFBIZ-6907,Improvement,Closed,Later,19/02/16,06/07/16
+OFBIZ-6271,Improvement,Closed,Pending Closed,20/04/15,06/07/16
+OFBIZ-6214,Improvement,Closed,Fixed,26/03/15,05/07/16
+OFBIZ-6931,New Feature,Closed,Implemented,14/03/16,29/05/16
+OFBIZ-6144,Improvement,Closed,Resolved,11/03/15,26/06/16
+OFBIZ-6745,Improvement,Closed,Done,23/11/15,13/01/16
+OFBIZ-6213,Improvement,Closed,Cannot Reproduce,25/03/15,19/06/16
+OFBIZ-6940,New Feature,Closed,Fixed,18/03/16,18/06/16
+OFBIZ-6215,Improvement,Closed,Fixed,26/03/15,08/06/16
+OFBIZ-6361,Improvement,Closed,Fixed,13/05/15,03/06/16
+OFBIZ-6258,Improvement,Closed,Fixed,17/04/15,19/05/15
+OFBIZ-6521,Improvement,Closed,Fixed,20/06/15,26/06/15
+OFBIZ-6305,Improvement,Closed,Implemented,28/04/15,20/06/15
+OFBIZ-6319,Improvement,Closed,Implemented,30/04/15,20/06/15
+OFBIZ-6420,Improvement,Closed,Fixed,26/05/15,28/05/15
+OFBIZ-6647,Improvement,Closed,Not A Problem,21/09/15,22/09/15
+OFBIZ-6515,Improvement,Closed,Fixed,18/06/15,19/09/15
+OFBIZ-6631,Improvement,Closed,Fixed,19/09/15,19/09/15
+OFBIZ-6621,Improvement,Closed,Fixed,16/09/15,19/09/15
+OFBIZ-6373,Improvement,Closed,Fixed,15/05/15,19/05/15
+OFBIZ-6504,Improvement,Closed,Fixed,16/06/15,29/07/15
+OFBIZ-6328,Improvement,Closed,Fixed,04/05/15,14/06/16
+OFBIZ-6810,Improvement,Closed,Fixed,17/01/16,08/06/16
+OFBIZ-6026,Improvement,Closed,Done,22/01/15,31/05/16
+OFBIZ-6895,Improvement,Closed,Done,14/02/16,21/05/16
+OFBIZ-6105,Improvement,Closed,Fixed,24/02/15,21/05/16
+OFBIZ-6364,Improvement,Closed,Fixed,14/05/15,21/05/16
+OFBIZ-6109,Improvement,Closed,Cannot Reproduce,24/02/15,19/05/16
+OFBIZ-6307,Improvement,Closed,Implemented,28/04/15,30/04/16
+OFBIZ-6762,Improvement,Closed,Fixed,10/12/15,11/12/15
+OFBIZ-6692,Improvement,Closed,Done,21/10/15,19/04/16
+OFBIZ-6841,Improvement,Closed,Fixed,17/01/16,16/04/16
+OFBIZ-6238,Improvement,Closed,Fixed,09/04/15,20/05/15
+OFBIZ-6990,Improvement,Closed,Implemented,07/04/16,13/04/16
+OFBIZ-6978,Improvement,Closed,Unresolved,03/04/16,07/04/16
+OFBIZ-6982,Improvement,Closed,Duplicate,04/04/16,04/04/16
+OFBIZ-6968,Improvement,Closed,Implemented,30/03/16,04/04/16
+OFBIZ-6106,Improvement,Closed,Cannot Reproduce,24/02/15,28/03/16
+OFBIZ-6096,Improvement,Closed,Cannot Reproduce,23/02/15,28/03/16
+OFBIZ-6208,Improvement,Closed,Done,25/03/15,27/03/16
+OFBIZ-6938,Improvement,Closed,Done,17/03/16,20/03/16
+OFBIZ-6892,Improvement,Closed,Implemented,11/02/16,19/03/16
+OFBIZ-6923,Improvement,Closed,Fixed,08/03/16,16/03/16
+OFBIZ-6909,Improvement,Closed,Fixed,20/02/16,20/02/16
+OFBIZ-6911,Improvement,Closed,Fixed,20/02/16,20/02/16
+OFBIZ-6012,Improvement,Closed,Fixed,19/01/15,20/02/16
+OFBIZ-6908,Improvement,Closed,Fixed,20/02/16,20/02/16
+OFBIZ-6311,Improvement,Closed,Fixed,28/04/15,20/02/16
+OFBIZ-6906,Improvement,Closed,Fixed,17/02/16,20/02/16
+OFBIZ-6885,Improvement,Closed,Implemented,07/02/16,08/02/16
+OFBIZ-6843,Improvement,Closed,Implemented,19/01/16,03/02/16
+OFBIZ-6877,Improvement,Closed,Invalid,03/02/16,03/02/16
+OFBIZ-6869,Improvement,Closed,Fixed,02/02/16,02/02/16
+OFBIZ-6873,Improvement,Closed,Done,02/02/16,03/02/16
+OFBIZ-6868,Improvement,Closed,Done,02/02/16,02/02/16
+OFBIZ-6863,Improvement,Closed,Invalid,29/01/16,30/01/16
+OFBIZ-6790,Improvement,Closed,Implemented,08/01/16,29/01/16
+OFBIZ-6855,Improvement,Closed,Not A Problem,25/01/16,25/01/16
+OFBIZ-6592,Improvement,Closed,Done,01/09/15,27/01/16
+OFBIZ-6857,New Feature,Closed,Implemented,27/01/16,27/01/16
+OFBIZ-6853,Improvement,Closed,Done,22/01/16,22/01/16
+OFBIZ-6852,Improvement,Closed,Done,22/01/16,22/01/16
+OFBIZ-6851,Improvement,Closed,Done,22/01/16,22/01/16
+OFBIZ-6850,Improvement,Closed,Done,22/01/16,22/01/16
+OFBIZ-6735,Improvement,Closed,Fixed,17/11/15,16/01/16
+OFBIZ-6787,Wish,Closed,Not A Problem,04/01/16,04/01/16
+OFBIZ-6525,Improvement,Closed,Fixed,23/06/15,21/12/15
+OFBIZ-6551,Improvement,Closed,Cannot Reproduce,07/07/15,20/12/15
+OFBIZ-6185,Improvement,Closed,Fixed,19/03/15,19/12/15
+OFBIZ-6539,Improvement,Closed,Fixed,26/06/15,19/12/15
+OFBIZ-6777,Improvement,Closed,Fixed,19/12/15,19/12/15
+OFBIZ-6773,Improvement,Closed,Fixed,16/12/15,16/12/15
+OFBIZ-6772,Improvement,Closed,Fixed,16/12/15,16/12/15
+OFBIZ-6727,Improvement,Closed,Fixed,16/11/15,16/11/15
+OFBIZ-6696,Improvement,Closed,Done,22/10/15,09/12/15
+OFBIZ-6748,Improvement,Closed,Done,30/11/15,30/11/15
+OFBIZ-6750,New Feature,Closed,Invalid,01/12/15,01/12/15
+OFBIZ-6744,Improvement,Closed,Implemented,23/11/15,23/11/15
+OFBIZ-6320,Improvement,Closed,Implemented,30/04/15,23/11/15
+OFBIZ-6318,Improvement,Closed,Invalid,30/04/15,23/11/15
+OFBIZ-6241,Improvement,Closed,Fixed,11/04/15,21/11/15
+OFBIZ-6718,Improvement,Closed,Not A Problem,11/11/15,20/11/15
+OFBIZ-6732,Improvement,Closed,Done,17/11/15,17/11/15
+OFBIZ-6721,Improvement,Closed,Done,13/11/15,13/11/15
+OFBIZ-6719,Improvement,Closed,Done,12/11/15,12/11/15
+OFBIZ-6527,Improvement,Closed,Implemented,23/06/15,10/11/15
+OFBIZ-6714,Improvement,Closed,Fixed,09/11/15,09/11/15
+OFBIZ-6044,Improvement,Closed,Implemented,30/01/15,20/06/15
+OFBIZ-6368,Improvement,Closed,Fixed,14/05/15,19/05/15
+OFBIZ-6389,Improvement,Closed,Fixed,19/05/15,19/05/15
+OFBIZ-6393,Improvement,Closed,Fixed,19/05/15,19/05/15
+OFBIZ-6410,Improvement,Closed,Won't Fix,24/05/15,25/05/15
+OFBIZ-6416,Improvement,Closed,Won't Fix,26/05/15,26/05/15
+OFBIZ-6564,Improvement,Closed,Fixed,30/07/15,30/07/15
+OFBIZ-6702,Improvement,Closed,Implemented,28/10/15,05/11/15
+OFBIZ-6523,Improvement,Closed,Done,20/06/15,05/11/15
+OFBIZ-6710,Improvement,Closed,Done,04/11/15,04/11/15
+OFBIZ-6673,Improvement,Closed,Fixed,13/10/15,03/11/15
+OFBIZ-6514,Improvement,Closed,Done,17/06/15,01/11/15
+OFBIZ-6513,Improvement,Closed,Done,17/06/15,01/11/15
+OFBIZ-6672,Improvement,Closed,Fixed,13/10/15,13/10/15
+OFBIZ-6354,Improvement,Closed,Implemented,11/05/15,27/10/15
+OFBIZ-6699,Improvement,Closed,Fixed,23/10/15,26/10/15
+OFBIZ-6423,Improvement,Closed,Done,27/05/15,25/10/15
+OFBIZ-6422,Improvement,Closed,Implemented,27/05/15,25/10/15
+OFBIZ-6700,Improvement,Closed,Implemented,23/10/15,24/10/15
+OFBIZ-6443,Improvement,Closed,Implemented,03/06/15,23/10/15
+OFBIZ-6407,Improvement,Closed,Incomplete,23/05/15,23/10/15
+OFBIZ-6177,Improvement,Closed,Fixed,19/03/15,22/10/15
+OFBIZ-6379,Improvement,Closed,Won't Fix,16/05/15,21/10/15
+OFBIZ-6153,Improvement,Closed,Fixed,14/03/15,20/10/15
+OFBIZ-6405,Improvement,Closed,Fixed,22/05/15,16/10/15
+OFBIZ-6355,Improvement,Closed,Implemented,11/05/15,20/09/15
+OFBIZ-6356,Improvement,Closed,Done,11/05/15,20/09/15
+OFBIZ-6438,Improvement,Closed,Fixed,01/06/15,19/09/15
+OFBIZ-6616,Improvement,Closed,Duplicate,13/09/15,13/09/15
+OFBIZ-6478,Improvement,Closed,Fixed,08/06/15,09/09/15
+OFBIZ-6608,Improvement,Closed,Done,06/09/15,09/09/15
+OFBIZ-6596,Improvement,Closed,Fixed,02/09/15,05/09/15
+OFBIZ-6597,Improvement,Closed,Done,03/09/15,04/09/15
+OFBIZ-6135,New Feature,Closed,Fixed,04/03/15,30/06/15
+OFBIZ-6566,Improvement,Closed,Fixed,30/07/15,17/08/15
+OFBIZ-6575,Improvement,Closed,Not A Problem,13/08/15,13/08/15
+OFBIZ-6545,Improvement,Closed,Implemented,02/07/15,26/07/15
+OFBIZ-6532,Improvement,Closed,Implemented,25/06/15,25/06/15
+OFBIZ-6198,Improvement,Closed,Implemented,20/03/15,24/06/15
+OFBIZ-6528,New Feature,Closed,Implemented,24/06/15,24/06/15
+OFBIZ-6529,Improvement,Closed,Not A Problem,24/06/15,24/06/15
+OFBIZ-6518,Improvement,Closed,Fixed,20/06/15,22/06/15
+OFBIZ-6519,Improvement,Closed,Fixed,20/06/15,21/06/15
+OFBIZ-6489,Improvement,Closed,Implemented,08/06/15,20/06/15
+OFBIZ-6524,Improvement,Closed,Done,20/06/15,20/06/15
+OFBIZ-6490,Improvement,Closed,Implemented,09/06/15,20/06/15
+OFBIZ-6227,Improvement,Closed,Implemented,31/03/15,20/06/15
+OFBIZ-6402,Improvement,Closed,Implemented,22/05/15,20/06/15
+OFBIZ-6503,Improvement,Closed,Won't Fix,15/06/15,15/06/15
+OFBIZ-6475,Improvement,Closed,Implemented,07/06/15,15/06/15
+OFBIZ-6494,New Feature,Closed,Fixed,10/06/15,10/06/15
+OFBIZ-6403,Improvement,Closed,Done,22/05/15,04/06/15
+OFBIZ-6481,Improvement,Closed,Implemented,08/06/15,08/06/15
+OFBIZ-6483,Improvement,Closed,Implemented,08/06/15,08/06/15
+OFBIZ-6479,Improvement,Closed,Implemented,08/06/15,08/06/15
+OFBIZ-6482,Improvement,Closed,Not A Problem,08/06/15,08/06/15
+OFBIZ-6463,Improvement,Closed,Implemented,06/06/15,06/06/15
+OFBIZ-6456,Improvement,Closed,Won't Fix,05/06/15,06/06/15
+OFBIZ-6464,Improvement,Closed,Implemented,06/06/15,06/06/15
+OFBIZ-6469,Improvement,Closed,Won't Fix,06/06/15,06/06/15
+OFBIZ-6468,Improvement,Closed,Won't Fix,06/06/15,06/06/15
+OFBIZ-6465,Improvement,Closed,Implemented,06/06/15,06/06/15
+OFBIZ-6459,Improvement,Closed,Implemented,05/06/15,05/06/15
+OFBIZ-6432,Improvement,Closed,Fixed,30/05/15,05/06/15
+OFBIZ-6447,Improvement,Closed,Implemented,04/06/15,04/06/15
+OFBIZ-6446,Improvement,Closed,Implemented,04/06/15,04/06/15
+OFBIZ-6445,Improvement,Closed,Implemented,04/06/15,04/06/15
+OFBIZ-6315,Improvement,Closed,Fixed,29/04/15,04/06/15
+OFBIZ-6417,Improvement,Closed,Fixed,26/05/15,29/05/15
+OFBIZ-6415,Improvement,Closed,Fixed,26/05/15,28/05/15
+OFBIZ-6426,Improvement,Closed,Duplicate,27/05/15,27/05/15
+OFBIZ-6411,Improvement,Closed,Cannot Reproduce,24/05/15,26/05/15
+OFBIZ-6395,Improvement,Closed,Implemented,20/05/15,21/05/15
+OFBIZ-6371,Improvement,Closed,Done,15/05/15,19/05/15
+OFBIZ-6291,Improvement,Closed,Fixed,23/04/15,18/05/15
+OFBIZ-6372,Improvement,Closed,Duplicate,15/05/15,15/05/15
+OFBIZ-6370,Improvement,Closed,Fixed,15/05/15,15/05/15
+OFBIZ-6217,Improvement,Closed,Implemented,27/03/15,01/05/15
+OFBIZ-6268,Improvement,Closed,Fixed,19/04/15,30/04/15
+OFBIZ-6272,Wish,Closed,Invalid,22/04/15,27/04/15
+OFBIZ-6061,Improvement,Closed,Duplicate,06/02/15,10/02/15
+OFBIZ-6232,New Feature,Closed,Implemented,06/04/15,06/04/15
+OFBIZ-6108,Improvement,Closed,Invalid,24/02/15,01/04/15
+OFBIZ-6148,Improvement,Closed,Implemented,13/03/15,20/03/15
+OFBIZ-6176,Improvement,Closed,Done,19/03/15,19/03/15
+OFBIZ-6163,Improvement,Closed,Invalid,16/03/15,17/03/15
+OFBIZ-6118,Improvement,Closed,Fixed,27/02/15,16/03/15
+OFBIZ-6150,Improvement,Closed,Won't Fix,13/03/15,14/03/15
+OFBIZ-6137,Improvement,Closed,Invalid,06/03/15,07/03/15
+OFBIZ-6130,Improvement,Closed,Not A Problem,04/03/15,04/03/15
+OFBIZ-6104,Improvement,Closed,Implemented,24/02/15,24/02/15
+OFBIZ-6059,Improvement,Closed,Done,05/02/15,17/02/15
+OFBIZ-6021,Improvement,Closed,Invalid,20/01/15,17/02/15
+OFBIZ-6029,Improvement,Closed,Invalid,22/01/15,17/02/15
+OFBIZ-6069,Improvement,Closed,Done,11/02/15,13/02/15
+OFBIZ-6062,Improvement,Closed,Done,06/02/15,06/02/15
+OFBIZ-6055,New Feature,Closed,Invalid,03/02/15,03/02/15
+OFBIZ-6053,Wish,Closed,Invalid,02/02/15,02/02/15
+OFBIZ-6047,Improvement,Closed,Done,30/01/15,30/01/15
+OFBIZ-7627,Improvement,Closed,Implemented,27/06/16,22/09/18
+OFBIZ-7196,Improvement,Closed,Implemented,06/06/16,14/09/18
+OFBIZ-7037,Improvement,Closed,Fixed,04/05/16,11/09/18
+OFBIZ-7598,Improvement,Closed,Fixed,24/06/16,31/08/18
+OFBIZ-7482,New Feature,Closed,Fixed,18/06/16,18/08/18
+OFBIZ-7597,Improvement,Closed,Fixed,24/06/16,15/10/16
+OFBIZ-7366,Improvement,Closed,Won't Do,16/06/16,12/05/18
+OFBIZ-7713,New Feature,Closed,Fixed,02/07/16,02/05/18
+OFBIZ-7073,New Feature,Closed,Fixed,18/05/16,25/01/18
+OFBIZ-7611,Improvement,Closed,Implemented,27/06/16,08/02/18
+OFBIZ-7183,Improvement,Closed,Fixed,04/06/16,27/01/18
+OFBIZ-7534,Improvement,Closed,Fixed,21/06/16,01/09/16
+OFBIZ-7974,Improvement,Closed,Won't Do,26/08/16,07/01/18
+OFBIZ-7792,Improvement,Closed,Implemented,14/07/16,16/11/17
+OFBIZ-7606,Improvement,Closed,Done,26/06/16,11/11/17
+OFBIZ-7322,Improvement,Closed,Fixed,13/06/16,08/11/17
+OFBIZ-7334,Improvement,Closed,Done,13/06/16,28/10/17
+OFBIZ-7722,Improvement,Closed,Fixed,02/07/16,28/10/17
+OFBIZ-7402,Improvement,Closed,Fixed,18/06/16,08/12/16
+OFBIZ-7120,New Feature,Closed,Fixed,25/05/16,27/05/17
+OFBIZ-7828,Improvement,Closed,Done,16/07/16,24/07/17
+OFBIZ-7012,New Feature,Resolved,Fixed,16/04/16,05/11/16
+OFBIZ-7092,Improvement,Closed,Fixed,21/05/16,30/05/16
+OFBIZ-7496,Improvement,Closed,Fixed,20/06/16,08/07/17
+OFBIZ-7321,Improvement,Closed,Done,13/06/16,13/06/16
+OFBIZ-7793,Improvement,Closed,Unresolved,14/07/16,29/07/16
+OFBIZ-7919,Improvement,Closed,Done,20/07/16,22/07/16
+OFBIZ-7727,Improvement,Closed,Done,04/07/16,23/10/16
+OFBIZ-7705,Improvement,Closed,Fixed,02/07/16,05/07/16
+OFBIZ-7040,Improvement,Closed,Fixed,04/05/16,17/12/16
+OFBIZ-7272,Improvement,Closed,Fixed,09/06/16,27/08/16
+OFBIZ-7920,Improvement,Closed,Implemented,20/07/16,28/08/16
+OFBIZ-7925,Improvement,Closed,Done,22/07/16,22/07/16
+OFBIZ-7956,Improvement,Closed,Done,15/08/16,02/09/16
+OFBIZ-7452,Improvement,Closed,Implemented,18/06/16,18/04/17
+OFBIZ-7220,Improvement,Closed,Implemented,08/06/16,18/04/17
+OFBIZ-7121,Improvement,Closed,Won't Fix,25/05/16,16/04/17
+OFBIZ-7850,Improvement,Closed,Implemented,16/07/16,15/04/17
+OFBIZ-7835,Improvement,Closed,Implemented,16/07/16,15/04/17
+OFBIZ-7964,Improvement,Closed,Not A Problem,20/08/16,20/03/17
+OFBIZ-7395,Improvement,Closed,Duplicate,18/06/16,18/02/17
+OFBIZ-7511,Improvement,Closed,Fixed,20/06/16,18/02/17
+OFBIZ-7791,Improvement,Closed,Done,14/07/16,17/02/17
+OFBIZ-7061,Improvement,Closed,Fixed,09/05/16,11/02/17
+OFBIZ-7972,Improvement,Closed,Fixed,25/08/16,12/01/17
+OFBIZ-7310,Improvement,Closed,Done,12/06/16,12/06/16
+OFBIZ-7559,Improvement,Closed,Fixed,23/06/16,05/11/16
+OFBIZ-7973,Improvement,Closed,Fixed,25/08/16,25/08/16
+OFBIZ-7725,Improvement,Closed,Done,04/07/16,18/11/16
+OFBIZ-7824,Improvement,Closed,Not A Problem,16/07/16,15/11/16
+OFBIZ-7539,Improvement,Closed,Done,22/06/16,05/11/16
+OFBIZ-7542,Improvement,Closed,Fixed,22/06/16,17/09/16
+OFBIZ-7649,Improvement,Closed,Fixed,28/06/16,17/09/16
+OFBIZ-7172,New Feature,Closed,Fixed,04/06/16,05/11/16
+OFBIZ-7108,New Feature,Closed,Fixed,21/05/16,05/11/16
+OFBIZ-7521,Improvement,Closed,Done,21/06/16,05/11/16
+OFBIZ-7648,Improvement,Closed,Done,28/06/16,05/11/16
+OFBIZ-7472,Improvement,Closed,Implemented,18/06/16,27/10/16
+OFBIZ-7486,Improvement,Closed,Implemented,20/06/16,27/10/16
+OFBIZ-7969,New Feature,Closed,Fixed,22/08/16,23/10/16
+OFBIZ-7359,Improvement,Closed,Fixed,16/06/16,15/10/16
+OFBIZ-7777,Improvement,Closed,Fixed,11/07/16,15/10/16
+OFBIZ-7798,Improvement,Closed,Implemented,15/07/16,23/09/16
+OFBIZ-7970,Improvement,Closed,Not A Problem,22/08/16,17/09/16
+OFBIZ-7608,Improvement,Closed,Fixed,27/06/16,17/09/16
+OFBIZ-7386,Improvement,Closed,Fixed,18/06/16,18/06/16
+OFBIZ-7788,Improvement,Closed,Implemented,13/07/16,17/09/16
+OFBIZ-7959,Improvement,Closed,Implemented,18/08/16,17/09/16
+OFBIZ-7698,Improvement,Closed,Fixed,01/07/16,17/09/16
+OFBIZ-7394,Improvement,Closed,Fixed,18/06/16,05/09/16
+OFBIZ-7440,Improvement,Closed,Fixed,18/06/16,05/09/16
+OFBIZ-7533,Improvement,Closed,Fixed,21/06/16,05/09/16
+OFBIZ-7475,New Feature,Closed,Fixed,18/06/16,04/09/16
+OFBIZ-7695,Improvement,Closed,Done,01/07/16,03/09/16
+OFBIZ-7251,Improvement,Closed,Fixed,08/06/16,02/09/16
+OFBIZ-7311,Improvement,Closed,Fixed,13/06/16,30/08/16
+OFBIZ-7780,Improvement,Closed,Done,12/07/16,27/08/16
+OFBIZ-7977,Improvement,Closed,Fixed,27/08/16,27/08/16
+OFBIZ-7833,Improvement,Closed,Done,16/07/16,27/08/16
+OFBIZ-7820,Improvement,Closed,Fixed,16/07/16,27/08/16
+OFBIZ-7819,Improvement,Closed,Fixed,16/07/16,27/08/16
+OFBIZ-7918,Improvement,Closed,Fixed,20/07/16,25/08/16
+OFBIZ-7960,Improvement,Closed,Fixed,19/08/16,24/08/16
+OFBIZ-7968,Improvement,Closed,Fixed,22/08/16,23/08/16
+OFBIZ-7967,Improvement,Closed,Done,22/08/16,22/08/16
+OFBIZ-7350,Improvement,Closed,Resolved,15/06/16,28/06/16
+OFBIZ-7953,Improvement,Closed,Done,14/08/16,16/08/16
+OFBIZ-7951,Improvement,Closed,Fixed,12/08/16,15/08/16
+OFBIZ-7944,Improvement,Closed,Implemented,05/08/16,05/08/16
+OFBIZ-7821,Improvement,Closed,Fixed,16/07/16,05/08/16
+OFBIZ-7923,Improvement,Closed,Done,22/07/16,31/07/16
+OFBIZ-7297,Improvement,Closed,Fixed,10/06/16,30/07/16
+OFBIZ-7808,Improvement,Closed,Later,15/07/16,28/07/16
+OFBIZ-7924,Improvement,Closed,Fixed,22/07/16,29/07/16
+OFBIZ-7787,Improvement,Closed,Done,13/07/16,29/07/16
+OFBIZ-7603,Improvement,Closed,Done,25/06/16,22/07/16
+OFBIZ-7254,Improvement,Closed,Fixed,08/06/16,18/07/16
+OFBIZ-7892,Improvement,Closed,Done,18/07/16,18/07/16
+OFBIZ-7790,Improvement,Closed,Fixed,14/07/16,17/07/16
+OFBIZ-7707,Improvement,Closed,Fixed,02/07/16,16/07/16
+OFBIZ-7823,Improvement,Closed,Fixed,16/07/16,16/07/16
+OFBIZ-7168,Improvement,Closed,Fixed,03/06/16,16/07/16
+OFBIZ-7771,New Feature,Closed,Not A Problem,10/07/16,15/07/16
+OFBIZ-7763,Improvement,Closed,Fixed,08/07/16,11/07/16
+OFBIZ-7778,Improvement,Closed,Done,11/07/16,12/07/16
+OFBIZ-7760,Improvement,Closed,Fixed,07/07/16,07/07/16
+OFBIZ-7755,Improvement,Closed,Done,05/07/16,07/07/16
+OFBIZ-7553,Improvement,Closed,Fixed,23/06/16,04/07/16
+OFBIZ-7682,New Feature,Closed,Implemented,29/06/16,05/07/16
+OFBIZ-7342,Improvement,Closed,Done,14/06/16,05/07/16
+OFBIZ-7751,Improvement,Closed,Done,05/07/16,05/07/16
+OFBIZ-7652,Improvement,Closed,Done,28/06/16,05/07/16
+OFBIZ-7654,Improvement,Closed,Done,28/06/16,05/07/16
+OFBIZ-7703,Improvement,Closed,Done,02/07/16,05/07/16
+OFBIZ-7702,Improvement,Closed,Done,02/07/16,05/07/16
+OFBIZ-7634,Improvement,Closed,Fixed,27/06/16,04/07/16
+OFBIZ-7158,Improvement,Closed,Fixed,01/06/16,04/07/16
+OFBIZ-7635,Improvement,Closed,Fixed,27/06/16,04/07/16
+OFBIZ-7258,Improvement,Closed,Fixed,09/06/16,03/07/16
+OFBIZ-7193,Improvement,Closed,Fixed,06/06/16,03/07/16
+OFBIZ-7629,Improvement,Closed,Fixed,27/06/16,03/07/16
+OFBIZ-7560,Improvement,Closed,Fixed,23/06/16,03/07/16
+OFBIZ-7421,Improvement,Closed,Fixed,18/06/16,02/07/16
+OFBIZ-7305,Improvement,Closed,Fixed,10/06/16,02/07/16
+OFBIZ-7484,Improvement,Closed,Fixed,19/06/16,01/07/16
+OFBIZ-7266,Improvement,Closed,Implemented,09/06/16,30/06/16
+OFBIZ-7041,Improvement,Closed,Fixed,05/05/16,07/05/16
+OFBIZ-7655,Improvement,Closed,Fixed,28/06/16,28/06/16
+OFBIZ-7604,Improvement,Closed,Fixed,25/06/16,28/06/16
+OFBIZ-7631,Improvement,Closed,Implemented,27/06/16,27/06/16
+OFBIZ-7633,Improvement,Closed,Implemented,27/06/16,27/06/16
+OFBIZ-7632,Improvement,Closed,Implemented,27/06/16,27/06/16
+OFBIZ-7336,Improvement,Closed,Fixed,13/06/16,27/06/16
+OFBIZ-7564,Improvement,Closed,Fixed,23/06/16,27/06/16
+OFBIZ-7592,Improvement,Closed,Resolved,24/06/16,26/06/16
+OFBIZ-7387,Improvement,Closed,Resolved,18/06/16,26/06/16
+OFBIZ-7173,New Feature,Closed,Fixed,04/06/16,18/06/16
+OFBIZ-7170,Improvement,Closed,Fixed,04/06/16,04/06/16
+OFBIZ-7347,Improvement,Closed,Fixed,14/06/16,24/06/16
+OFBIZ-7516,Improvement,Closed,Fixed,20/06/16,24/06/16
+OFBIZ-7374,New Feature,Closed,Fixed,17/06/16,18/06/16
+OFBIZ-7339,Improvement,Closed,Fixed,14/06/16,23/06/16
+OFBIZ-7122,Improvement,Closed,Fixed,25/05/16,23/06/16
+OFBIZ-7527,Improvement,Closed,Fixed,21/06/16,23/06/16
+OFBIZ-7528,Improvement,Closed,Fixed,21/06/16,23/06/16
+OFBIZ-7530,Improvement,Closed,Fixed,21/06/16,23/06/16
+OFBIZ-7259,Improvement,Closed,Fixed,09/06/16,22/06/16
+OFBIZ-7256,Improvement,Closed,Fixed,09/06/16,22/06/16
+OFBIZ-7332,Improvement,Closed,Fixed,13/06/16,22/06/16
+OFBIZ-7519,Improvement,Closed,Fixed,21/06/16,21/06/16
+OFBIZ-7454,Improvement,Closed,Fixed,18/06/16,18/06/16
+OFBIZ-7187,Improvement,Closed,Fixed,04/06/16,18/06/16
+OFBIZ-7304,Improvement,Closed,Fixed,10/06/16,18/06/16
+OFBIZ-7303,Improvement,Closed,Fixed,10/06/16,18/06/16
+OFBIZ-7302,Improvement,Closed,Fixed,10/06/16,18/06/16
+OFBIZ-7301,Improvement,Closed,Fixed,10/06/16,18/06/16
+OFBIZ-7384,Improvement,Closed,Fixed,18/06/16,18/06/16
+OFBIZ-7381,Improvement,Closed,Fixed,18/06/16,18/06/16
+OFBIZ-7274,Improvement,Closed,Fixed,09/06/16,18/06/16
+OFBIZ-7052,Improvement,Closed,Fixed,07/05/16,07/05/16
+OFBIZ-7047,Improvement,Closed,Fixed,06/05/16,07/05/16
+OFBIZ-7051,New Feature,Closed,Fixed,07/05/16,03/06/16
+OFBIZ-7087,Improvement,Closed,Fixed,21/05/16,04/06/16
+OFBIZ-7260,New Feature,Closed,Fixed,09/06/16,18/06/16
+OFBIZ-7132,Improvement,Closed,Fixed,26/05/16,17/06/16
+OFBIZ-7141,Improvement,Closed,Fixed,30/05/16,31/05/16
+OFBIZ-7218,Improvement,Closed,Fixed,08/06/16,13/06/16
+OFBIZ-7008,New Feature,Closed,Fixed,16/04/16,13/06/16
+OFBIZ-7006,Improvement,Closed,Fixed,16/04/16,13/06/16
+OFBIZ-7027,Improvement,Closed,Fixed,28/04/16,09/06/16
+OFBIZ-7250,Improvement,Closed,Fixed,08/06/16,08/06/16
+OFBIZ-7182,Improvement,Closed,Not A Problem,04/06/16,08/06/16
+OFBIZ-7169,Improvement,Closed,Fixed,04/06/16,06/06/16
+OFBIZ-7139,Improvement,Closed,Fixed,27/05/16,06/06/16
+OFBIZ-7175,Improvement,Closed,Fixed,04/06/16,06/06/16
+OFBIZ-7195,Improvement,Closed,Duplicate,06/06/16,06/06/16
+OFBIZ-7194,Improvement,Closed,Duplicate,06/06/16,06/06/16
+OFBIZ-7177,Improvement,Closed,Fixed,04/06/16,04/06/16
+OFBIZ-7178,Improvement,Closed,Fixed,04/06/16,04/06/16
+OFBIZ-7176,Improvement,Closed,Fixed,04/06/16,04/06/16
+OFBIZ-7154,Improvement,Closed,Fixed,01/06/16,04/06/16
+OFBIZ-7152,Improvement,Closed,Fixed,01/06/16,03/06/16
+OFBIZ-7160,Improvement,Closed,Fixed,02/06/16,02/06/16
+OFBIZ-7079,Improvement,Closed,Fixed,20/05/16,01/06/16
+OFBIZ-7140,New Feature,Closed,Fixed,30/05/16,31/05/16
+OFBIZ-7078,Improvement,Closed,Fixed,20/05/16,20/05/16
+OFBIZ-7118,Improvement,Closed,Fixed,25/05/16,25/05/16
+OFBIZ-7015,Improvement,Closed,Implemented,17/04/16,17/04/16
+OFBIZ-7059,Improvement,Closed,Not A Problem,09/05/16,22/05/16
+OFBIZ-7091,Improvement,Closed,Fixed,21/05/16,21/05/16
+OFBIZ-7048,Improvement,Closed,Fixed,06/05/16,21/05/16
+OFBIZ-7102,Improvement,Closed,Fixed,21/05/16,21/05/16
+OFBIZ-7035,Improvement,Closed,Fixed,04/05/16,21/05/16
+OFBIZ-7054,Improvement,Closed,Fixed,07/05/16,21/05/16
+OFBIZ-7044,Improvement,Closed,Fixed,06/05/16,07/05/16
+OFBIZ-7036,Improvement,Closed,Fixed,04/05/16,07/05/16
+OFBIZ-7043,Improvement,Closed,Fixed,06/05/16,06/05/16
+OFBIZ-7013,Improvement,Closed,Fixed,16/04/16,20/04/16
+OFBIZ-8174,Improvement,Closed,Cannot Reproduce,07/09/16,06/07/18
+OFBIZ-8229,Improvement,Closed,Not A Problem,11/09/16,07/01/18
+OFBIZ-8343,Improvement,Closed,Won't Fix,04/10/16,06/01/18
+OFBIZ-8202,Improvement,Closed,Implemented,09/09/16,26/03/17
+OFBIZ-8831,Improvement,Closed,Implemented,04/11/16,09/07/17
+OFBIZ-8316,Improvement,Closed,Done,22/09/16,11/05/17
+OFBIZ-8293,Improvement,Closed,Done,19/09/16,03/11/16
+OFBIZ-8340,Improvement,Closed,Done,02/10/16,19/11/16
+OFBIZ-8010,Improvement,Closed,Done,27/08/16,27/08/16
+OFBIZ-8016,Improvement,Closed,Done,27/08/16,27/08/16
+OFBIZ-8021,Improvement,Closed,Done,27/08/16,27/08/16
+OFBIZ-8051,Improvement,Closed,Fixed,27/08/16,17/09/16
+OFBIZ-8052,Improvement,Closed,Fixed,27/08/16,17/09/16
+OFBIZ-8054,Improvement,Closed,Fixed,28/08/16,17/09/16
+OFBIZ-8055,Improvement,Closed,Implemented,28/08/16,28/08/16
+OFBIZ-8232,Improvement,Closed,Fixed,12/09/16,17/09/16
+OFBIZ-8537,New Feature,Closed,Resolved,19/10/16,08/12/16
+OFBIZ-8337,Improvement,Closed,Fixed,28/09/16,06/12/16
+OFBIZ-8471,Improvement,Closed,Fixed,15/10/16,05/11/16
+OFBIZ-8160,Improvement,Closed,Fixed,07/09/16,17/09/16
+OFBIZ-8013,Improvement,Closed,Implemented,27/08/16,05/11/16
+OFBIZ-8652,Improvement,Closed,Done,28/10/16,02/11/16
+OFBIZ-8413,Improvement,Closed,Done,13/10/16,27/10/16
+OFBIZ-8623,Improvement,Closed,Done,25/10/16,26/10/16
+OFBIZ-8292,Improvement,Closed,Fixed,19/09/16,20/09/16
+OFBIZ-8324,Improvement,Closed,Done,26/09/16,30/09/16
+OFBIZ-8320,Improvement,Closed,Fixed,23/09/16,23/09/16
+OFBIZ-8299,Improvement,Closed,Implemented,20/09/16,20/09/16
+OFBIZ-8110,Improvement,Closed,Works for Me,01/09/16,18/09/16
+OFBIZ-8048,Improvement,Closed,Fixed,27/08/16,17/09/16
+OFBIZ-8276,Improvement,Closed,Fixed,17/09/16,17/09/16
+OFBIZ-8116,Improvement,Closed,Fixed,02/09/16,17/09/16
+OFBIZ-8262,Improvement,Closed,Fixed,17/09/16,17/09/16
+OFBIZ-8251,Improvement,Closed,Implemented,16/09/16,17/09/16
+OFBIZ-8044,Improvement,Closed,Fixed,27/08/16,16/09/16
+OFBIZ-8244,Improvement,Closed,Done,16/09/16,16/09/16
+OFBIZ-8224,Improvement,Closed,Fixed,09/09/16,12/09/16
+OFBIZ-8179,Improvement,Closed,Fixed,08/09/16,12/09/16
+OFBIZ-8118,Improvement,Closed,Fixed,03/09/16,12/09/16
+OFBIZ-8136,Improvement,Closed,Fixed,04/09/16,11/09/16
+OFBIZ-8182,Improvement,Closed,Resolved,08/09/16,08/09/16
+OFBIZ-8155,Improvement,Closed,Duplicate,07/09/16,07/09/16
+OFBIZ-8142,Improvement,Closed,Fixed,05/09/16,05/09/16
+OFBIZ-8115,Improvement,Closed,Fixed,02/09/16,03/09/16
+OFBIZ-8050,Improvement,Closed,Done,27/08/16,02/09/16
